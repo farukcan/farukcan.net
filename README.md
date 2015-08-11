@@ -1,0 +1,2 @@
+# farukcan.net
+kk
