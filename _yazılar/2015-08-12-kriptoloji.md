@@ -80,4 +80,7 @@ Joan Daemen ve Vincent Rijmen adlı 2 belçikalı bulmuştur. Romadaki AES yarı
 <ul>
 	<li>AES, 2000 yılında çıktı. Keyler 128,196 ve 256 bittir. Blok boyutu 128 bittir.</li>
 </ul>
+<h2>RC4</h2>
+40-2048 bit key sahibi, 256 roundlik bir şifreleme biçimidir.
+
 &nbsp;
