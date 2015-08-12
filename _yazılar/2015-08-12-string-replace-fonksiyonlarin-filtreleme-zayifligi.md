@@ -8,9 +8,15 @@ post_date: 2015-08-12 10:27:08
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2015/08/string-replace-fonksiyonlarin-filtreleme-zayifligi/
+  http://farukcan.net/guvenlikhack/2015/08/string-replace-fonksiyonlarin-filtreleme-zayifligi/
 published: true
+dsq_needs_sync:
+  - "1"
 ---
+Bir çok programlama dilinde var olan, String Replace fonksiyonları, bir kelimenin kullanmasını engellemede çözüm yolu olduğu düşünülse bir bu fonksiyonun bir zayıflığı vardır.
+
+&nbsp;
+
 herhangi bir dilde stringi replace etmeyi deneyelim
 <pre>$id = str_replace('union', '', strtolower($_GET['id']));</pre>
 Bu fonksiyon dışardan aldığı bütün union kelimeleri yok edecektir.
