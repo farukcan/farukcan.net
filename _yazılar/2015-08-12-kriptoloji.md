@@ -54,3 +54,14 @@ Rastgelelilik bir teoridir. Birşeyin rastgele olmasının sebebi, onu hesaplaya
 Bu algoritma mod fonksiyonun geri döndürülemezlik özelliğini kullanır.
 <pre><strong></strong>Xi+1 = (a.Xi+c)modM;</pre>
 Bu C'dilin random sayı üretme algoritmasıdır. a ve c sabit değerdir. (asal sayı olması önerilir) Xi önceki random üretilen sayıdır. M ise aralık boyutudur.
+<h2>Sezar Şifreleme</h2>
+<pre>P : abcd</pre>
+<pre>C : bcda</pre>
+<pre>K : 1</pre>
+Karakterleri alfabede K sonraki harfe kaydırarak şifrelemedir.
+<pre>Cn = (Pn+K)mod(HarfSayısı)</pre>
+<ul>
+	<li>Harfleri frekansı(sıklığı) ölçülerek kolayca çözülebilir. <span style="text-decoration: underline;">Ö</span> : Türkçede en fazla <strong>A</strong> harfi kullanılır. İngilizcede ise <strong>E</strong> harfi kullanılır.</li>
+	<li>Kaba Kuvvet ile Harf Sayısı kadar şifre olasılığı (ö : 29) deneyerekte çözülebilir.</li>
+</ul>
+&nbsp;
