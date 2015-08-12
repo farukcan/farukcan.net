@@ -30,7 +30,7 @@ dsq_needs_sync:
 
 <strong>Encrypt : </strong>Metni şifreleme fiili
 
-<strong>Decrypt </strong>: Şifrelenmiş metni çözme fiili
+<strong>Decrypt </strong>: Şifrelenmiş metni çözme fiili ( - deşifre )
 
 <strong>Base64 </strong>: Verilerin 2^6 lik, 64 karakterle ifadesini sağlar. Bu biçimi binaryler ve ASCIIler çevrilebilmektedir. Genelde sonlarında = veya == bulunur. Herkes tarafından bilinir ve encoding/decoding yapılabilir.
 <h2>Kerckhoff Prensibi</h2>
