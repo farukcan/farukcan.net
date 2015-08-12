@@ -64,7 +64,7 @@ Karakterleri alfabede K sonraki harfe kaydırarak şifrelemedir.
 	<li>Harfleri frekansı(sıklığı) ölçülerek kolayca çözülebilir. <span style="text-decoration: underline;">Ö</span> : Türkçede en fazla <strong>A</strong> harfi kullanılır. İngilizcede ise <strong>E</strong> harfi kullanılır. Bu bilgi dilin son yayılanan makalelerindeki harfler sayılarak elde edilebilir. Metin ne kadar uzunsa , bu yöntemle çözülmesi o kadar kolaydır.</li>
 	<li>Kaba Kuvvet ile Harf Sayısı kadar şifre olasılığı (ö : 29) deneyerekte çözülebilir.</li>
 </ul>
-<h2>Simetrik Şifreleme</h2>
+<h1>Simetrik Şifreleme</h1>
 Tek bir anahtar ile , hem şifreleme hemde deşifreleme işlemi yapmaktır.
 <h2>DES (Veri şifreleme standartı)</h2>
 Herkesin bilebildiği, şifrenin gizliliğine dayalı , IBM tarafından üretilenen bir standart simetrik algoritmadır.  Key 56 bit sabittir.
@@ -82,5 +82,16 @@ Joan Daemen ve Vincent Rijmen adlı 2 belçikalı bulmuştur. Romadaki AES yarı
 </ul>
 <h2>RC4</h2>
 40-2048 bit key sahibi, 256 roundlik bir şifreleme biçimidir.
-
-&nbsp;
+<h1>Asimetrik Şifreleme</h1>
+Şifrelemek için ayrı şifre, şifrelemiş metini çözmek için ayrı şifre gerek şifreleme biçimidir.
+<h2>RSA</h2>
+Asal sayıların kullanıldığı asimetrik şifreleme algoritmasıdır.
+<h2>CBC modu</h2>
+<strong>iv</strong> (initialization vector) : başlangıç vektörü. şifreleme algoritması için gerekli olan başlangıç bilgisidir.(gizlenmelidir) 0. bloktan sonrakiler için gerekmemekte.
+<h2>CFB modu</h2>
+Kendini feedbackleyen moddur.
+<h2></h2>
+<h1>Hash</h1>
+Veriyi özetlemek, doğruluğunu kontrol etmek için kullanılan fonksiyondur. Geri döndürülemez olmamalıdır. Adli işlerde , kanıtların doğruluğunu ve değiştirilmedini kanıtlamak için kullanılır. Hep sabit uzunlukla çıktı verir.
+<h2>md5</h2>
+popüler ve hızlı hash algoritmasıdır. Sözlük saldırısı ile geri döndürebilme ihtimalı vardır. md5("dsadas".text) ile tuzlama yapılarak bundan korunulabilmektedir.
