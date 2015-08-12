@@ -21,7 +21,7 @@ herhangi bir dilde stringi replace etmeyi deneyelim
 <pre>$id = str_replace('union', '', strtolower($_GET['id']));</pre>
 Bu fonksiyon dışardan aldığı bütün union kelimeleri yok edecektir.
 <pre>"union-union"  : "-"</pre>
-fakat bir yinede union kelimesi gönderebiliriz.
+fakat biz yinede union kelimesi gönderebiliriz.
 
 un<span style="color: #ff0000;"><strong>union</strong></span>ion şeklindeki bir kullanımda fonksiyon, unionu yok edip yerine yine union bırakacaktır.
 <pre>"ununionion" : "union"</pre>
