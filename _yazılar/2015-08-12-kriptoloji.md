@@ -6,8 +6,10 @@ post_date: 2015-08-12 12:20:59
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2015/08/kriptoloji/
+  http://farukcan.net/guvenlikhack/2015/08/kriptoloji/
 published: true
+dsq_thread_id:
+  - "4025251374"
 ---
 <strong>Kriptoloji</strong>
 <ol>
@@ -32,7 +34,7 @@ published: true
 <h2>Kerckhoff Prensibi</h2>
 Bir kripto sisteminin güvenliği algoritmayı gizli tutmaya bağlı olmamalıdır. Sadece Key'in gizliliğini bağlı olmalı. Çünkü algoritmayı değiştirmek zordur.
 <h2>XOR</h2>
-Farklı olma durumu arayan kapıdır. 00=1 , 01=1 , 10=1 , 11=0
+Farklı olma durumu arayan kapıdır. 00=0 , 01=1 , 10=1 , 11=0
 <pre>A xor B = A</pre>
 <pre>A xor A = 0</pre>
 <pre>A xor B xor A = B</pre>
@@ -42,6 +44,8 @@ Son kısma dikkat <em>P xor K xor K = P </em>oluyor. Yani XOR ile şifrelemede 
 olsun.  O zaman
 <pre>C1 xor C2 = P1 xor P2</pre>
 Yani Şifrelenmiş iki metni'nin xor, Şifrelenmemiş hallerinin iç içe geçmiş hali olacaktır. Eğer bunu bir resimde yapsaydık, iki resmi içi içe görürdük.
+<h3>OTP (Vernam)</h3>
+<strong>One-time pad</strong> (Tek kullanımlık Şerit): P xor K = C 'nin tektek her bit için kullanıldığı. P ve K şeritlerini alıp C şeridi veren şifreleme türüdür. Sadece bir defa kullanılmalıdır. Kırılmasının imkansız olduğu kanıtlanmıştır.
 <h2>Rastgelelilik</h2>
 Rastgelelilik bir teoridir. Birşeyin rastgele olmasının sebebi, onu hesaplayamamız veya nasıl hesaplanacağını bilmemizdir.
 
