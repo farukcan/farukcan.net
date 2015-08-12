@@ -66,7 +66,7 @@ Karakterleri alfabede K sonraki harfe kaydırarak şifrelemedir.
 </ul>
 <h2>Simetrik Şifreleme</h2>
 Tek bir anahtar ile , hem şifreleme hemde deşifreleme işlemi yapmaktır.
-<h2>DES</h2>
+<h2>DES (Veri şifreleme standartı)</h2>
 Herkesin bilebildiği, şifrenin gizliliğine dayalı , IBM tarafından üretilenen bir standart simetrik algoritmadır.  Key 56 bit sabittir.
 <ul>
 	<li>Permutasyon fonksiyonu ile yer değiştirme yapılır. Bu yüzden metinden bir bit bile değişirse, şifreli metnin neredeyse tamamı değişir.</li>
@@ -75,7 +75,7 @@ Herkesin bilebildiği, şifrenin gizliliğine dayalı , IBM tarafından üretile
 	<li>99da 22 saat 15 dakikada kırılabilmiştir. (Metin : Romada görüşürüz. Herkes AES kullansın.)</li>
 	<li>DES'in açığı bilerek bırakılmamıştır. O dönemde güçlü olduğu düşünülüyordu. (1977)</li>
 </ul>
-<h2>AES</h2>
+<h2>AES (Gelişmiş şifreleme standartı)</h2>
 Joan Daemen ve Vincent Rijmen adlı 2 belçikalı bulmuştur. Romadaki AES yarışmasında birinci olmuştur. (15 algoritmadan)
 <ul>
 	<li>AES, 2000 yılında çıktı. Keyler 128,196 ve 256 bittir. Blok boyutu 128 bittir.</li>
