@@ -13,11 +13,11 @@ published: true
 dsq_needs_sync:
   - "1"
 ---
-Bir çok programlama dilinde var olan, String Replace fonksiyonları, bir kelimenin kullanmasını engellemede çözüm yolu olduğu düşünülse bir bu fonksiyonun bir zayıflığı vardır.
+Bir çok programlama dilinde var olan, String Replace fonksiyonları, bir kelimenin kullanmasını engellemede çözüm yolu olduğu düşünülse bile bu fonksiyonun bir zayıflığı vardır.
 
 &nbsp;
 
-herhangi bir dilde stringi replace etmeyi deneyelim
+herhangi bir dilde stringi replace etmeyi deneyelim. (ö: php)
 <pre>$id = str_replace('union', '', strtolower($_GET['id']));</pre>
 Bu fonksiyon dışardan aldığı bütün union kelimeleri yok edecektir.
 <pre>"union-union"  : "-"</pre>
