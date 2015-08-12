@@ -8,6 +8,8 @@ layout: post
 permalink: >
   http://farukcan.net/algoritmalar/2015/05/asal-sayi-dogrulama/
 published: true
+dsq_thread_id:
+  - "4022869366"
 ---
 <a href="http://farukcan.net/wp-content/uploads/2015/05/prime-numbers-02.jpg"><img src="http://farukcan.net/wp-content/uploads/2015/05/prime-numbers-02.jpg" alt="prime-numbers-02" width="446" height="250" class="alignnone size-full wp-image-208" /></a>Bir sayının asallığını en hızlı şekilde doğrulayan fonksiyondur
 
