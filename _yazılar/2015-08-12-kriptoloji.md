@@ -76,7 +76,7 @@ Herkesin bilebildiği, şifrenin gizliliğine dayalı , IBM tarafından üretile
 	<li>DES'in açığı bilerek bırakılmamıştır. O dönemde güçlü olduğu düşünülüyordu. (1977)</li>
 </ul>
 <h2>AES (Gelişmiş şifreleme standartı)</h2>
-Joan Daemen ve Vincent Rijmen adlı 2 belçikalı bulmuştur. Romadaki AES yarışmasında birinci olmuştur. (15 algoritmadan)
+Joan Daemen ve Vincent Rijmen adlı 2 belçikalı bulmuştur. Romadaki AES yarışmasında birinci olmuştur. (15 algoritmadan) Asıl adı : RIJNDAE
 <ul>
 	<li>AES, 2000 yılında çıktı. Keyler 128,196 ve 256 bittir. Blok boyutu 128 bittir.</li>
 </ul>
