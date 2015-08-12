@@ -10,11 +10,13 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4025251374"
+dsq_needs_sync:
+  - "1"
 ---
-<strong>Kriptoloji</strong>
+<strong>Kriptoloji (Şifreleme Bilimi)</strong>
 <ol>
-	<li>Kriptografi</li>
-	<li>Kriptoanaliz</li>
+	<li>Kriptografi :<em> Şifreleyerek bilgilerimizi gizlemektir.</em></li>
+	<li>Kriptoanaliz : <em>Başkaların şifreli metinlerini inceleyerek, metni elde etmektir</em></li>
 </ol>
 <strong>Encode :</strong> Farklı formata dönüştürme. Utf8 -&gt; Base64,Hex
 
