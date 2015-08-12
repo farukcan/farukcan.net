@@ -38,7 +38,7 @@ Farklı olma durumu arayan kapıdır. 00=0 , 01=1 , 10=1 , 11=0
 <pre>A xor B = A</pre>
 <pre>A xor A = 0</pre>
 <pre>A xor B xor A = B</pre>
-Son kısma dikkat <em>P xor K xor K = P </em>oluyor. Yani XOR ile şifrelemede Key iki defa kullanılamaz.
+Son kısma dikkat ; <em>P xor K xor K = P </em>oluyor. Yani XOR ile şifrelemede Key iki defa kullanılamaz.
 <pre>P1 xor K = C1</pre>
 <pre>P2 xor K = C2</pre>
 olsun.  O zaman
@@ -63,5 +63,21 @@ Karakterleri alfabede K sonraki harfe kaydırarak şifrelemedir.
 <ul>
 	<li>Harfleri frekansı(sıklığı) ölçülerek kolayca çözülebilir. <span style="text-decoration: underline;">Ö</span> : Türkçede en fazla <strong>A</strong> harfi kullanılır. İngilizcede ise <strong>E</strong> harfi kullanılır. Bu bilgi dilin son yayılanan makalelerindeki harfler sayılarak elde edilebilir. Metin ne kadar uzunsa , bu yöntemle çözülmesi o kadar kolaydır.</li>
 	<li>Kaba Kuvvet ile Harf Sayısı kadar şifre olasılığı (ö : 29) deneyerekte çözülebilir.</li>
+</ul>
+<h2>Simetrik Şifreleme</h2>
+Tek bir anahtar ile , hem şifreleme hemde deşifreleme işlemi yapmaktır.
+<h2>DES</h2>
+Herkesin bilebildiği, şifrenin gizliliğine dayalı , IBM tarafından üretilenen bir standart simetrik algoritmadır.  Key 56 bit sabittir.
+<ul>
+	<li>Permutasyon fonksiyonu ile yer değiştirme yapılır. Bu yüzden metinden bir bit bile değişirse, şifreli metnin neredeyse tamamı değişir.</li>
+	<li>Metin ikiye bölünür.(sol,sağ) Keyden subkeyler üretilir. Sağ taraf, subkey ile F fonksiyonuna yönlendirilir. F fonksiyonu, sol taraf ile xor'lanır. Sonraki aşamada XOR'lanmış değer sağ taraf, F fonksiyonun sol taraf olur. Bu işlem 16 defa yapılır.</li>
+	<li>Rivayet: Artık kullanımı iptal edilmiştir. Güvensizdir. Çünkü : Deşifrelemede, key'e bir bit yaklaşılırsa. Metinin yarısı çözülür.</li>
+	<li>99da 22 saat 15 dakikada kırılabilmiştir. (Metin : Romada görüşürüz. Herkes AES kullansın.)</li>
+	<li>DES'in açığı bilerek bırakılmamıştır. O dönemde güçlü olduğu düşünülüyordu. (1977)</li>
+</ul>
+<h2>AES</h2>
+Joan Daemen ve Vincent Rijmen adlı 2 belçikalı bulmuştur. Romadaki AES yarışmasında birinci olmuştur. (15 algoritmadan)
+<ul>
+	<li>AES, 2000 yılında çıktı. Keyler 128,196 ve 256 bittir. Blok boyutu 128 bittir.</li>
 </ul>
 &nbsp;
