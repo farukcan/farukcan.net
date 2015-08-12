@@ -23,7 +23,7 @@ dsq_needs_sync:
 <h1 style="text-align: center;">Projects that working on</h1>
 <ol>
 	<li><strong>Muhasara </strong>: Real Time Browser based RPG Online Game</li>
-	<li><strong>Oyun -</strong></li>
+	<li><strong>Kaptan - </strong>Ses kontrol tabanlı, strateji oyunu</li>
 	<li><span style="text-decoration: line-through;"><strong>Oyun* </strong>: Web tabanlı strateji oyunu</span></li>
 	<li><span style="text-decoration: line-through;"><strong>Zombiçeri </strong>: ?</span></li>
 	<li><span style="text-decoration: line-through;"><strong>5 Element</strong> : ?</span></li>
