@@ -10,8 +10,8 @@ layout: post
 permalink: >
   http://farukcan.net/guvenlikhack/2015/08/string-replace-fonksiyonlarin-filtreleme-zayifligi/
 published: true
-dsq_needs_sync:
-  - "1"
+dsq_thread_id:
+  - "4025014373"
 ---
 Bir çok programlama dilinde var olan, String Replace fonksiyonları, bir kelimenin kullanmasını engellemede çözüm yolu olduğu düşünülse bile bu fonksiyonun bir zayıflığı vardır.
 
