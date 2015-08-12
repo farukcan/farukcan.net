@@ -61,7 +61,7 @@ Bu C'dilin random sayı üretme algoritmasıdır. a ve c sabit değerdir. (asal 
 Karakterleri alfabede K sonraki harfe kaydırarak şifrelemedir.
 <pre>Cn = (Pn+K)mod(HarfSayısı)</pre>
 <ul>
-	<li>Harfleri frekansı(sıklığı) ölçülerek kolayca çözülebilir. <span style="text-decoration: underline;">Ö</span> : Türkçede en fazla <strong>A</strong> harfi kullanılır. İngilizcede ise <strong>E</strong> harfi kullanılır.</li>
+	<li>Harfleri frekansı(sıklığı) ölçülerek kolayca çözülebilir. <span style="text-decoration: underline;">Ö</span> : Türkçede en fazla <strong>A</strong> harfi kullanılır. İngilizcede ise <strong>E</strong> harfi kullanılır. Bu bilgi dilin son yayılanan makalelerindeki harfler sayılarak elde edilebilir.</li>
 	<li>Kaba Kuvvet ile Harf Sayısı kadar şifre olasılığı (ö : 29) deneyerekte çözülebilir.</li>
 </ul>
 &nbsp;
