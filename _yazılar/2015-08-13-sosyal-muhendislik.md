@@ -8,6 +8,8 @@ layout: post
 permalink: >
   http://farukcan.net/genel/2015/08/sosyal-muhendislik/
 published: true
+dsq_thread_id:
+  - "4028375344"
 ---
 Hackenen firmalar incelendiğinde, daha çok farkındanlık eksikliğinden kaynaklı olarak hacklendiği ortaya çıkmıştır.
 
@@ -54,6 +56,10 @@ Return-Path: &lt;das@das.net&gt;</pre>
 Dikkat ederseniz. Gönderen sunucu emkei.cz'dir. Email adresi ve gönderen sunucunun farklı olma durumu bu emailin sahte olduğunu gösterir.
 
 <span style="font-size: 17px; line-height: 1.6471;">http://mxtoolbox.com/ sitesine bakıp farukcan.net ' üzerinden eposta göndermeye yetkili sunucu adreslerini görebilirsiniz.</span>
+<h3>Sahte email gelen kutusu</h3>
+https://mailinator.com/inbox.jsp?to=sahteemail
+
+Bu adresinde gelen kutusuna, gizli bir adresten email gönderip. Girş yapmadan yine sahteemail@mailinator.com'un gelen kutusunu okuyabilirsiniz.
 <h3>email sunucusun anti virüs varlığının tespiti</h3>
 o sunucu üzerinde olmayan bir email adresine mail gönderir. Sunucu bize olmadığına dair email gönderir. Bizde bu emailin kaynağının header bilgisine bakarız. SMTP-Filter veya Antivirüs kısımlarına bakarak varlığını tespit edebiliriz.
 <h2>setoolkit</h2>
@@ -70,3 +76,7 @@ Hackerlar ,isimsiz alınan bu karta para yükleyerek, rusya ve çin gibi uzak ü
 Site kolonlama ile suriyeli hackerlar yüzlerce başbakanlık ve içişleri email adreslerinin şifrelerini öğrenmişlerdir.
 
 Şifreler : http://pastebin.com/JMrfY2AT
+
+&nbsp;
+<h4>2 aşamalı doğrulama</h4>
+facebook ve google, şifrenin yanında sms doğrulama kodu isteyerek, giriş isteyebilmektedir. Bunların güvenliği çok yüksektir.
