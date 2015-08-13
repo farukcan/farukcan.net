@@ -75,8 +75,10 @@ Hackerlar ,isimsiz alınan bu karta para yükleyerek, rusya ve çin gibi uzak ü
 <h4>Suriyeli Hackerların Başbakanlık ve içişleri emaillerini yaptığı Sosyal Mühendislik Saldırısı</h4>
 Site kolonlama ile suriyeli hackerlar yüzlerce başbakanlık ve içişleri email adreslerinin şifrelerini öğrenmişlerdir.
 
-Şifreler : http://pastebin.com/JMrfY2AT
-
-&nbsp;
+<em>Şifreler</em> : http://pastebin.com/JMrfY2AT
 <h4>2 aşamalı doğrulama</h4>
 facebook ve google, şifrenin yanında sms doğrulama kodu isteyerek, giriş isteyebilmektedir. Bunların güvenliği çok yüksektir.
+<h3>USB HID (USB Rubber ducky)</h3>
+Takıldığında, bilgisayarla otomatik tuşlar gönderen klavyedir. Taktığınız zaman tuşlar ile gizli bir şekilde bilgisayara komutlara girer. Doğrudan bu yolla casus yazılım yüklenebilir. Hiç bir antivirüs bu aygıtı tanımaz. Kullanıcı oluşturabilir, casus yazılım indirip yükleyebilir. DNS ayarlarını değiştirebilir. Micro USB ile mobil cihazlara takılabilir.
+
+&nbsp;
