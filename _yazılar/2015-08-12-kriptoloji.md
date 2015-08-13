@@ -45,7 +45,7 @@ olsun.  O zaman
 <pre>C1 xor C2 = P1 xor P2</pre>
 Yani Şifrelenmiş iki metni'nin xor, Şifrelenmemiş hallerinin iç içe geçmiş hali olacaktır. Eğer bunu bir resimde yapsaydık, iki resmi içi içe görürdük.
 <h3>OTP (Vernam)</h3>
-<strong>One-time pad</strong> (Tek kullanımlık Şerit): P xor K = C 'nin tektek her bit için kullanıldığı. P ve K şeritlerini alıp C şeridi veren şifreleme türüdür. Sadece bir defa kullanılmalıdır. Kırılmasının imkansız olduğu kanıtlanmıştır.
+<strong>One-time pad</strong> (Tek kullanımlık Şerit): P xor K = C 'nin tektek her bit için kullanıldığı. P ve K şeritlerini alıp C şeridi veren şifreleme türüdür. Sadece bir defa kullanılmalıdır. Kırılmasının imkansız olduğu kanıtlanmıştır. Anahtar üretme ve dağıtma zorluğu vardır.
 <h2>Rastgelelilik</h2>
 Rastgelelilik bir teoridir. Birşeyin rastgele olmasının sebebi, onu hesaplayamamız veya nasıl hesaplanacağını bilmemizdir.
 
@@ -55,6 +55,7 @@ Bu algoritma mod fonksiyonun geri döndürülemezlik özelliğini kullanır.
 <pre><strong></strong>Xi+1 = (a.Xi+c)modM;</pre>
 Bu C'dilin random sayı üretme algoritmasıdır. a ve c sabit değerdir. (asal sayı olması önerilir) Xi önceki random üretilen sayıdır. M ise aralık boyutudur.
 <h2>Sezar Şifreleme</h2>
+@monoalphabetic chiper family
 <pre>P : abcd</pre>
 <pre>C : bcda</pre>
 <pre>K : 1</pre>
