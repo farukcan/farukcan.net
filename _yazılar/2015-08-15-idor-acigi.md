@@ -6,7 +6,7 @@ post_date: 2015-08-15 17:10:52
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2015/08/idor-acigi/
+  http://farukcan.net/guvenlikhack/2015/08/idor-acigi/
 published: true
 ---
 <strong>IDOR</strong> : insecure direct object reference.
