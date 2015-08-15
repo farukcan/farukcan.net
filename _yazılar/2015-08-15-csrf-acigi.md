@@ -20,3 +20,11 @@ B sitesinde &lt;img src="A/paroladeğiş?yeniparola=12345"/&gt; şeklinde bir ku
 Dikkat edelim ki, A sitesinde kullanıcı oturum açmış olmalıdır. Bu işlem B'ye giren her ayrı kullanıcı için gerçekleşecektir.
 
 Ancak isteklerin GET metodu dahilinde de olması gerekmez. Bir Ajax formu ile B sitesi, POST metoduda kullabilir.
+<h3>Çözüm Yolu</h3>
+Access-Control-Allow-Origin headeri kesinlikle gönderilmemelidir. Modern tarayıcılar bu headeri gördüğü müddetçe güvenliği sağlarlar. Ardından aşağıdaki iki yöntemden birini kullanmalısınız.
+<h4>CSRF - Token</h4>
+Form gönderilmeden önce rastgele bilet oluşturulur. Formun alıcı sayfası, bu biletin aynısını bekleyerek çalışır
+
+<b>Captcha</b>
+
+Form ve Form alıcı sayfaya bir captcha sistemi kurulur.
