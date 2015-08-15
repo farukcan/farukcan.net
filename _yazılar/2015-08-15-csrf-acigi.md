@@ -15,4 +15,8 @@ Siteler arası istek gönderebilme açığıdır.
 
 A sitesinde, /paroladeğiş?yeniparola=xxx diğer bir istek ile şifre değiştirildiğini fark edelim.
 
-B sitesinde &lt;img src="A/paroladeğiş?yeniparalo=12345"/&gt; şeklinde bir kullanımla, A sitesindeki kullacının parolasını değiştirebiliriz.
+B sitesinde &lt;img src="A/paroladeğiş?yeniparola=12345"/&gt; şeklinde bir kullanımla, A sitesindeki kullacının parolasını değiştirebiliriz.
+
+Dikkat edelim ki, A sitesinde kullanıcı oturum açmış olmalıdır. Bu işlem B'ye giren her ayrı kullanıcı için gerçekleşecektir.
+
+Ancak isteklerin GET metodu dahilinde de olması gerekmez. Bir Ajax formu ile B sitesi, POST metoduda kullabilir.
