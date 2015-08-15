@@ -10,183 +10,63 @@ published: true
 dsq_thread_id:
   - "4022871026"
 ---
-<p>
-	&Ouml;mer Faruk CAN
-</p>
+Ömer Faruk CAN
 
-<p>
-	İstanbul / Turkey
-</p>
+İstanbul / Turkey
 
-<p>
-	E-mail : omer@farukcan.net
-</p>
+E-mail : omer@farukcan.net
 
-<p>
-	<strong>Education</strong>
-</p>
-
-<p style="margin-left: 40px;">
-	2012+
-</p>
-
-<p style="margin-left: 40px;">
-	İstanbul Ticaret &Uuml;niversitesi
-</p>
-
-<p style="margin-left: 40px;">
-	Computer Engineering
-</p>
-
-<p style="margin-left: 40px;">
-	-
-</p>
-
-<p style="margin-left: 40px;">
-	2012+
-</p>
-
-<p style="margin-left: 40px;">
-	Anadolu &Uuml;niversitesi
-</p>
-
-<p style="margin-left: 40px;">
-	<span class="st"><em>Business</em> Management Faculty </span>
-</p>
-
-<p>
-	<strong>Work Experiences</strong>
-</p>
-
-<p style="margin-left: 40px;">
-	2014
-</p>
-
-<p style="margin-left: 40px;">
-	Garanti Server (AKA Bilişim)
-</p>
-
-<p style="margin-left: 40px;">
-	System Engineer, Network
-</p>
-
-<p style="margin-left: 40px;">
-	-
-</p>
-
-<p style="margin-left: 40px;">
-	2015+
-</p>
-
-<p style="margin-left: 40px;">
-	T&Uuml;BİTAK 114E427 Project
-</p>
-
-<p style="margin-left: 40px;">
-	Software Engineer, Database Management &amp; Web Develop
-</p>
-
-<p style="margin-left: 40px;">
-	-
-</p>
-
-<p style="margin-left: 40px;">
-	2012+
-</p>
-
-<p style="margin-left: 40px;">
-	Freelancer Web Developer/Master
-</p>
-
-<p style="margin-left: 40px;">
-	-
-</p>
-
-<p style="margin-left: 40px;">
-	2013+
-</p>
-
-<p style="margin-left: 40px;">
-	Indie Game Developer
-</p>
-
-<p>
-	<strong>i know ...</strong>
-</p>
-
+<strong>Education</strong>
+<p style="margin-left: 40px;">2012+</p>
+<p style="margin-left: 40px;">İstanbul Ticaret Üniversitesi</p>
+<p style="margin-left: 40px;">Computer Engineering</p>
+<p style="margin-left: 40px;">-</p>
+<p style="margin-left: 40px;">2012+</p>
+<p style="margin-left: 40px;">Anadolu Üniversitesi</p>
+<p style="margin-left: 40px;"><span class="st"><em>Business</em> Management Faculty </span></p>
+<strong>Work Experiences</strong>
+<p style="margin-left: 40px;">2014</p>
+<p style="margin-left: 40px;">Garanti Server (AKA Bilişim)</p>
+<p style="margin-left: 40px;">System Engineer, Network</p>
+<p style="margin-left: 40px;">-</p>
+<p style="margin-left: 40px;">2015+</p>
+<p style="margin-left: 40px;">TÜBİTAK 114E427 Project</p>
+<p style="margin-left: 40px;">Software Engineer, Database Management &amp; Web Develop</p>
+<p style="margin-left: 40px;">-</p>
+<p style="margin-left: 40px;">2012+</p>
+<p style="margin-left: 40px;">Freelancer Web Developer/Master</p>
+<p style="margin-left: 40px;">-</p>
+<p style="margin-left: 40px;">2013+</p>
+<p style="margin-left: 40px;">Indie Game Developer</p>
+<strong>i know ...</strong>
 <ul>
-	<li>
-		PHP : Phalcon,Laravel
-	</li>
-	<li>
-		JavaScript : NodeJS, Jquery, Phaser
-	</li>
-	<li>
-		C/C++
-	</li>
-	<li>
-		C#
-	</li>
-	<li>
-		Java
-	</li>
-	<li>
-		HTML
-	</li>
-	<li>
-		CSS : Bootstap
-	</li>
-	<li>
-		V. Basic 6
-	</li>
-	<li>
-		OpenGL
-	</li>
-	<li>
-		OpenAL
-	</li>
-	<li>
-		SQL / MySQL
-	</li>
-	<li>
-		NoSQL
-	</li>
-	<li>
-		MongoDB
-	</li>
-	<li>
-		Embedded Systems: Ardunio , Raspberry
-	</li>
-	<li>
-		Linux : ubuntu/mint/debian
-	</li>
+	<li>PHP : Phalcon,Laravel</li>
+	<li>JavaScript : NodeJS, Jquery, Phaser, Angular.js, socket.io</li>
+	<li>SQL / MySQL</li>
+	<li>HTML / 5</li>
+	<li>CSS : Bootstap, JqueryUI</li>
+	<li>C/C++</li>
+	<li>C#</li>
+	<li>Java</li>
+	<li>V. Basic 6</li>
+	<li>OpenGL</li>
+	<li>OpenAL</li>
+	<li>NoSQL</li>
+	<li>MongoDB</li>
+	<li>Embedded Systems: Ardunio , Raspberry</li>
+	<li>Linux : ubuntu/mint/debian</li>
+	<li>Cryptology</li>
+	<li>Web App Security /  Cyber Security</li>
+	<li>Real-timed systems</li>
 </ul>
-
-<p>
-	<strong>My Projest :</strong>
-</p>
-
+<strong>My Projest :</strong>
 <ul>
-	<li>
-		My latest projects ; http://farukcan.net/projelerim/
-	</li>
+	<li>My latest projects ; http://farukcan.net/projelerim/</li>
 </ul>
-
-<p>
-	<strong>Languages</strong>
-</p>
-
+<strong>Languages</strong>
 <ul>
-	<li>
-		Turkish - T&uuml;rk&ccedil;e : Native &amp; <em>Ottoman Turkish /&nbsp; (لسان عثمانى)&nbsp; : reading/okuma (with rika script)</em>
-	</li>
-	<li>
-		English : intermediate level
-	</li>
-	<li>
-		Japanese - 日本語　: Learning (Hiragana&amp;Romaji only)
-	</li>
-	<li>
-		Arabian (<span class="short_text" id="result_box" lang="ar"><span class="hps">العربية</span></span>) : Learning
-	</li>
+	<li>Turkish - Türkçe : Native &amp; <em>Ottoman Turkish /  (لسان عثمانى)  : reading/okuma (with rika script)</em></li>
+	<li>English : intermediate level</li>
+	<li>Japanese - 日本語　: Learning (Hiragana&amp;Romaji only)</li>
+	<li>Arabian (<span class="short_text" id="result_box" lang="ar"><span class="hps">العربية</span></span>) : Learning</li>
 </ul>
