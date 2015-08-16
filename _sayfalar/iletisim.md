@@ -7,6 +7,8 @@ post_excerpt: ""
 layout: page
 permalink: http://farukcan.net/iletisim/
 published: true
+dsq_thread_id:
+  - "4025302957"
 ---
 e-mail: omer@farukcan.net
 
