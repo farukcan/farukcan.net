@@ -6,7 +6,7 @@ post_date: 2015-08-16 12:11:59
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2015/08/memcache-injection/
+  http://farukcan.net/guvenlikhack/2015/08/memcache-injection/
 published: true
 ---
 <pre>"SET deger " . $input</pre>
