@@ -6,7 +6,7 @@ post_date: 2015-08-16 11:42:49
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2015/08/php-strcmp-fonksiyonu-acigi/
+  http://farukcan.net/guvenlikhack/2015/08/php-strcmp-fonksiyonu-acigi/
 published: true
 ---
 strcmp fonksiyonu iki değer eşit olması durumunda 0 (false) döndürür
