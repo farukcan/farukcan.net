@@ -55,7 +55,7 @@ E-mail : omer@farukcan.net
 	<li>MongoDB</li>
 	<li>Embedded Systems: Ardunio , Raspberry</li>
 	<li>Linux : ubuntu/mint/debian</li>
-	<li>Cryptology</li>
+	<li>Cryptology (by Rıfat Yazıcı)</li>
 	<li>Web App Security /  Cyber Security</li>
 	<li>Real-timed systems</li>
 </ul>
