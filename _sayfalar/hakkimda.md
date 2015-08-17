@@ -9,8 +9,6 @@ permalink: http://farukcan.net/hakkimda/
 published: true
 dsq_thread_id:
   - "4022871026"
-dsq_needs_sync:
-  - "1"
 ---
 Ömer Faruk CAN
 
