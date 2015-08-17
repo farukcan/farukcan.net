@@ -9,6 +9,8 @@ permalink: http://farukcan.net/hakkimda/
 published: true
 dsq_thread_id:
   - "4022871026"
+dsq_needs_sync:
+  - "1"
 ---
 Ömer Faruk CAN
 
@@ -69,4 +71,8 @@ E-mail : omer@farukcan.net
 	<li>English : intermediate level</li>
 	<li>Japanese - 日本語　: Learning (Hiragana&amp;Romaji only)</li>
 	<li>Arabian (<span class="short_text" id="result_box" lang="ar"><span class="hps">العربية</span></span>) : Learning</li>
+</ul>
+<strong>Literature</strong>
+<ul>
+	<li>Writership of Story and Poem : trained by Şeref Yılmaz (Kadıköy - Yazarlık Atölyesi - 2013 )</li>
 </ul>
