@@ -47,9 +47,9 @@ E-mail : omer@farukcan.net
 	<li>SQL / MySQL</li>
 	<li>HTML / 5</li>
 	<li>CSS : Bootstap, JqueryUI</li>
-	<li>C/C++</li>
+	<li>C/C++ (by Rıfat Yazıcı)</li>
 	<li>C#</li>
-	<li>Java</li>
+	<li>Java (by <a href="http://www.kasapbasi.org/">M.C Kasapbaşı</a>)</li>
 	<li>V. Basic 6</li>
 	<li>OpenGL</li>
 	<li>OpenAL</li>
