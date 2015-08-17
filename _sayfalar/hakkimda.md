@@ -74,5 +74,5 @@ E-mail : omer@farukcan.net
 </ul>
 <strong>Literature</strong>
 <ul>
-	<li>Writership of Story and Poem : trained by <a href="http://www.serefyilmaz.com/biyografi.html">Şeref Yılmaz</a> (Kadıköy - Yazarlık Atölyesi - 2013 )</li>
+	<li>Writership of Story and Poem : trained by <a href="http://www.serefyilmaz.com/biyografi.html">Şeref Yılmaz</a> (Kadıköy - Yazarlık Atölyesi - 2013/2014 )</li>
 </ul>
