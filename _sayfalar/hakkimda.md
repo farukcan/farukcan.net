@@ -29,7 +29,7 @@ E-mail : omer@farukcan.net
 <strong>Work Experiences</strong>
 <p style="margin-left: 40px;">2014</p>
 <p style="margin-left: 40px;">Garanti Server (AKA Bilişim)</p>
-<p style="margin-left: 40px;">System Engineer, Network</p>
+<p style="margin-left: 40px;">Intern, System Engineering, Network</p>
 <p style="margin-left: 40px;">-</p>
 <p style="margin-left: 40px;">2015+</p>
 <p style="margin-left: 40px;">TÜBİTAK 114E427 Project</p>
@@ -40,7 +40,7 @@ E-mail : omer@farukcan.net
 <p style="margin-left: 40px;">-</p>
 <p style="margin-left: 40px;">2013+</p>
 <p style="margin-left: 40px;">Indie Game Developer</p>
-<strong>i know ...</strong>
+<strong>i know <span style="color: #ff0000;"><em>little bit</em></span> ...</strong>
 <ul>
 	<li>PHP : Phalcon,Laravel</li>
 	<li>JavaScript : NodeJS, Jquery, Phaser, Angular.js, socket.io</li>
