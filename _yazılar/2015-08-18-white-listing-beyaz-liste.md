@@ -11,5 +11,5 @@ published: true
 ---
 White Listing , her şeyin yasaklı ve kara listede olduğu, sadece beyaz listedekilerin hariç tutulduğu sistem kavramıdır.
 <ul>
-	<li>Internet siteleri, dosya yüklemelerinde dosyalara white listing yapar. (Yazılımcı dosyanın Content-Type'nin doğrular, fakat yinede güvenmez. Sadece içeriği güvenir.)</li>
+	<li>Internet siteleri, dosya yüklemelerinde dosyalara white listing yapar. (Yazılımcı dosyanın Content-Type'nin doğrular, fakat yinede güvenmez. Dosya ismi ve uzantıyıda değiştirir.(../..//,XSS,php execute) Sadece içeriği güvenir.)</li>
 </ul>
