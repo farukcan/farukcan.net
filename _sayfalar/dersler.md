@@ -38,5 +38,4 @@ Bu konuda hazırladığım strateji şu şekildedir.
 </blockquote>
 </li>
 </ul>
-
-<?php echo 1;  ?>
+&nbsp;
