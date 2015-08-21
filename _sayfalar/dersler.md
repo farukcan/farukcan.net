@@ -9,11 +9,13 @@ permalink: http://farukcan.net/dersler/
 published: true
 dsq_thread_id:
   - "4022779889"
+dsq_needs_sync:
+  - "1"
 ---
 Türkçe kaynak olsun diye üşenmedim slayt hazırladım. Çok da güzel oldu. Aşağıdaki kurallara uymaya çalıştım.
 <ul>
 	<li>Basitlik ve anlaşırlık. (anlaşırlılık, anlaşılabilirlilik, her neyse sen beni anladın)</li>
-	<li>Sade Tasarım. (Üşendiği için bir fazla bir şey yazmadığın için öyle görünüyor diyebilirsiniz, sizde haklısınız)</li>
+	<li>Sade Tasarım. (Üşendiğinden dolayı fazla bir şey yazmadığın için öyle görünüyor diyebilirsiniz, sizde haklısınız. bende sizi seviyorum)</li>
 	<li>Bilgiler arasında konu ve uzmanlaşma olarak 2 boyutlu ilerleyebilme. (Son teknoloji, harika bir şey. slides.com saolsun.)</li>
 </ul>
 <h1>Mevcut Dersler</h1>
