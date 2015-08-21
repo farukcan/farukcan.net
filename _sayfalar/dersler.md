@@ -10,16 +10,12 @@ published: true
 dsq_thread_id:
   - "4022779889"
 ---
-Türkçe kaynak bulmakta zorlanan yazılımcıların önünü açmak için, basit bir yöntem ile dersler hazırlamaktayım.
-
-Bu konuda hazırladığım strateji şu şekildedir.
+Türkçe kaynak olsun diye üşenmedim slayt hazırladım. Çok da güzel oldu. Aşağıdaki kurallara uymaya çalıştım.
 <ul>
-	<li>Basitlik ve anlaşırlık</li>
-	<li>Sade Tasarım</li>
-	<li>Bilgiler arasında konu ve uzmanlaşma olarak 2 boyutlu ilerleyebilme</li>
-	<li>Güncellik ( Sürüm Sistemi )</li>
+	<li>Basitlik ve anlaşırlık. (anlaşırlılık, anlaşılabilirlilik, her neyse sen beni anladın)</li>
+	<li>Sade Tasarım. (Üşendiği için bir fazla bir şey yazmadığın için öyle görünüyor diyebilirsiniz, sizde haklısınız)</li>
+	<li>Bilgiler arasında konu ve uzmanlaşma olarak 2 boyutlu ilerleyebilme. (Son teknoloji, harika bir şey. slides.com saolsun.)</li>
 </ul>
-&nbsp;
 <h1>Mevcut Dersler</h1>
 <ul>
 	<li>
