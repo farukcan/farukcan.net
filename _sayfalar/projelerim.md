@@ -12,10 +12,10 @@ dsq_thread_id:
 ---
 <h1 style="text-align: center;">Published Projects</h1>
 <ol>
-	<li><strong>avukatkutusu.com : </strong>Avukat bulma / ihale sistemi<a href="http://avukatkutusu.com"> <em>Siteye Git</em></a> <em>2013 Ekim - 2014</em> Ocak</li>
+	<li><strong>avukatkutusu.com : </strong>Avukat bulma / ihale şeysi<a href="http://avukatkutusu.com"> <em>Siteye Git</em></a> <em>2013 Ekim - 2014</em> Ocak</li>
 	<li><strong>fc_ram :</strong> PHP tabanlı inMemory Veri Tabanı <a href="http://farukcan.net/php/2014/05/fc_ram-inmemorynosql-database-proje/"><em>Öğren &amp; İndir </em></a><em>2014 Mayıs</em></li>
-	<li><strong>Vampir Kim? :</strong> Web tabanlı ChatRPG oyunu YAYIN DIŞI <em>2014 Mayıs+Haziran</em></li>
-	<li><strong>Who is Vampire?</strong> : Web tabanlı ChatRPG oyunu <a title="Who is Vampire" href="http://whoisvampire.com">Oyna</a> <em>2015 Temmuz</em></li>
+	<li><strong>Vampir Kim? :</strong> Web tabanlı ChatRPG oyunu YAYIN DIŞI (Elime yüzüme bulaştırdığım proje no #1) <em>2014 Mayıs+Haziran</em></li>
+	<li><strong>Who is Vampire?</strong> : Web tabanlı ChatRPG oyunu (Vampir Kim?in 2. sürümü) <a title="Who is Vampire" href="http://whoisvampire.com">Oyna</a> <em>2015 Temmuz</em></li>
 </ol>
 &nbsp;
 <h1 style="text-align: center;">Projects that working on</h1>
@@ -24,10 +24,6 @@ dsq_thread_id:
 	<li><strong>SubliminaLearn</strong> : Subliminal öğrenme sistemi ve uygulaması</li>
 	<li><strong>Muhasara </strong>: Real Time Browser based RPG Online Game</li>
 	<li><strong>Kaptan - </strong>Ses kontrol tabanlı, strateji oyunu</li>
-	<li><span style="text-decoration: line-through;"><strong>Oyun* </strong>: Web tabanlı strateji oyunu</span></li>
-	<li><span style="text-decoration: line-through;"><strong>Zombiçeri </strong>: ?</span></li>
-	<li><span style="text-decoration: line-through;"><strong>5 Element</strong> : ?</span></li>
-	<li><span style="text-decoration: line-through;"><strong>Karaveri</strong> : ?</span></li>
 </ol>
 <h1 style="text-align: center;"> Private Projects</h1>
 <ol>
