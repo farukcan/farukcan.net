@@ -10,6 +10,10 @@ published: true
 dsq_thread_id:
   - "4022871026"
 ---
+Merhaba ben, ömer faruk can.  Faruk diye hitap edebilirsiniz, etmeseniz de olur. Bilgi ile alakalı şeylerle ilgilenirim; bilgisayar, veri, mantık, felsefe, yapay zeka.  Aşağıya gereksiz ayrıntıları yazdım. Okumanıza gerek yok, okumaya üşenmeniz için ingilizce yazdım.
+
+&nbsp;
+
 Ömer Faruk CAN
 
 İstanbul / Turkey
