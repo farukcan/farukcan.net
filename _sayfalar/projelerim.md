@@ -11,6 +11,7 @@ dsq_thread_id:
   - "4022779833"
 ---
 <h1 style="text-align: center;">Published Projects</h1>
+Yayınlanmış projelerim:
 <ol>
 	<li><strong>avukatkutusu.com : </strong>Avukat bulma / ihale şeysi<a href="http://avukatkutusu.com"> <em>Siteye Git</em></a> <em>2013 Ekim - 2014</em> Ocak</li>
 	<li><strong>fc_ram :</strong> PHP tabanlı inMemory Veri Tabanı <a href="http://farukcan.net/php/2014/05/fc_ram-inmemorynosql-database-proje/"><em>Öğren &amp; İndir </em></a><em>2014 Mayıs</em></li>
@@ -19,6 +20,7 @@ dsq_thread_id:
 </ol>
 &nbsp;
 <h1 style="text-align: center;">Projects that working on</h1>
+Üzerinde çalıştığım projeler :
 <ol>
 	<li><strong>TUBITAK 114E427 : </strong>Okul öncesi çocukların yazmayı öğrenmesi destekleyen uygulamalar sistemi</li>
 	<li><strong>SubliminaLearn</strong> : Subliminal öğrenme sistemi ve uygulaması</li>
@@ -26,6 +28,7 @@ dsq_thread_id:
 	<li><strong>Kaptan - </strong>Ses kontrol tabanlı, strateji oyunu</li>
 </ol>
 <h1 style="text-align: center;"> Private Projects</h1>
+Özel amaçlı projelerim :
 <ol>
 	<li><strong>Basit Panel</strong> : Web site düzenleme sistemi. (Bknz: <span style="font-size: 8px;">Başka firmalara yaptığım internet site</span>) &amp;PHP</li>
 	<li><strong>Ritim </strong>: Alfabetik kriptolamaya karşı şifre çözücü / kelime işleme ve değerlendirme</li>
