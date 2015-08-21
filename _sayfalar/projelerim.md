@@ -9,8 +9,6 @@ permalink: http://farukcan.net/projelerim/
 published: true
 dsq_thread_id:
   - "4022779833"
-dsq_needs_sync:
-  - "1"
 ---
 <h1 style="text-align: center;">Published Projects</h1>
 Yayınlanmış projelerim:
@@ -38,6 +36,8 @@ Yayınlanmış projelerim:
 	<li>* : Geri dönüştürülmemek için dosya kıyıcı ve parçalayıcı &amp;Basic</li>
 	<li><strong>ToDo</strong> : Yapılacak işleri kontrol sistemi. &amp;PHP-Laravel</li>
 	<li><strong>ÜyeYönetim*</strong> : Firmalar arası bilgi otomasyonu &amp;PHP-Laravel</li>
+	<li><strong>Rapor ve Mazeret Otomasyonu :</strong> ödev olarak yapmıştım</li>
+	<li>* : Yapaz zeka denemeleri</li>
 	<li><strong>BuzHokeyi* </strong>: Java/OpenGL tabanlı oyun/fizik moturu &amp; yapay zeka</li>
 </ol>
 * ile işaretli projelerin ismi kesin değildir.
