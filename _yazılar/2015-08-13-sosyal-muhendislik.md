@@ -10,8 +10,6 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4028375344"
-dsq_needs_sync:
-  - "1"
 ---
 Hackenen firmalar incelendiğinde, daha çok farkındanlık eksikliğinden kaynaklı olarak hacklendiği ortaya çıkmıştır.
 
@@ -82,5 +80,5 @@ Site kolonlama ile suriyeli hackerlar yüzlerce başbakanlık ve içişleri emai
 facebook ve google, şifrenin yanında sms doğrulama kodu isteyerek, giriş isteyebilmektedir. Bunların güvenliği çok yüksektir.
 <h3>USB HID (USB Rubber ducky)</h3>
 Takıldığında, bilgisayarla otomatik tuşlar gönderen klavyedir. Taktığınız zaman tuşlar ile gizli bir şekilde bilgisayara komutlara girer. Doğrudan bu yolla casus yazılım yüklenebilir. Hiç bir antivirüs bu aygıtı tanımaz. Kullanıcı oluşturabilir, casus yazılım indirip yükleyebilir. DNS ayarlarını değiştirebilir. Micro USB ile mobil cihazlara takılabilir.
-<h3> fimap</h3>
-sunucunun dosya erişim açığı var mı kontrol eder
+
+&nbsp;
