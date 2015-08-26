@@ -8,8 +8,10 @@ post_date: 2015-08-20 17:28:37
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2015/08/bir-js-kodunun-sadece-6-farkli-karakter-ile-yazilmasi/
+  http://farukcan.net/guvenlikhack/2015/08/bir-js-kodunun-sadece-6-farkli-karakter-ile-yazilmasi/
 published: true
+dsq_thread_id:
+  - "4059768389"
 ---
 Bir javascript kodunu, sadece 6 farklı karakter ile encode edebilirsiniz.
 <h3>Normal</h3>
