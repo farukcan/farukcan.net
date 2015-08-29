@@ -20,7 +20,7 @@ Yayınlanmış projelerim:
 </ol>
 &nbsp;
 <h1 style="text-align: center;">Projects that working on</h1>
-Üzerinde çalıştığım projeler :
+Üzerinde çalıştığım projeler (yayınlanacak olan) :
 <ol>
 	<li><strong>TUBITAK 114E427 : </strong>Okul öncesi çocukların yazmayı öğrenmesi destekleyen uygulamalar sistemi</li>
 	<li><strong>SubliminaLearn</strong> : Subliminal öğrenme sistemi ve uygulaması</li>
@@ -29,7 +29,7 @@ Yayınlanmış projelerim:
 	<li><strong>phpratik : . </strong><em>Yerli kullanım için basit,pratik,türk </em><strong>PHP framework</strong>u</li>
 </ol>
 <h1 style="text-align: center;"> Private Projects</h1>
-Özel amaçlı projelerim :
+Özel amaçlı projelerim , (yayınlanmayacak, üzerinde çalışılan/çalışılmayan):
 <ol>
 	<li><strong>Basit Panel</strong> : Web site düzenleme sistemi. (Bknz: <span style="font-size: 8px;">Başka firmalara yaptığım internet site</span>) &amp;PHP</li>
 	<li><strong>Ritim </strong>: Alfabetik kriptolamaya karşı şifre çözücü / kelime işleme ve değerlendirme</li>
@@ -37,7 +37,7 @@ Yayınlanmış projelerim:
 	<li><strong>ToDo</strong> : Yapılacak işleri kontrol sistemi. &amp;PHP-Laravel</li>
 	<li><strong>ÜyeYönetim*</strong> : Firmalar arası bilgi otomasyonu &amp;PHP-Laravel</li>
 	<li><strong>Rapor ve Mazeret Otomasyonu :</strong> ödev olarak yapmıştım</li>
-	<li>* : Yapaz zeka denemeleri</li>
+	<li><strong>Cezeri</strong> : Yapay zeka modülü</li>
 	<li><strong>BuzHokeyi* </strong>: Java/OpenGL tabanlı oyun/fizik moturu &amp; yapay zeka</li>
 </ol>
 * ile işaretli projelerin ismi kesin değildir.
