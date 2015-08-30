@@ -9,7 +9,7 @@ permalink: >
   http://farukcan.net/genel/2015/08/hack-riddle-oyunum-2/
 published: true
 ---
-Sibergüvenliğe hevesli kişilerin, kendi kendine öğrenmesine teşvik için bir hack riddle oyunu yaptım. Şuan 7 bölümden oluşuyor. (30AUG).
+Sibergüvenliğe hevesli kişilerin, kendi kendine öğrenmesine teşvik için bir hack riddle oyunu yaptım. Şuan 12 bölümden oluşuyor. (30AUG).
 
 Oyunu şu adresten deneyebilirsiniz : hack.muhasara.com
 
