@@ -1,2 +1,2 @@
 # farukcan.net
-kk
+Blog siteminin , github yedeğidir.
