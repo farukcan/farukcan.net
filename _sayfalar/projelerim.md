@@ -19,7 +19,7 @@ Yayınlanmış projelerim:
 	<li><strong>fc_ram :</strong> PHP tabanlı inMemory Veri Tabanı <a href="http://farukcan.net/php/2014/05/fc_ram-inmemorynosql-database-proje/"><em>Öğren &amp; İndir </em></a><em>2014 Mayıs</em></li>
 	<li><strong>Vampir Kim? :</strong> Web tabanlı ChatRPG oyunu YAYIN DIŞI (Elime yüzüme bulaştırdığım proje no #1) <em>2014 Mayıs+Haziran</em></li>
 	<li><strong>Who is Vampire?</strong> : Web tabanlı ChatRPG oyunu (Vampir Kim?in 2. sürümü) <a title="Who is Vampire" href="http://whoisvampire.com">Oyna</a> <em>2015 Temmuz</em></li>
-	<li><strong>Hack Riddle?</strong> : Sibergüvenlik için öğretici oyun. ( <a href="http://hack.farukcan.net">Oyna</a> )</li>
+	<li><strong>Hack Riddle</strong> : Sibergüvenlik için öğretici oyun. ( <a href="http://hack.farukcan.net">Oyna</a> )</li>
 </ol>
 &nbsp;
 <h1 style="text-align: center;">Projects that working on</h1>
