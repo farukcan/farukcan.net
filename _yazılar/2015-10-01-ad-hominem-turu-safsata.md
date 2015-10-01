@@ -1,6 +1,8 @@
 ---
 ID: 370
-post_title: Ad Hominem türü safsata
+post_title: >
+  Ad Hominem türü safsata
+  (şahsi-safsata)
 author: farukcan
 post_date: 2015-10-01 21:52:57
 post_excerpt: ""
@@ -8,6 +10,8 @@ layout: post
 permalink: >
   http://farukcan.net/genel/2015/10/ad-hominem-turu-safsata/
 published: true
+dsq_needs_sync:
+  - "1"
 ---
 ad hominem türkçede ado-minim diye telafuz edilir, sözlük anlamını "bir kişiye" demektir.
 
