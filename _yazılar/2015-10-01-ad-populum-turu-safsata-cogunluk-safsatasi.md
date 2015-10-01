@@ -10,6 +10,8 @@ layout: post
 permalink: >
   http://farukcan.net/genel/2015/10/ad-populum-turu-safsata-cogunluk-safsatasi/
 published: true
+dsq_needs_sync:
+  - "1"
 ---
 Argumentum ad populum, " insanlara ilişkin argüman " sözlük anlamına sahiptir. Genel kanının yani çoğunluğunun görüşünün doğru olduğuna yönelik safsatadır.
 <pre>Bir argümanı çoğunluğun savunması doğruluğunu kanıtlamaz</pre>
@@ -27,6 +29,6 @@ Merve iyi bir öğrenci olmasa bütün dersleri iyi olur muydu?
 
 Burada hiç müşteri yok, buraya girmeyelim, ya pahalıdır ya yemekleri kötüdür.</blockquote>
 Diyalog
-<blockquote>A : Sence hangi telefonu almalıyım?
+<blockquote>A : Sence hangi telefonu almalıyım, en iyisi hangisi?
 
 B: iPhone 6 almalısın, herkes onu alıyor.</blockquote>
