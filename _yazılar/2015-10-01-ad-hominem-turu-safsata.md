@@ -10,12 +10,12 @@ layout: post
 permalink: >
   http://farukcan.net/genel/2015/10/ad-hominem-turu-safsata/
 published: true
-dsq_needs_sync:
-  - "1"
+dsq_thread_id:
+  - "4184530088"
 ---
-ad hominem türkçede ado-minim diye telafuz edilir, sözlük anlamını "bir kişiye" demektir.
+ad hominem türkçede ado-minim diye telafuz edilir, sözlük anlamını "bir kişiye" demektir. Şahsi safsata diyebiliriz.
 
-Mantıkta; bir şahşa ilişkin safsatalara verilen addır. (Bknz safsata : ilk bakışta ikna edici görünen, yakından bakıldığında saçma olduğu anlaşılabilen önermedir.
+Mantıkta; bir şahşa ilişkin safsatalara verilen addır. Kişi hedef alınarak, arguman çürütülmeye çalışılır.
 <pre>Bir kişinin yanlış bir şey yapması, onun bütün argümanlarının yanlış olduğunu kanıtlamaz.</pre>
 Önermeler
 <blockquote>Freud cinsel sapığın biridir, dolayısıyla söylediklerini ciddiye almamıza gerek yok
