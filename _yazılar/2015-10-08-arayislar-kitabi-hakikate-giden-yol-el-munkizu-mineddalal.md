@@ -1,6 +1,6 @@
 ---
 ID: 380
-post_title: 'Arayışlar Kitabı &#8211; Hakikate Giden Yol &#8211; El-munkizü mineddalal'
+post_title: 'Arayışlar Kitabı &#8211; Hakikate Giden Yol &#8211; El-munkizü minezzalal'
 author: farukcan
 post_date: 2015-10-08 23:37:12
 post_excerpt: ""
@@ -10,8 +10,6 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4207209274"
-dsq_needs_sync:
-  - "1"
 ---
 Çeşitli yayın evlerinden, farklı isimlerde yayınlanan Gazalinin , El-munkiz adlı kitabının Doç.dr.Osman Gürman tarafından tercümesini okumuş bulunmaktayım.
 <h1>Özet</h1>
