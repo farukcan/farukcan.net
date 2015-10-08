@@ -6,11 +6,14 @@ post_date: 2015-10-08 23:37:12
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2015/10/arayislar-kitabi-hakikate-giden-yol-el-munkizu-mineddalal/
+  http://farukcan.net/mantik/2015/10/arayislar-kitabi-hakikate-giden-yol-el-munkizu-mineddalal/
 published: true
 ---
 Çeşitli yayın evlerinden, farklı isimlerde yayınlanan Gazalinin , El-munkiz adlı kitabının doç.dr.osman gürman tarafından tercümesini okumuş bulunmaktayım.
 <h1>Özet</h1>
-Kitap, 80 sayfa küçük bir şey aslında özetlemeye gerek yoktur. Kitaba Gazalinin bütün düşüncelerinin özeti olarak bakıp, okumanızı tavsiye ederim. Buna rağmen özetin özeti şeklinde , gözüme çarpan yerleri yazacağım.
-
-Bir ilim dalının, doğru geliştiğine karar vermek veya bozukluk olduğunu iddaa etmek için , onu tamamen öğrenip ,o dalda yetkinliğe sahip olmak gerekir. (Gazali burada felsefeyi kastedip, felsefeyi tamamen öğrendikten sonra , felsefenin yanlış tarafları olduğunu keşfettiğini söylüyor. Burada felsefinin bir kısmını kastettiğine dikkat etmeniz gerekir. )
+<em>Kitap, 80 sayfa küçük bir şey aslında özetlemeye gerek yoktur. Kitaba Gazalinin bütün düşüncelerinin özeti olarak bakıp, okumanızı tavsiye ederim. Buna rağmen özetin özeti şeklinde , gözüme çarpan yerleri yazacağım.</em>
+<ul>
+	<li>Bir ilim dalının, doğru geliştiğine karar vermek veya bozukluk olduğunu iddaa etmek için , onu tamamen öğrenip ,o dalda yetkinliğe sahip olmak gerekir. Bir disiplini anlamadan reddetmek, karanlığa taş atmak gibidir . (Gazali burada felsefeyi kastedip, felsefeyi tamamen öğrendikten sonra , felsefenin yanlış tarafları olduğunu keşfettiğini söylüyor. Burada felsefinin bir kısmını kastettiğine dikkat etmeniz gerekir. ) [S 22]</li>
+	<li>Gazali filozofları, bir <strong>ilaha karşı tutumuna göre 3'e ayırır</strong> : <strong>Dehri</strong>(ateist),fizikçiler/<strong>doğacılar</strong>(teist materyalistler),<strong>metafizikçiler</strong>(ilahiyatçılar) . Bunlarının ilk ikisi sofist, erken dönem filozoflarıdır. Metafizikçiler ise Sokrat,Eflatun ve kısmen Aristodur. [S 23]</li>
+	<li><span style="line-height: 1.6471;">Gazali <strong>felsefeyi 6 konuya ayırır.</strong> <em>Matematik, Mantık, Fizik, Metafizik(Teoloji), Siyaset, Ahlak</em> . Eleştirileri metafizik konusuna yöneliktir. [ S 26 ]</span></li>
+</ul>
