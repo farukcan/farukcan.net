@@ -10,6 +10,8 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4207209274"
+dsq_needs_sync:
+  - "1"
 ---
 Çeşitli yayın evlerinden, farklı isimlerde yayınlanan Gazalinin , El-munkiz adlı kitabının Doç.dr.Osman Gürman tarafından tercümesini okumuş bulunmaktayım.
 <h1>Özet</h1>
@@ -18,7 +20,7 @@ dsq_thread_id:
 	<li>Bir ilim dalının, doğru geliştiğine karar vermek veya bozukluk olduğunu iddaa etmek için , onu tamamen öğrenip ,o dalda yetkinliğe sahip olmak gerekir. Bir disiplini anlamadan reddetmek, karanlığa taş atmak gibidir . (Gazali burada felsefeyi kastedip, felsefeyi tamamen öğrendikten sonra , felsefenin yanlış tarafları olduğunu keşfettiğini söylüyor. Burada felsefinin bir kısmını kastettiğine dikkat etmeniz gerekir. ) [S 22]</li>
 	<li>Gazali filozofları, bir <strong>ilaha karşı tutumuna göre 3'e ayırır</strong> : <strong>Dehri</strong>(ateist),fizikçiler/<strong>doğacılar</strong>(teist materyalistler),<strong>metafizikçiler</strong>(ilahiyatçılar) . Bunlarının ilk ikisi sofist, erken dönem filozoflarıdır. Metafizikçiler ise Sokrat,Eflatun ve kısmen Aristodur. [S 23]</li>
 	<li><span style="line-height: 1.6471;">Gazali <strong>felsefeyi 6 konuya ayırır.</strong> <em>Matematik, Mantık, Fizik, Metafizik(Teoloji), Siyaset, Ahlak</em> . Eleştirileri metafizik konusuna yöneliktir. [ S 26 ]</span></li>
-	<li>Matematiğin, kesin bilgilere dayalı olduğunu ve din bilimleriyle alakası olmadığını söyler.</li>
+	<li>Matematiğin, kesin bilgilere dayalı olduğunu ve dini doğrulama veya dinle çelişme bakımından din bilimleriyle alakası olmadığını söyler.</li>
 	<li>Matematikle ilgilenenlerin şöyle bir riski vardır; matematiğin kesinliğini gören bir kişi , felsefenin metafizik konusunda kesinlik içerdiğine inanabilir. Bu hataya düşen kişi , bazı filozofların veya bilim adamlarının metafizik görüşlerine, kesin bilgiymiş gibi inanarak, dini reddedebilir. Bu kişiye <strong>metafizik konusunun teorik olduğu</strong> anlatıldığında, tuttuğu filozofa hayranlık beslediği için bunu kabul etmeye yanaşmaz. Çünkü ya yeni bilgiler öğrenmeye üşengeçlik gösterir ya da arzularına kapılmış olduğu için kendini akıllı görür. [S 26 27]</li>
 	<li>Matematiğin ikinci / fiziğin ilk riski, <strong>cahil din adamlarının</strong>,kendi aklıyla uyuşmadığı için matematiğin/fiziğin bir kısmının <strong>reddetmesidir</strong>. İnsanlar doğal olarak, matematikçilerin haklı olduğunu görüp, dini reddetmesi muhtemeldir. [ S 28 ]</li>
 	<li>Gazali , (bazı) fizikçilerin "<em>Evrenin Allahtan bağımsız olup, Allah tarafından yönlendirilemeyeceği</em>" görüşüne karşı çıkar.</li>
