@@ -19,4 +19,9 @@ published: true
 	<li>Matematiğin, kesin bilgilere dayalı olduğunu ve din bilimleriyle alakası olmadığını söyler.</li>
 	<li>Matematikle ilgilenenlerin şöyle bir riski vardır; matematiğin kesinliğini gören bir kişi , felsefenin metafizik konusunda kesinlik içerdiğine inanabilir. Bu hataya düşen kişi , bazı filozofların veya bilim adamlarının metafizik görüşlerine, kesin bilgiymiş gibi inanarak, dini reddedebilir. Bu kişiye <strong>metafizik konusunun teorik olduğu</strong> anlatıldığında, tuttuğu filozofa hayranlık beslediği için bunu kabul etmeye yanaşmaz. Çünkü ya yeni bilgiler öğrenmeye üşengeçlik gösterir ya da arzularına kapılmış olduğu için kendini akıllı görür. [S 26 27]</li>
 	<li>Matematiğin ikinci / fiziğin ilk riski, <strong>cahil din adamlarının</strong>,kendi aklıyla uyuşmadığı için matematiğin/fiziğin bir kısmının <strong>reddetmesidir</strong>. İnsanlar doğal olarak, matematikçilerin haklı olduğunu görüp, dini reddetmesi muhtemeldir. [ S 28 ]</li>
+	<li>Gazali , (bazı) fizikçilerin "Evrenin Allahtan bağımsız olup, Allah tarafından yönlendirilemeyeceği" görüşüne karşı çıkar.</li>
+	<li>Birçok filozofun "Evren yaratılmamıştır, hep vardı ve hep var olacak." görüşüne karşı çıkar. Bu görüş, artık modern bilim tarafından da pek kabul görmemektir. (bknz: Big Bang Teorisi, Evrenin soğuması)</li>
+	<li>Aristonun "Bedenler yeniden dirilmez, karşılık görecek olan sadece ruhtur. Bu ceza sadece ruhanidir." görüşüne karşı çıkar. Aristonun yeniden dirilme görüşü doğrudur. Fakat bedenin dirilmeyeceği görüşü islama zıttır.</li>
+	<li>Bazı filozofların "Allah sadece genel şeyleri bilir, ince ayrıntıları bilemez" görüşüne de karşı çıkar. (bknz : sebe 3)</li>
+	<li></li>
 </ul>
