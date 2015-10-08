@@ -13,6 +13,7 @@ published: true
 dsq_thread_id:
   - "4184530088"
 ---
+<blockquote>Doğruyu kişisine göre tanıma! Önce doğruyu tanı ki doğru olanı da tanıyabilesin. (Hz.Ali)</blockquote>
 ad hominem türkçede ado-minim diye telafuz edilir, sözlük anlamını "bir kişiye" demektir. Şahsi safsata diyebiliriz.
 
 Mantıkta; bir şahşa ilişkin safsatalara verilen addır. Kişi hedef alınarak, arguman çürütülmeye çalışılır.
