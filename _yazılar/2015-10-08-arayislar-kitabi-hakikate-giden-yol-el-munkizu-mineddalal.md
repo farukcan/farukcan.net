@@ -10,6 +10,8 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4207209274"
+dsq_needs_sync:
+  - "1"
 ---
 Çeşitli yayın evlerinden, farklı isimlerde yayınlanan Gazalinin , El-munkiz adlı kitabının Doç.dr.Osman Gürman tarafından tercümesini okumuş bulunmaktayım.
 <h1>Özet</h1>
@@ -26,5 +28,5 @@ dsq_thread_id:
 	<li>Aristonun "<em>Bedenler yeniden dirilmez, karşılık görecek olan sadece ruhtur. Bu ceza sadece ruhanidir</em>." görüşüne karşı çıkar. Aristonun yeniden dirilme görüşü doğrudur. Fakat bedenin dirilmeyeceği görüşü islama zıttır.</li>
 	<li>Bazı filozofların "Allah sadece genel şeyleri bilir, ince ayrıntıları bilemez" görüşüne de karşı çıkar. (bknz : sebe 3)</li>
 	<li>Doğruyu kişisine göre tanıma! Önce doğruyu tanı ki doğru olanı da tanıyabilesin. (Hz.Ali). <em>Akıllı kimse, doğru söyleyeni ister yanlış yolda olsun, ister doğru yolda, kabul eder</em>. [S 34]</li>
-	<li><strong>Mantık Bilimini bilmeyen bir kişi <span style="text-decoration: underline;">felsefeyle kesinlikle uğraşmamalıdır.</span> </strong>[Benim görüşüm; Mantıklı olmakla, mantık bilimini bilmek aynı şey değildir. En mantıksız insan bile mantıklı olduğunu düşünebilir] <em>Çünkü deniz kıyısında yüzme bilmeyenler, denizden uzak tutulur, usta yüzücüler değil. Yılana dokunmaktan, çocuklar uzak tutulur, işini bilen afsuncu değil. [S 34]</em></li>
+	<li><strong>Mantık Bilimini bilmeyen bir kişi <span style="text-decoration: underline;">felsefeyle kesinlikle uğraşmamalıdır.</span> </strong>[ Mantıklı olmakla, mantık bilimini bilmek aynı şey değildir. En mantıksız insan bile mantıklı olduğunu düşünebilir] <em>Çünkü deniz kıyısında yüzme bilmeyenler, denizden uzak tutulur, usta yüzücüler değil. Yılana dokunmaktan, çocuklar uzak tutulur, işini bilen afsuncu değil. [S 34]</em></li>
 </ul>
