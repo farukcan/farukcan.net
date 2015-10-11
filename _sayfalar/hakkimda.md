@@ -12,9 +12,7 @@ dsq_thread_id:
 dsq_needs_sync:
   - "1"
 ---
-Merhaba ben, ömer faruk can.  Faruk diye hitap edebilirsiniz, etmeseniz de olur. Bilgi ile alakalı şeylerle ilgilenirim; bilgisayar, veri, mantık, felsefe, yapay zeka.  Bu kadar. Artık aşağıdaki gereksiz ayrıntıları okumanıza gerek yok, okumaya üşenmeniz için ingilizce yazdım.
-
-&nbsp;
+<span style="line-height: 1.6471;"> </span>
 
 Ömer Faruk CAN
 
