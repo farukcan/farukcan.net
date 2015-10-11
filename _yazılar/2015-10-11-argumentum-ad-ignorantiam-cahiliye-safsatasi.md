@@ -8,10 +8,12 @@ post_date: 2015-10-11 19:34:23
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2015/10/argumentum-ad-ignorantiam-cahiliye-safsatasi/
+  http://farukcan.net/mantik/2015/10/argumentum-ad-ignorantiam-cahiliye-safsatasi/
 published: true
+dsq_needs_sync:
+  - "1"
 ---
-Argumentum ad ignorantiam, cahiliye-safsatası olarak türkçeye çevrilebilir. Bilgi eksikliğiyle oluşturulan veya bilgi eksikliğinin kullanıldığı safsata argumanlardır. Bilgi eksikliği olarak daha çok "kanıtlıyıcı bilgi" eksikliği kullanılır.
+Argumentum ad ignorantiam, cahiliye-safsatası olarak türkçeye çevrilebilir. Bilgi eksikliğiyle oluşturulan veya bilgi eksikliğinin kullanıldığı safsata argumanlardır. Bilgi eksikliği olarak daha çok "kanıtlayıcı bilgi" eksikliği kullanılır. (Bunlara "ispatlama mecburiyeti safsatası" da diyebiliriz)
 
 Dikkat etmeliyiz ki, bir şey
 <ul>
@@ -26,7 +28,7 @@ olur.
 
 Tanrının yokluğu kimse tarafından ispatlanamamıştır. Öyleyse tanrı vardır.
 
-<span style="text-decoration: underline;">Tanrının olmadığını ispat edemezsin, o zaman yoktur diyemezsin.<del> </del></span>(Bu argüman doğrudur. Üstteki ile farkına dikkat edin)
+<span style="text-decoration: underline;">Tanrının olmadığını ispat edemezsin, o zaman yoktur diyemezsin.<del> </del></span>(Bu argüman doğrudur. [Fakat karşıdaki "vardır da diyemezsin" diye cevap verme hakkına sahiptir] Üstteki ile farkına dikkat edin)
 
 Ben bilmiyorum, öyleyse yoktur.
 
