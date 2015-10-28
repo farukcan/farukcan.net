@@ -10,8 +10,6 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4207209274"
-dsq_needs_sync:
-  - "1"
 ---
 Çeşitli yayın evlerinden, farklı isimlerde yayınlanan Gazalinin , El-munkiz adlı kitabının Doç.dr.Osman Gürman tarafından tercümesini okumuş bulunmaktayım.
 <h1>Özet</h1>
@@ -29,4 +27,9 @@ dsq_needs_sync:
 	<li>Bazı filozofların "Allah sadece genel şeyleri bilir, ince ayrıntıları bilemez" görüşüne de karşı çıkar. (bknz : sebe 3)</li>
 	<li>Doğruyu kişisine göre tanıma! Önce doğruyu tanı ki doğru olanı da tanıyabilesin. (Hz.Ali). <em>Akıllı kimse, doğru söyleyeni ister yanlış yolda olsun, ister doğru yolda, kabul eder</em>. [S 34]</li>
 	<li><strong>Mantık Bilimini bilmeyen bir kişi <span style="text-decoration: underline;">felsefeyle kesinlikle uğraşmamalıdır.</span> </strong>[ Mantıklı olmakla, mantık bilimini bilmek aynı şey değildir. En mantıksız insan bile mantıklı olduğunu düşünebilir] <em>Çünkü deniz kıyısında yüzme bilmeyenler, denizden uzak tutulur, usta yüzücüler değil. Yılana dokunmaktan, çocuklar uzak tutulur, işini bilen afsuncu değil. [S 34] Çocukların eline tüfek verilmez, uzak tutulmalıdırlar fakat bir asker bundan uzak tutulmaz.</em></li>
+	<li>Akıl tek başına, anlaşılmaz noktalardaki bütün sır perdelerini kaldıracak kadar yeterli değildir. [S 39]</li>
+	<li>Nübüvvete delil olarak ; Astronomide bin yıldan gerçekleşen şeylerinin bilinmesinin çok zor olduğunu ve ilaç biliminin özelliklerinin tespitini neredeyse imkansız olduğunu, bunların sadece peygamberler tarafından indirilmiş bilgiler olabileceğini söyleyip, delil olarak bunu göstermiştir. [s 62]</li>
+	<li><strong>Bir ilmi bilen, o ilmin ustalarının kim olduğunu bilir.</strong> "Tıp bilen, kimin hakiki doktor olduğunu ayırt eder. Fakat bilmeyen ayırt edemez." dedikten sonra peygamberlerin bilmini bilen kişide, kimin peygamber olup olmadığını böyle anlar.</li>
+	<li>"Kim bir zalime yardım ederse, Allah o zalimi onun başına musallat eder." (Bir zalimi desteklersen, ilerde onun sana da zulmedebileceğini hesaba katman gerekir, onun için yılanı başında keseceksin.)</li>
+	<li></li>
 </ul>
