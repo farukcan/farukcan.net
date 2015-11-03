@@ -10,8 +10,10 @@ layout: post
 permalink: >
   http://farukcan.net/algoritmalar/2015/11/bezir-egrisi-uretimi-ve-opengl-glut-ile/
 published: true
+dsq_needs_sync:
+  - "1"
 ---
-<pre>#include &lt;stdlib.h&gt;
+<pre lang="c">#include &lt;stdlib.h&gt;
 #include &lt;GL/glut.h&gt;
 
 #define EKRAN 720
