@@ -8,13 +8,22 @@ post_date: 2015-11-03 15:29:53
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2015/11/bezir-egrisi-uretimi-ve-opengl-glut-ile/
+  http://farukcan.net/algoritmalar/2015/11/bezir-egrisi-uretimi-ve-opengl-glut-ile/
 published: true
 ---
 <pre>#include &lt;stdlib.h&gt;
 #include &lt;GL/glut.h&gt;
 
 #define EKRAN 720
+
+/*
+   ### CC BY-SA Lisansı ###
+   http://ozgurlisanslar.org.tr/creative-commons/attribution-sharealike-cc-by-sa/
+   Faruk Can tarafından geliştirildi.
+   Hakları Saklıdır. ve Faruk Can'a aittir
+   Lütfen alıntı yaptığınızı belirtiniz.
+   omer@farukcan.net
+*/
 
 GLfloat p[4][2] = {
     {-0.9f,0}, // p0
@@ -23,7 +32,6 @@ GLfloat p[4][2] = {
     {0.9f,0} // p3
 }; // 4 adet bezier noktası
 
-
 int hassasiyet = 5; // bezier eğirisinin kaç çizgiden oluşacağını belirler 
 
 // fonk - draw - görüntüyü çizer
@@ -31,7 +39,6 @@ void draw (void)
 {
 
    glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT); // önceki görüntüyü temizle
-   
 
    bezierEgrisi(hassasiyet);
    bezierNoktalari();
@@ -39,7 +46,6 @@ void draw (void)
    glFlush();
 
 }//enddraw
-
 
 // fonk - c - bezier noktalarını oluşturan formül c(t) = p0*(1-t)^3 + 3p1*t*(1-t)^2 + 3p2t^2(1-t) + p3t^3
 GLfloat c (
@@ -52,7 +58,6 @@ GLfloat c (
             3*p[2][y]*t*t*(1.0f-t) + 
             p[3][y]*t*t*t;
 } //endc
-
 
 // fonk - bezierEgrisi - bezir egrisi çizer
 void bezierEgrisi (
@@ -75,7 +80,7 @@ void bezierNoktalari (
     /* - */ void)
 {
    /* cache */ int i;
-    
+
    glColor3f(1.0, 0.0, 0.0); // kırmızı renkte çiz
    glPointSize(5.0f); // 5kat büyük nokta
    glBegin(GL_POINTS);
@@ -122,7 +127,6 @@ void bezir_noktasi_degistir(int x, int y){
  p[secili_nokta][1] = ekran2koory(y);
 }
 
-
 void keyboard(unsigned char key, int x, int y){
     printf("%c %i | %i %i \n",key,key,x,y );
     if(key==43) hassasiyet+=1; // hassasiyeti arttır + tuşu
@@ -155,8 +159,6 @@ int main(int argc, char** argv)
    glutMouseFunc(mouse);
 
    glutMainLoop();
-  
-   return 0;
-}
 
-</pre>
+   return 0;
+}</pre>
