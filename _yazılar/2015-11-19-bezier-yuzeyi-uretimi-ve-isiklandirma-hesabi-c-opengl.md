@@ -10,6 +10,8 @@ layout: post
 permalink: >
   http://farukcan.net/genel/2015/11/bezier-yuzeyi-uretimi-ve-isiklandirma-hesabi-c-opengl/
 published: true
+dsq_needs_sync:
+  - "1"
 ---
 <a href="http://farukcan.net/wp-content/uploads/2015/11/ekran.png"><img class="alignnone size-full wp-image-421" alt="ekran" src="http://farukcan.net/wp-content/uploads/2015/11/ekran.png" width="765" height="635" /></a>
 <pre lang="c">#include <stdio.h>
