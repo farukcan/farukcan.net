@@ -12,9 +12,11 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4285701907"
+dsq_needs_sync:
+  - "1"
 ---
 <a href="http://farukcan.net/wp-content/uploads/2015/11/bezier.png"><img class="alignnone size-full wp-image-417" alt="bezier" src="http://farukcan.net/wp-content/uploads/2015/11/bezier.png" width="722" height="745" /></a>
-<pre lang="c">#include &lt;stdlib.h&gt;
+<pre>#include &lt;stdlib.h&gt;
 #include &lt;GL/glut.h&gt;
 
 #define EKRAN 720
