@@ -10,9 +10,10 @@ layout: post
 permalink: >
   http://farukcan.net/algoritmalar/2015/11/bezir-egrisi-uretimi-ve-opengl-glut-ile/
 published: true
-dsq_needs_sync:
-  - "1"
+dsq_thread_id:
+  - "4285701907"
 ---
+<a href="http://farukcan.net/wp-content/uploads/2015/11/bezier.png"><img class="alignnone size-full wp-image-417" alt="bezier" src="http://farukcan.net/wp-content/uploads/2015/11/bezier.png" width="722" height="745" /></a>
 <pre lang="c">#include &lt;stdlib.h&gt;
 #include &lt;GL/glut.h&gt;
 
