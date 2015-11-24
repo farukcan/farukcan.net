@@ -9,8 +9,6 @@ permalink: http://farukcan.net/hakkimda/
 published: true
 dsq_thread_id:
   - "4022871026"
-dsq_needs_sync:
-  - "1"
 ---
 <span style="line-height: 1.6471;"> </span>
 
@@ -60,7 +58,7 @@ E-mail : omer@farukcan.net
 	<li>Embedded Systems: Ardunio , Raspberry</li>
 	<li>Linux : ubuntu/mint/debian</li>
 	<li>Cryptology (by Rıfat Yazıcı)</li>
-	<li>Web App Security /  Cyber Security</li>
+	<li>Web App Security /  Cyber Security (by <a href="http://mehmetince.net">Mehmet Ince</a>)</li>
 	<li>Real-timed systems</li>
 </ul>
 <strong>My Projest :</strong>
