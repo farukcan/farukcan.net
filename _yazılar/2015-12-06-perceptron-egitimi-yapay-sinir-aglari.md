@@ -6,10 +6,12 @@ post_date: 2015-12-06 23:46:51
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2015/12/perceptron-egitimi-yapay-sinir-aglari/
+  http://farukcan.net/algoritmalar/2015/12/perceptron-egitimi-yapay-sinir-aglari/
 published: true
+dsq_thread_id:
+  - "4381511103"
 ---
-<iframe src="http://farukcan.net/examples/ysa.html" width="100%" height="600"></iframe>
+<iframe src="http://farukcan.net/examples/ysa.html" width="100%" height="700"></iframe>
 <pre lang="javascript">
 
 
@@ -54,7 +56,7 @@ published: true
                 } else {
 
                     for (var i = 0; i < w.length; i++) {
-                        w[i] = w[i] + c * (beklenen[j] - o) * data[j][i];
+                        w[i] = w[i] + c * (beklenen[j] - o) * data[j][i] / 2;
                     }
                 }
 
