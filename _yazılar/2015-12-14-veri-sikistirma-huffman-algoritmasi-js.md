@@ -11,4 +11,4 @@ published: true
 dsq_needs_sync:
   - "1"
 ---
-<iframe src="examples/huffman.html height=500 widht="100%"></iframe>
+<iframe src="http://farukcan.net/examples/huffman.html height=500 widht="100%"></iframe>
