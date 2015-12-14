@@ -8,7 +8,9 @@ layout: post
 permalink: >
   http://farukcan.net/algoritmalar/2015/12/veri-sikistirma-huffman-algoritmasi-js/
 published: true
+dsq_thread_id:
+  - "4403155488"
 dsq_needs_sync:
   - "1"
 ---
-<iframe src="http://farukcan.net/examples/huffman.html height=500 widht="100%"></iframe>
+<iframe src="http://farukcan.net/examples/huffman.html" height=1500 width="100%"></iframe>
