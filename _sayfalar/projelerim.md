@@ -1,6 +1,6 @@
 ---
 ID: 38
-post_title: Projects
+post_title: Proje
 author: farukcan
 post_date: 2014-05-20 14:40:54
 post_excerpt: ""
