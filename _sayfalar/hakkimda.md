@@ -1,6 +1,6 @@
 ---
 ID: 9
-post_title: About me
+post_title: ? ? ?
 author: farukcan
 post_date: 2014-02-27 12:11:37
 post_excerpt: ""
