@@ -13,7 +13,7 @@ dsq_needs_sync:
 ---
 Bu oyunda YZ, oyuncunun yaptığı hamlenin ardından, kendi yapacağı hamlelerin durum uzayını oluşturup sezgisel fonksiyon ile ileriye yönelik hamleleri bir puan vermektedir. Bunu yaparken, rakibinin bir sonraki hamlesini de göz önüne alır.
 
-<iframe src="http://farukcan.net/examples/tiktakto.html" width="100%" height="510px"></iframe>
+<iframe src="http://farukcan.net/examples/tiktakto.html" width="100%" height="550px"></iframe>
 
 <pre lang="javascript">
 /**
