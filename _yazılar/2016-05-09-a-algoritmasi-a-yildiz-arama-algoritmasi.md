@@ -6,8 +6,10 @@ post_date: 2016-05-09 19:17:00
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2016/05/a-algoritmasi-a-yildiz-arama-algoritmasi/
+  http://farukcan.net/algoritmalar/2016/05/a-algoritmasi-a-yildiz-arama-algoritmasi/
 published: true
+dsq_thread_id:
+  - "4812561797"
 ---
 <strong>Amacı</strong> : Bir düğümden, diğer düğüme en az maliyetli çözümü bulmak
 
@@ -22,6 +24,9 @@ published: true
 	<li>Gezgin satıcı probleminin çözümü</li>
 	<li>Labirentten en kısa çıkışı bulma</li>
 </ul>
+&nbsp;
+
+<strong>f(x)</strong> : durum fonksiyonu. Az olması, o durumun daha az maliyetli olduğunu belirtir.
 <pre>f(x) = g(x) + h(x)</pre>
 <strong>g(x) :</strong> Başlangıç durumuna göre maliyetimiz.
 
