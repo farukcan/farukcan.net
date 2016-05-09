@@ -10,6 +10,8 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4812561797"
+dsq_needs_sync:
+  - "1"
 ---
 <strong>Amacı</strong> : Bir düğümden, diğer düğüme en az maliyetli çözümü bulmak
 
