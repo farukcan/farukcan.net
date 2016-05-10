@@ -39,9 +39,18 @@ OPEN.ekle(başlangıç düğümü)
 DÖNGÜ - OPEN dizi boyutu 0 olmadığı müddetçe
     şuanki düğüm &lt;- OPEN.ilk elemanı
     OPEN.sil(şuanki düğüm)
-    eğer şuanki düğüm, hedef düğüm ise
+    EĞER şuanki_düğüm, hedef düğüm ise
         DÖNGÜden çık
-    şuanki düğüm.closed=true
-    şuanki düğüm.gCostHesapla
-
-</pre>
+    şuanki_düğüm.closed=true
+    şuanki_düğüm.gCostHesapla()
+    komşular = şuanki_düğüm.komşular
+    DÖNGÜ komşu &lt;- komşular
+        EĞERkomşu.closed ise ÇIK
+        maliyet = şuanki_düğüm.gCost + komşuya_uzaklık
+        komşu.gCostHesapla()
+        EĞER komşu.OPENdaDeğilse veya maliyet&lt;komşu.gCost ise
+            komşu.gCost = maliyet
+            komşu.hCostHesapla()
+            komşu.ebeveyn = şuanki_düğüm
+            EĞER komşu.OPENdaDeğilse
+                OPEN.ekle(komşu)</pre>
