@@ -10,8 +10,6 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4812561797"
-dsq_needs_sync:
-  - "1"
 ---
 <strong>Amacı</strong> : Bir düğümden, diğer düğüme en az maliyetli çözümü bulmak
 
@@ -59,5 +57,10 @@ DÖNGÜ - OPEN dizi boyutu 0 olmadığı müddetçe
 OPEN dizi boyutu 0 olduğu için DÖNGÜden çıkıldıysa // HEDEFE ULAŞAMADI</pre>
 
 <h2>Javascript Kodu</h2>
+FIND (Yol bulmayı başlat) <br>
+RELOAD (Gridi yeniden yükle) <br>
+ilk tık -> başlangıç karesi<br>
+2. tık -> hedef kare<br>
+sonraki tıklar -> engel oluştur<br>
 <p data-height="927" data-theme-id="dark" data-slug-hash="dMawLJ" data-default-tab="result" data-user="farukcan" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/farukcan/pen/dMawLJ/">A* Algoritması</a> by farukcan (<a href="http://codepen.io/farukcan">@farukcan</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
