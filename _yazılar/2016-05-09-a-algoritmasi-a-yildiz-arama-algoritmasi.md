@@ -58,6 +58,6 @@ DÖNGÜ - OPEN dizi boyutu 0 olmadığı müddetçe
                 OPEN.ekle(komşu)
 OPEN dizi boyutu 0 olduğu için DÖNGÜden çıkıldıysa // HEDEFE ULAŞAMADI</pre>
 
-
+<h2>Javascript Kodu</h2>
 <p data-height="927" data-theme-id="dark" data-slug-hash="dMawLJ" data-default-tab="result" data-user="farukcan" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/farukcan/pen/dMawLJ/">A* Algoritması</a> by farukcan (<a href="http://codepen.io/farukcan">@farukcan</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
