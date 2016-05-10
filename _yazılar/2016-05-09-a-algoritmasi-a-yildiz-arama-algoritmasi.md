@@ -10,8 +10,6 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4812561797"
-dsq_needs_sync:
-  - "1"
 ---
 <strong>Amacı</strong> : Bir düğümden, diğer düğüme en az maliyetli çözümü bulmak
 
@@ -33,3 +31,17 @@ dsq_needs_sync:
 <strong>g(x) :</strong> Başlangıç durumuna göre maliyetimiz.
 
 <strong>h(x) :</strong> Bitiş duruma olan sezgisel maliyet.
+<h2>Algoritma</h2>
+<pre>OPEN -&gt; // fCost'a göre sıralı dizi
+
+OPEN.ekle(başlangıç düğümü)
+
+DÖNGÜ - OPEN dizi boyutu 0 olmadığı müddetçe
+    şuanki düğüm &lt;- OPEN.ilk elemanı
+    OPEN.sil(şuanki düğüm)
+    eğer şuanki düğüm, hedef düğüm ise
+        DÖNGÜden çık
+    şuanki düğüm.closed=true
+    şuanki düğüm.gCostHesapla
+
+</pre>
