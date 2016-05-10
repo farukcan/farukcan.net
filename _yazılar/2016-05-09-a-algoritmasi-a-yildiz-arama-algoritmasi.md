@@ -10,6 +10,8 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4812561797"
+dsq_needs_sync:
+  - "1"
 ---
 <strong>Amacı</strong> : Bir düğümden, diğer düğüme en az maliyetli çözümü bulmak
 
@@ -34,18 +36,18 @@ dsq_thread_id:
 <h2>Algoritma</h2>
 <pre>OPEN -&gt; // fCost'a göre sıralı dizi
 
-OPEN.ekle(başlangıç düğümü)
+OPEN.ekle(başlangıç_düğümü)
 
 DÖNGÜ - OPEN dizi boyutu 0 olmadığı müddetçe
-    şuanki düğüm &lt;- OPEN.ilk elemanı
+    şuanki_düğüm &lt;- OPEN.ilk elemanı
     OPEN.sil(şuanki düğüm)
     EĞER şuanki_düğüm, hedef düğüm ise
-        DÖNGÜden çık
+        DÖNGÜden çık // HEDEFE ULAŞTI
     şuanki_düğüm.closed=true
     şuanki_düğüm.gCostHesapla()
     komşular = şuanki_düğüm.komşular
     DÖNGÜ komşu &lt;- komşular
-        EĞERkomşu.closed ise ÇIK
+        EĞER komşu.closed ise SONRAKİ_KOMŞUYA_GEÇ
         maliyet = şuanki_düğüm.gCost + komşuya_uzaklık
         komşu.gCostHesapla()
         EĞER komşu.OPENdaDeğilse veya maliyet&lt;komşu.gCost ise
@@ -53,4 +55,5 @@ DÖNGÜ - OPEN dizi boyutu 0 olmadığı müddetçe
             komşu.hCostHesapla()
             komşu.ebeveyn = şuanki_düğüm
             EĞER komşu.OPENdaDeğilse
-                OPEN.ekle(komşu)</pre>
+                OPEN.ekle(komşu)
+OPEN dizi boyutu 0 olduğu için DÖNGÜden çıkıldıysa // HEDEFE ULAŞAMADI</pre>
