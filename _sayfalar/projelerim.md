@@ -18,6 +18,7 @@ Yayınlanmış projelerim:
 	<li><strong>Vampir Kim? :</strong> Web tabanlı ChatRPG oyunu YAYIN DIŞI  <em>2014 Mayıs+Haziran</em></li>
 	<li><strong>Who is Vampire?</strong> : Web tabanlı ChatRPG oyunu (Vampir Kim?in 2. sürümü) <a title="Who is Vampire" href="http://whoisvampire.com">Oyna</a> <em>2015 Temmuz</em></li>
 	<li><strong>Hack Riddle</strong> : Sibergüvenlik için öğretici oyun. ( <a href="http://hack.farukcan.net">Oyna</a> )</li>
+	<li><strong>kartal.io</strong> : Gerçek zamanlı web tabanlı online oyun ve Nöroevrimsel yapay zeka. ( <a title="Kartal.io" href="http://kartal.io">Oyna</a> )</li>
 </ol>
 &nbsp;
 <h1 style="text-align: center;">Projects that working on</h1>
