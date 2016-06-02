@@ -9,6 +9,8 @@ permalink: http://farukcan.net/hakkimda/
 published: true
 dsq_thread_id:
   - "4022871026"
+dsq_needs_sync:
+  - "1"
 ---
 <span style="line-height: 1.6471;"> </span>Ömer Faruk CAN
 
@@ -45,18 +47,21 @@ E-mail : omer@farukcan.net
 	<li>SQL / MySQL</li>
 	<li>HTML / 5</li>
 	<li>CSS</li>
-	<li>C/C++ (by Rıfat Yazıcı)</li>
+	<li>C/C++ (by Prof.Dr.Rıfat Yazıcı)</li>
 	<li>C#</li>
 	<li>Java (by <a href="http://www.kasapbasi.org/">M.C Kasapbaşı</a>)</li>
 	<li>V. Basic 6</li>
+	<li>Python</li>
 	<li>OpenGL</li>
 	<li>MongoDB (NoSQL)</li>
 	<li>Embedded Systems: Ardunio , Raspberry</li>
 	<li>Linux : ubuntu/mint/debian</li>
 	<li>Artificial intelligence, Artificial Neural Networks, Genetic Algorithms</li>
-	<li>Cryptology (by Rıfat Yazıcı)</li>
+	<li>Cryptology (by Prof.Dr.Rıfat Yazıcı)</li>
 	<li>Web App Security /  Cyber Security (by <a href="http://mehmetince.net">Mehmet Ince</a>)</li>
 	<li>Real-timed systems (Game Physics &amp; Rendering)</li>
+	<li>Network (by Prof.Dr.Abdülhalim zaim)</li>
+	<li>Network Security (by Muhammed Ali AYDIN)</li>
 </ul>
 <strong>Languages</strong>
 <ul>
