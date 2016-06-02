@@ -10,9 +10,7 @@ published: true
 dsq_thread_id:
   - "4022871026"
 ---
-<span style="line-height: 1.6471;"> </span>
-
-Ömer Faruk CAN
+<span style="line-height: 1.6471;"> </span>Ömer Faruk CAN
 
 İstanbul / Turkey
 
@@ -46,30 +44,25 @@ E-mail : omer@farukcan.net
 	<li>JavaScript : NodeJS, Jquery, Phaser, Angular.js, socket.io</li>
 	<li>SQL / MySQL</li>
 	<li>HTML / 5</li>
-	<li>CSS : Bootstap, JqueryUI</li>
+	<li>CSS</li>
 	<li>C/C++ (by Rıfat Yazıcı)</li>
 	<li>C#</li>
 	<li>Java (by <a href="http://www.kasapbasi.org/">M.C Kasapbaşı</a>)</li>
 	<li>V. Basic 6</li>
 	<li>OpenGL</li>
-	<li>OpenAL</li>
-	<li>NoSQL</li>
-	<li>MongoDB</li>
+	<li>MongoDB (NoSQL)</li>
 	<li>Embedded Systems: Ardunio , Raspberry</li>
 	<li>Linux : ubuntu/mint/debian</li>
+	<li>Artificial intelligence, Artificial Neural Networks, Genetic Algorithms</li>
 	<li>Cryptology (by Rıfat Yazıcı)</li>
 	<li>Web App Security /  Cyber Security (by <a href="http://mehmetince.net">Mehmet Ince</a>)</li>
-	<li>Real-timed systems</li>
-</ul>
-<strong>My Projest :</strong>
-<ul>
-	<li>My latest projects ; http://farukcan.net/projelerim/</li>
+	<li>Real-timed systems (Game Physics &amp; Rendering)</li>
 </ul>
 <strong>Languages</strong>
 <ul>
-	<li>Turkish - Türkçe : Native &amp; <em>Ottoman Turkish /  (لسان عثمانى)  : reading/okuma (with rika script)</em></li>
+	<li>Turkish - Türkçe : Native</li>
 	<li>English : intermediate level</li>
-	<li>Japanese - 日本語　: Learning (Hiragana&amp;Romaji only)</li>
+	<li>Japanese - 日本語　: Beginner (Hiragana&amp;Romaji)</li>
 	<li>Arabian (<span class="short_text" id="result_box" lang="ar"><span class="hps">العربية</span></span>) : Learning</li>
 </ul>
 <strong>Literature</strong>
