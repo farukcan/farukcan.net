@@ -6,11 +6,13 @@ post_date: 2016-06-16 23:14:39
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2016/06/javascript-scope-incelikleri/
+  http://farukcan.net/javascript/2016/06/javascript-scope-incelikleri/
 published: true
+dsq_needs_sync:
+  - "1"
 ---
 Bir fonksiyon veya değişken, oluşturulduğu yerin scopeuna dahildir. Kullanıldığı yerin değil.
-<pre>var random = function(){
+<pre lang="javascript">var random = function(){
 	return Math.floor(Math.random()*100);
 }
 var sagas = [];
