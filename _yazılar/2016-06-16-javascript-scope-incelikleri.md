@@ -20,10 +20,10 @@ var hero = "faruk"+random(); // faruk7
 
 var newSaga = function(){
 	var foil = "thefoil"+random();
-	sagas[0] = function(){
+	sagas.push(function(){
 		var deed = "thedeed"+random();
 		console.log(hero+deed+foil);
-	};
+	});
 };
 
 newSaga();
