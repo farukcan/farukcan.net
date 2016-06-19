@@ -6,8 +6,10 @@ post_date: 2016-06-19 20:18:05
 post_excerpt: ""
 layout: post
 permalink: >
-  http://farukcan.net/genel/2016/06/kartal-io-cok-oyunculu-tarayici-oyunu/
+  http://farukcan.net/projelerim/2016/06/kartal-io-cok-oyunculu-tarayici-oyunu/
 published: true
+dsq_thread_id:
+  - "4922813761"
 ---
 kartal.io çok oyunculu bir web tarayıcı oyunudur. Google playde android sürümüde mevcuttur.
 
@@ -54,5 +56,12 @@ Onun için diğer kartallarla uyum içinde olmalı, çarpışmalardan ve av olma
 	<li><a href="http://farukcan.net/examples/kartaliolibs/Vec2.js">Vec2 </a>: Vektör sınıfı</li>
 </ul>
 <strong>Not</strong> : kartal.io için kullandığım ve "kendi teknolojilerim" başlığı altındaki kütüphaneler GNU GPL lisansı ile açık kaynaklıdır. Oyunun kodları, kapalı kaynak kodludur.
-
-&nbsp;
+<pre>kartal.io is a multiplayer browser game. Also downloadable on Google Play.
+In game , your purpose is, eat smaller eagles or foods for grow up.
+The game has easy controls. Flap or fall. Press space button or click for flap. 
+Press CTRL or right click for switch to attack mode.
+If you hunted by bigger eagle or fall to ground, you will die.
+And if you impact to oncoming eagle, you will get damage.
+You must be in rapport with another eagles.
+Play : http://kartal.io
+Google Play : https://play.google.com/store/apps/details?id=net.farukcan.kartalio</pre>
