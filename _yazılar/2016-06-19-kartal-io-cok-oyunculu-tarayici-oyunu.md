@@ -22,6 +22,8 @@ Onun için diğer kartallarla uyum içinde olmalı, çarpışmalardan ve av olma
 <strong>Oyna</strong> : <a href="http://kartal.io">kartal.io</a>
 
 <strong>Google Play : </strong><a href="https://play.google.com/store/apps/details?id=net.farukcan.kartalio">kartal.io (Android)</a>
+<p style="text-align: center;"><a href="http://farukcan.net/wp-content/uploads/2016/06/3b10ba56-bb4a-4f46-8ca9-0c62fc813283.jpg"><img class=" wp-image-503 aligncenter" alt="3b10ba56-bb4a-4f46-8ca9-0c62fc813283" src="http://farukcan.net/wp-content/uploads/2016/06/3b10ba56-bb4a-4f46-8ca9-0c62fc813283.jpg" width="1280" height="720" /></a></p>
+
 <h2>Teknik Detaylar</h2>
 <h3>Kullanılan Teknolojiler</h3>
 <ul>
