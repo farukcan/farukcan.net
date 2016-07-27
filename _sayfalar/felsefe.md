@@ -7,8 +7,8 @@ post_excerpt: ""
 layout: page
 permalink: http://farukcan.net/felsefe/
 published: true
-dsq_needs_sync:
-  - "1"
+dsq_thread_id:
+  - "5019525588"
 ---
 <h1>Felsefi Makaleler</h1>
 <a href="http://farukcan.net/category/felsefe/">&gt; http://farukcan.net/category/felsefe/</a>
@@ -21,8 +21,3 @@ Ne kadar çok şey biliyorsun, değil mi? (27/7/16)</blockquote>
 <blockquote>Savaşlar ve kavgalar bitsin diyorsun. Ama kendi siyasi düşüncende olmayana vatan haini etiketini yapıştırıyorsun. Aynı dinden/mezhepten olmadığın, insanın yaşamaya bile hakkının olmadığını söylüyorsun. Düşün, savaş ve kavga çıkaran kim?
 Hangi tarafın haklı olduğu seni ilgilendirmez. Yargıç değilsin.Ancak hangi 'düşünce' haklı, o seni ilgilendirir. Kimin ne yaptığı da seni ilgilendirmez,şahit değilsin. Ancak "neden yaptığı" seni ilgilendirir.
 Onun için Sokrates, "Akıllı insanlar düşünceleri tartışır, vasat insanlar olayları tartışır, aptal insanlar insanları tartışır." der .(25/7/16)</blockquote>
-&nbsp;
-
-&nbsp;
-
-&nbsp;
