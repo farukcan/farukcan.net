@@ -13,6 +13,7 @@ dsq_thread_id:
 <h1>Felsefi Makaleler</h1>
 <a href="http://farukcan.net/category/felsefe/">&gt; http://farukcan.net/category/felsefe/</a>
 <h1>Felsefi Kısa Yazılar</h1>
+<blockquote>Kanser, virüs değildir. Bir hücremizin mutasyona uğrayarak ,işbirliğini bırakıp, sadece kendini düşünüp, sürekli çoğalarak , bencilce vucuda zarar vermeye başlamasıdır. Çok hücreli olan her canlıda ansızın meydana gelebilir. Onun için hiçbir canlı kusursuz ve mükemmel değildir. Hatta dünyanın ve doğanın kanseri de insanoğludur. (30/7/16)</blockquote>
 <blockquote>Dünya senin etrafında dönmüyor. Aksine sen dünya ile beraber döne döne sürükleniyorsun. Yolun nere gittiğini kimse bilmiyor. Kimse,bir kelebeğin kanat çırpmasının, dünyanın diğer ucunda fırtınalar yarattığını gözlemleyemedi. Kimse geleceği bilmiyor. Sadece *geleceğini* biliyor. Doğrusu, deterministik bir evrende mi yaşıyoruz, onu da bilmiyoruz. Aslında Öğrenmek dediğimiz şey, *ne kadar çok şeyi bilmediğimizi * öğrenmektir.
 Ne kadar çok şey biliyorsun, değil mi? (27/7/16)</blockquote>
 &nbsp;
