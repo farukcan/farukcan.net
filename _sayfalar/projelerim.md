@@ -24,11 +24,11 @@ Yayınlanmış projelerim:
 <h1 style="text-align: center;">Projects that working on</h1>
 Üzerinde çalıştığım projeler (yayınlanacak olan) :
 <ol>
-	<li><strong>TUBITAK 114E427 : </strong>Okul öncesi çocukların yazmayı öğrenmesi destekleyen uygulamalar sistemi</li>
+	<li><strong>TUBITAK 114E427 : </strong>Okul öncesi çocukların yazmayı öğrenmesi destekleyen uygulamalar sistemi ( <a href="http://e-tahtam.com">e-tahtam.com</a> )</li>
 	<li><strong>SubliminaLearn</strong> : Subliminal öğrenme sistemi ve uygulaması</li>
 	<li><strong>Muhasara </strong>: Real Time Browser based RPG Online Game</li>
 	<li><strong>Kaptan : </strong>Ses kontrol tabanlı, strateji oyunu</li>
-	<li><strong>phpratik : . </strong><em>Yerli kullanım için basit,pratik,türk </em><strong>PHP framework</strong>u</li>
+	<li><strong>phpratik : . </strong><em>Yerli kullanım için basit,pratik,türk </em><strong>PHP framework</strong>u. <a href="http://farukcan.github.io/phpratik">GitHub : farukcan.github.io/phpratik</a></li>
 </ol>
 <h1 style="text-align: center;"> Private Projects</h1>
 Özel amaçlı projelerim , (yayınlanmayacak, üzerinde çalışılan/çalışılmayan):
