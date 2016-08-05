@@ -9,8 +9,6 @@ permalink: http://farukcan.net/projelerim/
 published: true
 dsq_thread_id:
   - "4022779833"
-dsq_needs_sync:
-  - "1"
 ---
 <h1 style="text-align: center;">Published Projects</h1>
 Yayınlanmış projelerim:
