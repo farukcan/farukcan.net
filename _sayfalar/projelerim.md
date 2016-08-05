@@ -9,11 +9,13 @@ permalink: http://farukcan.net/projelerim/
 published: true
 dsq_thread_id:
   - "4022779833"
+dsq_needs_sync:
+  - "1"
 ---
 <h1 style="text-align: center;">Published Projects</h1>
 Yayınlanmış projelerim:
 <ol>
-	<li><strong>avukatkutusu.com : </strong>Avukat bulma / ihale şeysi<a href="http://avukatkutusu.com"> <em>Siteye Git</em></a> <em>2013 Ekim - 2014</em> Ocak</li>
+	<li><strong>avukatkutusu.com : </strong>Avukat bulma / ihale şeysi<a href="http://avukatkutusu.com"> <em>Siteye Git</em></a>(YAYIN DIŞI) <em>2013 Ekim - 2014</em> Ocak</li>
 	<li><strong>fc_ram :</strong> PHP tabanlı inMemory Veri Tabanı <a href="http://farukcan.net/php/2014/05/fc_ram-inmemorynosql-database-proje/"><em>Öğren &amp; İndir </em></a><em>2014 Mayıs</em></li>
 	<li><strong>Vampir Kim? :</strong> Web tabanlı ChatRPG oyunu YAYIN DIŞI  <em>2014 Mayıs+Haziran</em></li>
 	<li><strong>Who is Vampire?</strong> : Web tabanlı ChatRPG oyunu (Vampir Kim?in 2. sürümü) <a title="Who is Vampire" href="http://whoisvampire.com">Oyna</a> <em>2015 Temmuz</em></li>
