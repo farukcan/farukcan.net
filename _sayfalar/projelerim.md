@@ -9,8 +9,6 @@ permalink: http://farukcan.net/projelerim/
 published: true
 dsq_thread_id:
   - "4022779833"
-dsq_needs_sync:
-  - "1"
 ---
 <h1 style="text-align: center;">Published Projects</h1>
 Yayınlanmış projelerim:
@@ -49,6 +47,7 @@ Yayınlanmış projelerim:
 	<li><strong>SubliminaLearn </strong>: Subliminal öğrenme sistemi ve uygulaması</li>
 	<li><strong>Muhasara </strong>: Real Time Browser based RPG Online Game</li>
 	<li><strong>Kaptan</strong> : Ses kontrol tabanlı, strateji oyunu</li>
+	<li><strong>ilmisima</strong> : Fizyonomi ile alakalı veri madenciliği amaçlı uygulama</li>
 </ol>
 &nbsp;
 
