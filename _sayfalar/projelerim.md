@@ -28,7 +28,6 @@ Yayınlanmış projelerim:
 <ol>
 	<li><strong>Gravity Voyager</strong> : Oyun</li>
 	<li><strong>Hatip</strong> : Türkçenin doğal olarak işlenmesi yapan uygulama</li>
-	<li><strong>Cezeri</strong> :</li>
 	<li><strong>Argame</strong> :</li>
 </ol>
 <h1 style="text-align: center;"> Private Projects</h1>
