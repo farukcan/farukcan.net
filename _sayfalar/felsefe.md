@@ -12,12 +12,12 @@ dsq_thread_id:
 dsq_needs_sync:
   - "1"
 ---
-
 <h1></h1>
 <h1>Felsefi Makaleler</h1>
 <a href="http://farukcan.net/category/felsefe/">&gt; http://farukcan.net/category/felsefe/</a>
 <h1>Felsefi Kısa Yazılar</h1>
-[responsivevoice_button voice="Turkish Female"]
+[responsivevoice voice="Turkish Female" buttontext="Sesli Dinle"]
+
 <blockquote>Sokratese göre, bir ülkede, Tıp ve Hukuk mesleklerinin yaygın olması, o ülkede düzenin bozuk olduğunu gösterir. Çünkü insanlar haklarını bilmediklerini için hukukçulara ihtiyaç duyar. Ve yine çünkü insanlar kendi sağlığı hakkında bir şeyler bilmediği için hasta olur ve doktorlara ihtiyaç duyar. (Devlet 405a/b Platon)</blockquote>
 <blockquote>Mutluluk, beyinde doğuştan yüklü gelen bir programdır. Yemek yemek,alış veriş yapmak gibi ihtiyaç karşılamaya yönelik şeylerde, beynimiz kendini mutlu eder, çünkü hayatta kalmaya yönelik bir şey yapıyoruzdur. Hayır, aslında tam olarak bu değil. Mutluluğa, "Hayatta kalmaya yönelik,kendini ödüllendirme mekanizması" diyemeyiz. Doğrusu, mutluluk "İnsan ırkının hayatta kalmasına yönelik, kendini ödüllendirme mekanizmasıdır." Onun için ikincil ve üçüncül ihtiyaçlar olan, üremek/seks, yardımlaşmak, bir şeyler öğrenmek, kendini geliştirmek ,intikam alıp-düşman yok-etmek ve birlik/beraber olmak gibi şeylerde, insanı mutlu eder. Mutsuz isen, bu program, ya alarm vermektedir yada sigara,içki veya uyuşturucu ile bozulmuştur. (31/7/16)</blockquote>
 <blockquote>Kanser, virüs değildir. Bir hücremizin mutasyona uğrayarak ,işbirliğini bırakıp, sadece kendini düşünüp, sürekli çoğalarak , bencilce vucuda zarar vermeye başlamasıdır. Çok hücreli olan her canlıda ansızın meydana gelebilir. Onun için hiçbir canlı kusursuz ve mükemmel değildir. Hatta dünyanın ve doğanın kanseri de insanoğludur. (30/7/16)</blockquote>
@@ -27,3 +27,5 @@ Ne kadar çok şey biliyorsun, değil mi? (27/7/16)</blockquote>
 <blockquote>Savaşlar ve kavgalar bitsin diyorsun. Ama kendi siyasi düşüncende olmayana vatan haini etiketini yapıştırıyorsun. Aynı dinden/mezhepten olmadığın, insanın yaşamaya bile hakkının olmadığını söylüyorsun. Düşün, savaş ve kavga çıkaran kim?
 Hangi tarafın haklı olduğu seni ilgilendirmez. Yargıç değilsin.Ancak hangi 'düşünce' haklı, o seni ilgilendirir. Kimin ne yaptığı da seni ilgilendirmez,şahit değilsin. Ancak "neden yaptığı" seni ilgilendirir.
 Onun için Sokrates, "Akıllı insanlar düşünceleri tartışır, vasat insanlar olayları tartışır, aptal insanlar insanları tartışır." der .(25/7/16)</blockquote>
+
+[/responsivevoice]
