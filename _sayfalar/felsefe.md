@@ -12,6 +12,8 @@ dsq_thread_id:
 dsq_needs_sync:
   - "1"
 ---
+[responsivevoice_button voice="Turkish Female"]
+<h1></h1>
 <h1>Felsefi Makaleler</h1>
 <a href="http://farukcan.net/category/felsefe/">&gt; http://farukcan.net/category/felsefe/</a>
 <h1>Felsefi Kısa Yazılar</h1>
