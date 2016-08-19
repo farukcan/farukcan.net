@@ -20,13 +20,12 @@ Yayınlanmış projelerim:
 	<li><strong>TUBITAK 114E427</strong> : Okul öncesi çocukların yazmayı öğrenmesi destekleyen uygulamalar sistemi ( <a href="http://e-tahtam.com">e-tahtam.com</a> )</li>
 	<li><strong>phpratik</strong> : . <em>Yerli kullanım için basit,pratik,türk </em>PHP frameworku. <a href="http://farukcan.github.io/phpratik">GitHub : farukcan.github.io/phpratik</a></li>
 </ol>
-&nbsp;
 <h1 style="text-align: center;">Projects that working on</h1>
 Üzerinde çalıştığım projeler (yayınlanacak olan) :
 <ol>
-	<li><strong>Gravity Voyager</strong> : Oyun</li>
-	<li><strong>Hatip</strong> : Türkçenin doğal olarak işlenmesi yapan uygulama</li>
-	<li><strong>Argame</strong> :</li>
+	<li><strong>Gravity Voyager</strong> : %30</li>
+	<li><strong>Hatip</strong> : %5</li>
+	<li><strong>Argame</strong> : %1</li>
 </ol>
 <h1 style="text-align: center;"> Private Projects</h1>
 Özel amaçlı projelerim , (yayınlanmayacak, üzerinde çalışılan/çalışılmayan):
