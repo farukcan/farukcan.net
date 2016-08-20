@@ -24,7 +24,7 @@ Yayınlanmış projelerim:
 Üzerinde çalıştığım projeler (yayınlanacak olan) :
 <ol>
 	<li><strong>Gravity Voyager</strong> : %30</li>
-	<li><strong>Hatip</strong> : %5</li>
+	<li><strong>Kâtip</strong> : %5</li>
 	<li><strong>Argame</strong> : %1</li>
 </ol>
 <h1 style="text-align: center;"> Private Projects</h1>
@@ -38,6 +38,7 @@ Yayınlanmış projelerim:
 	<li><strong>Rapor ve Mazeret Otomasyonu :</strong> ödev olarak yapmıştım</li>
 	<li><strong>Cezeri</strong> : Yapay zeka modülü</li>
 	<li><strong>BuzHokeyi* </strong>: Java/OpenGL tabanlı oyun/fizik moturu &amp; yapay zeka</li>
+	<li><strong>emlaktespit : </strong>bot</li>
 </ol>
 * ile işaretli projelerin ismi kesin değildir.
 <h1 style="text-align: center;">Abondoned Projects</h1>
