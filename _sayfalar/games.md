@@ -1,11 +1,11 @@
 ---
 ID: 544
-post_title: Games
+post_title: OYUNLAR
 author: farukcan
 post_date: 2016-08-31 03:00:48
 post_excerpt: ""
 layout: page
-permalink: http://farukcan.net/games/
+permalink: http://game.farukcan.net
 published: true
 ---
 <h1>Games</h1>
