@@ -8,5 +8,5 @@ layout: page
 permalink: http://game.farukcan.net
 published: true
 ---
-<h1>Games</h1>
-<h2>Redirecting ...</h2>
+<h1><a href="http://game.farukcan.net">Games</a></h1>
+<h2><a href="http://game.farukcan.net">Redirecting ...</a></h2>
