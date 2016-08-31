@@ -1,6 +1,6 @@
 ---
 ID: 544
-post_title: OYUNLAR
+post_title: OYUN
 author: farukcan
 post_date: 2016-08-31 03:00:48
 post_excerpt: ""
