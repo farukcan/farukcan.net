@@ -8,6 +8,8 @@ layout: post
 permalink: >
   http://farukcan.net/edebiyat/2016/09/6-words-story/
 published: true
+dsq_needs_sync:
+  - "1"
 ---
 <blockquote><em>Forsale : clean heart , never been loved</em></blockquote>
-Copyright : <em>CC BY-SA</em> © Faruk CAN
+<address>Copyright : <em>CC BY-SA</em> © Faruk CAN</address>
