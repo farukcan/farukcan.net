@@ -26,7 +26,7 @@ değerin, 2 nokta arasındaki konumu, başka iki nokta arasına oranlar
 bir fonksiyonu bütün dizi elemanlarına uygulayarak yeni dizi oluşturur.
 
 [<span style="color: #0000ff;">1,2,3,4</span>].map(<span style="color: #99cc00;">Math.sqrt</span>) = [1,4,9,16]
-<pre>var array = [ 2 , 3 , 5, 6]
+<pre lang="javascript">var array = [ 2 , 3 , 5, 6]
 
 var yeniArray = array.map(function(a){ return a*a+1 });
 
