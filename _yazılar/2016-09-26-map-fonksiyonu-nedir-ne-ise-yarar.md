@@ -8,11 +8,13 @@ layout: post
 permalink: >
   http://farukcan.net/algoritmalar/2016/09/map-fonksiyonu-nedir-ne-ise-yarar/
 published: true
+dsq_needs_sync:
+  - "1"
 ---
 İki tür map fonksiyon vardır:
 <ul>
 	<li>Değerler için <strong>map</strong> : bir değerin, 2 nokta arasındaki konumu, başka iki nokta arasına oranlar.</li>
-	<li>Diziler için map : bir fonksiyonu bütün dizi elemanlarına uygulayarak yeni dizi oluşturur.</li>
+	<li>Diziler için <strong>map</strong> : bir fonksiyonu bütün dizi elemanlarına uygulayarak yeni dizi oluşturur.</li>
 </ul>
 <h2>map(değer,başlangıç,bitiş,yenibaşlangıç,yeniBitiş)</h2>
 değerin, 2 nokta arasındaki konumu, başka iki nokta arasına oranlar
