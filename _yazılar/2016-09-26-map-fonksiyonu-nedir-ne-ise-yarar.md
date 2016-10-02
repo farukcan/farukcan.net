@@ -10,6 +10,8 @@ permalink: >
 published: true
 dsq_thread_id:
   - "5174352499"
+dsq_needs_sync:
+  - "1"
 ---
 İki tür map fonksiyon vardır:
 <ul>
@@ -32,7 +34,7 @@ var yeniArray = array.map(function(a){ return a*a+1 });
 
 // yeniArray = [5,10,26,37]</pre>
 
-
+C# map fonksiyonu
 <pre lang="csharp">
     float map(float val, float iMin, float iMax, float oMin, float oMax) {
 
