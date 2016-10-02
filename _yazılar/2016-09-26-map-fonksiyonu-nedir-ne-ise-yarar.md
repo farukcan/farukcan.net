@@ -8,8 +8,8 @@ layout: post
 permalink: >
   http://farukcan.net/algoritmalar/2016/09/map-fonksiyonu-nedir-ne-ise-yarar/
 published: true
-dsq_needs_sync:
-  - "1"
+dsq_thread_id:
+  - "5174352499"
 ---
 İki tür map fonksiyon vardır:
 <ul>
@@ -31,3 +31,11 @@ bir fonksiyonu bütün dizi elemanlarına uygulayarak yeni dizi oluşturur.
 var yeniArray = array.map(function(a){ return a*a+1 });
 
 // yeniArray = [5,10,26,37]</pre>
+
+
+<pre lang="csharp">
+    float map(float val, float iMin, float iMax, float oMin, float oMax) {
+
+        return (val - iMin) * (oMax - oMin) / (iMax - iMin) + oMin;
+    }
+</pre>
