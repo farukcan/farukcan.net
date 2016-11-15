@@ -9,7 +9,11 @@ permalink: http://farukcan.net/projelerim/
 published: true
 dsq_thread_id:
   - "4022779833"
+dsq_needs_sync:
+  - "1"
 ---
+<p style="text-align: left;">Oyunlar : <a href="http://game.farukcan.net/">game.farukcan.net</a></p>
+
 <h1 style="text-align: center;">Published Projects</h1>
 Yayınlanmış projelerim:
 <ol>
