@@ -12,9 +12,9 @@ published: true
 Sun Bin, antik çinde yaşayan bir stratejisttir. Sun Tzu ile akraba oldukları düşünülmektedir. 20yy'dan önce Sun Tzu ile aynı kişi olduğu düşünülmekteydi. Çünkü eserleri henüz bulunamamıştı. 20yy'da "Kayıp Savaş Sanatı" bulundu. Ancak yazdığını kitabın ancak bir kısmı bize ulaşabilmiştir.
 <h1>Problemler üzerine</h1>
 <blockquote>Karmaşık bir yumağı çözmek isteyen ipleri düşüncesizce çekiştirmemelidir.</blockquote>
-Bir problem olduğunda, en iyisi ona bulaşmamaktır ve düşünüp en uygun zamanı yakaladığımızda onu çözmemiz gerekir.
+Bir problem olduğunda, en iyisi ona bulaşmamaktır ve düşünüp en uygun imkanı ve zamanı yakaladığımızda onu ince ince çözmemiz gerekir.
 
-Bütün problemler İskenderin Gordion düğümü gibi değildir. Mutlak çözümü yoktur. Dolayısıyla, düğümü parçalayacak kılıcımız yoksa,onu karmaşık ve ince işçilikle  çözebiliriz.
+Bütün problemler İskenderin Gordion düğümü gibi değildir. Mutlak çözümü yoktur. Dolayısıyla, düğümü parçalayacak kılıcımız yoksa,onu ince ve karmaşık işçilikle  çözebiliriz.
 <h1>Zhao'yu kurtarmak için Wei'i kuşatmak</h1>
 <blockquote>Zhao, Sun Bin'in müttefiğinin bir şehriydi. Wei ise , Zhaoya saldıran düşmanın şehridir. Sun Bin, Zhaodaki kuşatmayı kırmak yerine, bütün gücüyle Wei'e saldırır. Wei de yaşlılar ve sakatların dışında ufak bir ordu olduğu için kolaylıkla ele geçirir. Bunu duyan düşman çılgına dönerek, kuşatmarı bırakıp, Wei'e geri döner. Fakat kuşatmadan yeni çıkmış , morali bozulmuş ve dönerken yorulmuş düşman, Weideki ordu tarafından kolaylıkla bozguna uğrar.</blockquote>
 <b>Dövüş sanatı</b>: Size tekme atan bir düşman, dengesinden taviz verir ve diğer bacağını savunmasız bırakır. O tekmeyi karşılamak yerine , düşmanınızın diğer bacağına vurmak daha mantıklıdır.
