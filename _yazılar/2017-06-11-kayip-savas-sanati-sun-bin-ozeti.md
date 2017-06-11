@@ -9,6 +9,7 @@ permalink: >
   http://farukcan.net/kitap-elestirisi/2017/06/kayip-savas-sanati-sun-bin-ozeti/
 published: true
 ---
+Sun Bin, antik çinde yaşayan bir stratejisttir. Sun Tzu ile akraba oldukları düşünülmektedir. 20yy'dan önce Sun Tzu ile aynı kişi olduğu düşünülmekteydi. Çünkü eserleri henüz bulunamamıştı. 20yy'da "Kayıp Savaş Sanatı" bulundu. Ancak yazdığını kitabın ancak bir kısmı bize ulaşabilmiştir.
 <h1>Problemler üzerine</h1>
 <blockquote>Karmaşık bir yumağı çözmek isteyen ipleri düşüncesizce çekiştirmemelidir.</blockquote>
 Bir problem olduğunda, en iyisi ona bulaşmamaktır ve düşünüp en uygun zamanı yakaladığımızda onu çözmemiz gerekir.
