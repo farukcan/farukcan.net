@@ -10,7 +10,10 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4922813761"
+dsq_needs_sync:
+  - "1"
 ---
+<blockquote>Oyun yayından kaldırılmıştır</blockquote>
 kartal.io çok oyunculu bir web tarayıcı oyunudur. Google playde android sürümüde mevcuttur.
 
 Oyundaki amacınız, küçük kartalları veya yiyecekleri yiyerek büyümektir. Kartalınız her beslendiğinde biraz daha büyür ve puan kazanırsınız. Kontroller çok basittir, kanat çırparak yükselirsiniz. (Tıklayarak veya boşluk tuşuna basarak kanat çırpılır) . Diğer kartalları yemek için, saldırı uçuşu modunda, onları arkadan yakalayıp yerseniz. (Ters Tık veya CTRL tuşu ile saldırı uçuşu moduna geçilir.)
