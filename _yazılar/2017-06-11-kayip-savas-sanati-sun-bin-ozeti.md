@@ -27,6 +27,10 @@ Yazılım geliştirirken, öncesinde ince ince plan yapmamız gerekir, çünkü 
 
 <strong>Strateji</strong> : Rakip size saldırıyorsa ya bunu geri püskürtürsünüz ya da ona saldırırsınız. Savunma bekleyen rakibe, saldırı yapmak onun kafasını karıştırır. Bir an da saldıran iken, savunan olur.
 
+<strong>Retorik</strong> : Biriyle tartışırken, kendinin zayıf olduğu konuyu değiştirip, karşı tarafın zayıf olduğu konu üzerinden tartışmayı sürdürürsen, karşı taraf yetersiz kalacaktır. Kendini savunma ihtiyacı hissedeceği için, az öncesinde üstün tarafın kendi olduğunu unutacaktır. Zihninin odağı değişecektir.
+
+<strong>Siber Güvenlik</strong> : Bazı DOS saldırısı koruma sistemleri, saldıra yapan bilgisayarların bufferlarını hedef alıp, onları hafızasını doldurarak , saldırı yapamaz hale getirmektedir.
+
 &nbsp;
 
 devam edecek ...
