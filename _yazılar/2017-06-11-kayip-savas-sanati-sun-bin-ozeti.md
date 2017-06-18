@@ -10,8 +10,6 @@ permalink: >
 published: true
 dsq_thread_id:
   - "5900981565"
-dsq_needs_sync:
-  - "1"
 ---
 Sun Bin, antik çinde yaşayan bir stratejisttir. Sun Tzu ile akraba oldukları düşünülmektedir. 20yy'dan önce Sun Tzu ile aynı kişi olduğu düşünülmekteydi. Çünkü eserleri henüz bulunamamıştı. 20yy'da "Kayıp Savaş Sanatı" bulundu. Ancak yazdığını kitabın ancak bir kısmı bize ulaşabilmiştir.
 <h1>Problemler üzerine</h1>
