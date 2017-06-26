@@ -33,5 +33,6 @@ Yazılım geliştirirken, öncesinde ince ince plan yapmamız gerekir, çünkü 
 <h1> İlk adım</h1>
 <blockquote>Savaş istenmez, zafer arzulanmaz. Harekete geçmek için ilk adım, zafer için gerekli koşullar var olduğunda atılmalıdır.</blockquote>
 Bir düşmana, savaşmayı istediğin için saldıramazsın. Haklı sebebin (<strong> Casus Belli</strong> ) yoksa, ne halkın ne de ordunun desteği yeterli olur. Haklı olan düşman, sayıca az da olsa daha güçlüdür. Saldırıdan önce bakılacak ikinci şey de, <strong>savaşın kazanılabilirliği</strong>dir. Öyle ki düşmandan en az iki kat güçlü olunmadığında savaş risklidir.
-
-devam edecek ...
+<h1>Savaş ancak savaşla engellenir</h1>
+<blockquote>Beş imparatorun erdemi, üç kralın yeteneği karşısında zayıf düşenlerin savaşı insanlığı ve adaleti yayarak yasaklayacağım dedikleri söylenir. Bu yöntemi bir çok kral denedi ama başaramadı. Savaş ancak savaş ile engellenir.</blockquote>
+Yaklaşan bir savaş engellenemez, engelleme çabaları sadece bunu erteler ve daha beklenmedik bir savaşa neden olur. Onun için bir savaşı engellenmenin yolu savaştır. Ertelemek, tembellik ve kaçmak zafer kazandırmaz. Düşmana avantaj sağlar.
