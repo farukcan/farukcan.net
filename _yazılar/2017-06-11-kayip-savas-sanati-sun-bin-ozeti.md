@@ -42,3 +42,5 @@ Yaklaşan bir savaş engellenemez, engelleme çabaları sadece bunu erteler ve d
 	<li>Ordumuz azsa, beklenir ve asıl güç gizlenerek tuzak kurulur. (Gizlenilir, zayıf olduğumuz ve saldırma cesaretimiz olmadığı ima edilir. Ancak asıl güç ile düşman parçalara ayrılarak yok edilir.)</li>
 	<li>Ordular eşitse, yukarıda ki iki teknik aynı anda uygulanır. ( Yem at,  yemi yuttur. Eş zamanlı olarak asıl güçle saldır. )</li>
 </ul>
+<h1>Dar geçitler ve engeller</h1>
+Bunlar her çağda her savaşta etkili silah olmuştur, düşmanı yenmez ancak düşmanın tam gücünün kullanamamasını sağlar.
