@@ -30,7 +30,8 @@ Yazılım geliştirirken, öncesinde ince ince plan yapmamız gerekir, çünkü 
 <strong>Retorik</strong> : Biriyle tartışırken, kendinin zayıf olduğu konuyu değiştirip, karşı tarafın zayıf olduğu konu üzerinden tartışmayı sürdürürsen, karşı taraf yetersiz kalacaktır. Kendini savunma ihtiyacı hissedeceği için, az öncesinde üstün tarafın kendi olduğunu unutacaktır. Zihninin odağı değişecektir.
 
 <strong>Siber Güvenlik</strong> : Bazı DOS saldırısı koruma sistemleri, saldıra yapan bilgisayarların bufferlarını hedef alıp, onları hafızasını doldurarak , saldırı yapamaz hale getirmektedir.
-
-&nbsp;
+<h1> İlk adım gerekli koşullar olduğun atılır</h1>
+<blockquote>Savaş istenmez, zafer arzulanmaz. Harekete geçmek için ilk adım, zafer için gerekli koşullar var olduğunda atılmalıdır.</blockquote>
+Bir düşmana, savaşmayı istediğin için saldıramazsın. Haklı sebebin (<strong> Casus Belli</strong> ) yoksa, ne halkın ne de ordunun desteği yeterli olur. Haklı olan düşman, sayıca az da olsa daha güçlüdür. Saldırıdan önce bakılacak ikinci şey de, <strong>savaşın kazanılabilirliği</strong>dir. Öyle ki düşmandan en az iki kat güçlü olunmadığında savaş risklidir.
 
 devam edecek ...
