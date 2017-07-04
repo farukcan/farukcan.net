@@ -44,3 +44,6 @@ Yaklaşan bir savaş engellenemez, engelleme çabaları sadece bunu erteler ve d
 </ul>
 <h1>Dar geçitler ve engeller</h1>
 Bunlar her çağda her savaşta etkili silah olmuştur, düşmanı yenmez ancak düşmanın tam gücünün kullanamamasını sağlar.
+<h1>Kaçışı olmayan düşman</h1>
+<blockquote>Çıkış yolu kalmamış düşmanın, hala çıkış yolu olduğuna  ve beklemesi gerektiğine inandırılması gerekir.</blockquote>
+Yoksa düşman savaşmaktan başka çaresi olmadığını anlar ardından büyük cesaret ve fedakarlıkla savaşır.
