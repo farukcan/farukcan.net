@@ -1,6 +1,6 @@
 ---
 ID: 605
-post_title: 'Kayıp Savaş Sanatı &#8211; SUN BIN Özeti'
+post_title: 'Kayıp Savaş Sanatı &#8211; SUN BIN Özeti ve Yorumu'
 author: farukcan
 post_date: 2017-06-11 20:27:58
 post_excerpt: ""
@@ -51,3 +51,5 @@ Yoksa düşman savaşmaktan başka çaresi olmadığını anlar ardından büyü
 Nüfuz, sayı, hile, strateji değildir. <strong>Analiz ve kontroldür.</strong> (Bilgelik ve İrade)
 
 Analiz olmazsa hile ve strateji uygulanamaz. Kontrol olmazsa nüfuz ve sayının anlamı kalmaz.
+<h1>Zafer</h1>
+<blockquote>Zafer seçimlere, yiğitlik düzene, esneklik duruma, vurucu güç güvenirliliğe, kalite eğitime bağlıdır.</blockquote>
