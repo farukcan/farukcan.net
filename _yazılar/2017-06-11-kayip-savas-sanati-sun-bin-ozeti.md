@@ -36,6 +36,9 @@ Bir düşmana, savaşmayı istediğin için saldıramazsın. Haklı sebebin (<st
 <h1>Savaş ancak savaşla engellenir</h1>
 <blockquote>Beş imparatorun erdemi, üç kralın yeteneği karşısında zayıf düşenlerin savaşı insanlığı ve adaleti yayarak yasaklayacağım dedikleri söylenir. Bu yöntemi bir çok kral denedi ama başaramadı. Savaş ancak savaş ile engellenir.</blockquote>
 Yaklaşan bir savaş engellenemez, engelleme çabaları sadece bunu erteler ve daha beklenmedik bir savaşa neden olur. Onun için bir savaşı engellenmenin yolu savaştır. Ertelemek, tembellik ve kaçmak zafer kazandırmaz. Düşmana avantaj sağlar.
+
+Ancak ;
+<blockquote>Savaşa sadece mecbur olunduğunda girilmelidir.</blockquote>
 <h1>Ordunun boyutuna göre durumlar</h1>
 <ul>
 	<li>Ordumuz fazlaysa, fishing yapılır. (yem atılır, düşman kontrollü olarak yönlendirilir.)</li>
