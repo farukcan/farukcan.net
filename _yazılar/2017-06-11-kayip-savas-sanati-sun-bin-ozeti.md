@@ -47,3 +47,7 @@ Bunlar her çağda her savaşta etkili silah olmuştur, düşmanı yenmez ancak 
 <h1>Kaçışı olmayan düşman</h1>
 <blockquote>Çıkış yolu kalmamış düşmanın, hala çıkış yolu olduğuna  ve beklemesi gerektiğine inandırılması gerekir.</blockquote>
 Yoksa düşman savaşmaktan başka çaresi olmadığını anlar ardından büyük cesaret ve fedakarlıkla savaşır.
+<h1>Asıl güç nedir?</h1>
+Nüfuz, sayı, hile, strateji değildir. <strong>Analiz ve kontroldür.</strong> (Bilgelik ve İrade)
+
+Analiz olmazsa hile ve strateji uygulanamaz. Kontrol olmazsa nüfuz ve sayının anlamı kalmaz.
