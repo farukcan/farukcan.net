@@ -56,3 +56,6 @@ Nüfuz, sayı, hile, strateji değildir. <strong>Analiz ve kontroldür.</strong>
 Analiz olmazsa hile ve strateji uygulanamaz. Kontrol olmazsa nüfuz ve sayının anlamı kalmaz.
 <h1>Zafer</h1>
 <blockquote>Zafer seçimlere, yiğitlik düzene, esneklik duruma, vurucu güç güvenirliliğe, kalite eğitime bağlıdır.</blockquote>
+<h1>Kılıç taşımak</h1>
+<blockquote>Kılıç bütün gün taşınır ama bu ille de kullanılacağı anlamına gelmez.</blockquote>
+Kılıç doğuştan sahip olmadığımız bir silahtır. Tertip ve düzene de doğuştan sahip olamayız. Gücümüzü kullanabilmek için sürekli düzen içerisinde birşeylere hazırlıklı bulunmalıyız. Fakat bu gücümüzü sürekli kullanacağımız anlamına gelmez. Kılıç yanımızda değilse, gücümüzü kullanmamız gerektiğinde kullanamayız.
