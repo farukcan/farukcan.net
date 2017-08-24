@@ -60,7 +60,39 @@ Saldır -&gt; Nükleer yoksa ve müsaitse inşa et
 Saldır -&gt; Düşman seç(en az şehri olanlardan rastgele) -&gt; Düşman kaybetmediyse
 
 Saldır -&gt; Herhangi bir bombalanmamış düşman şehrine rastgele roket fırlat.
-<h2></h2>
+<h2>Mesajlar</h2>
+<em>The first atomic bomb was dropped on Japan. 220000 dead.</em> :
+
+İlk atom bombası japonyaya atıldı ve 220 bin kişi öldü,
+
+<em>The largest nuclear bomb ever detonated, the Tsar Bomba, was 1,400 times more powerful than Hiroshima and Nagasaki combined. :</em>
+
+En büyük nükleer bomba olan Tsar bombası, Hiroşima ve Nagazakiye atılın iki bombadan 1400 kat daha güçlüdür.,
+
+<em>The temperatures near the site of the bomb blast during the Hiroshima explosion were estimated to be 300,000°C (540,000°F). That's 300 times hotter than the temperature bodies are cremated at.</em> :
+
+Hiroşima bombasının atıldığı yerdeki ortalama sıcaklık 300,000°C (540,000°F) civarıdır. Bu insan vucudunu kül edecek sıcaklıktan 300 kat daha fazladır.,
+
+<em>In nuclear war all men are cremated equal. -Dexter Gordon :</em>
+
+Nükleer savaşta her insan eşit olarak kül olur. -Dexter Gordon,
+
+<em>There are two problems for our species' survival - nuclear war and environmental catastrophe - and we're hurtling towards them. Knowingly. -Noam Chomsky</em> :
+
+Türümüzün devamına karşı iki problem vardır. Nükleer savaş ve doğa felaketleri. Buna karşın bilerek hunharca sonumuzu hazırlamaktayız. -Noam Chomsk,
+
+<em>One nuclear war is going to be the last nuclear - the last war, frankly, if it really gets out of hand. And I just don't think we ought to be prepared to accept that sort of thing. -Lawrence Eagleburger</em> :
+
+Bir nükleer savaş, son savaşımız olabilir. Bu bizim elimizde. -Lawrence Eagleburger,
+
+<em>Life on Earth is at the ever-increasing risk of being wiped out by a disaster, such as sudden global nuclear war, a genetically engineered virus or other dangers we have not yet thought of. -Stephen Hawking :</em>
+
+Dünya üzerindeki hayat, nükleer savaş, biyolojik savaş ve daha bilmediğimiz bir çok şey ile git gide artan risk altındadır. -Stephen Hawking,
+
+<strong>Oyun sonu mesajı :</strong>
+<blockquote><em><strong>If this war actually was real, we would have lost all the world because of radiation and nuclear winter...</strong></em>
+
+<strong> Eğer bu savaş gerçekten yaşansaydı, bütün dünyayı radyasyon ve nükleer kış sebebiyle kaybetmiştik...</strong></blockquote>
 <h2>Ülkeler</h2>
 Yakın olan şehirler seçilmeme çalışılacak.
 <h3>USA</h3>
