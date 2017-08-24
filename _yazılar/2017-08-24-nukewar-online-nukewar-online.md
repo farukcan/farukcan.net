@@ -94,70 +94,1993 @@ Dünya üzerindeki hayat, nükleer savaş, biyolojik savaş ve daha bilmediğimi
 
 <strong> Eğer bu savaş gerçekten yaşansaydı, bütün dünyayı radyasyon ve nükleer kış sebebiyle kaybetmiştik...</strong></blockquote>
 <h2>Ülkeler</h2>
-Yakın olan şehirler seçilmeme çalışılacak.
-<h3>USA</h3>
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">Turkey</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">cities</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">Istanbul</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">13287000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">41.008238</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">28.978359</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Ankara</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">4538000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">39.933363</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">32.859742</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Izmir</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">3112000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">38.423734</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">27.142826</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Konya</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">1220795</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">37.874643</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">32.493155</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Antalya</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">1978333</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">36.896891</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">30.713323</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">USA</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">cities</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">NewYork</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">20630000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">40.712784</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-74.005941</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">LosAngeles</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">15058000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">34.052234</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-118.243685</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Chicago</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">9156000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">41.878114</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-87.629798</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Houston</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">5764000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">29.760427</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-95.369803</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Juneau</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">32660</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">58.3019</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-134.4197</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Russia</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">cities</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">Moscow</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">16170000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">55.755826</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">37.6173</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">StPetersburg</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">5126000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">59.93428</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">30.335099</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Omsk</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">1154116</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">54.98848</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">73.324236</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Kazan</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">1216965</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">55.830431</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">49.066081</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Perm</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">991162</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">58.029681</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">56.266792</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">China</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">cities</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">Beijing</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">21009000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">39.904211</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">116.407395</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Guangzhou</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">20597000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">23.12911</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">113.264385</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Shanghai</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">23416000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">31.230416</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">121.473701</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Wuhan</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">7509000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">30.593099</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">114.305393</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Xian</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">5977000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">34.341575</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">108.93977</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Canada</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">cities</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">Toronto</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">6456000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">43.653226</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-79.383184</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Montreal</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">3407963</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">45.501689</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-73.567256</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Vancouver</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">603512</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">49.282729</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-123.120738</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Calgary</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">1235171</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">51.048615</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-114.070846</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Edmonton</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">1159869</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">53.544389</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-113.490927</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">India</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">cities</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">Delhi</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">24998000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">28.704059</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">77.10249</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Mumbai</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">17712000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">19.075984</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">72.877656</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Bangalore</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">8728906</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">12.971599</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">77.594563</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Chennai</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">9714000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">13.08268</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">80.270718</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Ahmedabad</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">7186000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">23.022505</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">72.571362</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">EU</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">cities</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">London</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">10236000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">51.507351</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-0.127758</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Paris</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">10858000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">48.856614</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">2.352222</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Berlin</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">4069000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">52.520007</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">13.404954</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Brussels</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">1830000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">50.850346</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">4.351721</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Stockholm</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">789024</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">59.329323</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">18.068581</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Australia</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">cities</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">Sydney</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">4036000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-33.86882</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">151.209296</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Melbourne</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">3906000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-37.813611</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">144.963056</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Darwin</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">142312</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-12.46344</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">130.845642</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Perth</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">1834563</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-31.950527</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">115.860457</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Mullewa</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">729</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-28.536944</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">115.511944</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Brazil</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">cities</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">SaoPaulo</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">20365000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-23.55052</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-46.633309</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Rio</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">11727000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-22.906847</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-43.172896</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Recife</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">3347000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-8.047562</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-34.876964</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Fortaleza</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">3401000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-3.731862</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-38.52667</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Manaus</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">1793143</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-3.119028</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">-60.021731</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Africa</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">cities</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2">
+<div class="td_head">Lagos</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">13123000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">6.524379</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">3.379206</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Cairo</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">15600000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">30.04442</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">31.235712</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Luanda</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">5899000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-8.839988</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">13.289437</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">Johannesburg</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">8432000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-26.204103</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">28.047305</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">CapeTown</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">population</div></td>
+<td>
+<div class="td_row_even">3812000</div></td>
+</tr>
+<tr>
+<td colspan="2">
+<div class="td_head">position</div>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="td_head">lat</div></td>
+<td>
+<div class="td_row_even">-33.924869</div></td>
+</tr>
+<tr>
+<td>
+<div class="td_head">lon</div></td>
+<td>
+<div class="td_row_even">18.424055</div></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+&nbsp;
 <ul>
-	<li>Newyork</li>
-	<li>Los Angeles</li>
-	<li>Chicago</li>
-	<li>Houston</li>
-	<li>Philadelphia</li>
-</ul>
-<h3>Turkey</h3>
-<ul>
-	<li>Istanbul</li>
-	<li>Ankara</li>
-	<li>İzmir</li>
-	<li>Konya</li>
-	<li>Antalya</li>
-</ul>
-<h3>Russia</h3>
-<ul>
-	<li>Moscow</li>
-	<li>Petersburg</li>
-	<li>Omsk</li>
-	<li>Kazan</li>
-	<li>Perm</li>
-</ul>
-<h3>China</h3>
-<ul>
-	<li>Guangzhou</li>
-	<li>Shanghai</li>
-	<li>Beijing</li>
-	<li>Wuhan</li>
-	<li>Xian</li>
-</ul>
-<h3>India</h3>
-<ul>
-	<li>Mumbai</li>
-	<li>Delhi</li>
-	<li>Bangalore</li>
-	<li>Chennai</li>
-	<li>Ahmedabad</li>
-</ul>
-<h3>Canada</h3>
-<ul>
-	<li>Toronto</li>
-	<li>Montreal</li>
-	<li>Vancouver</li>
-	<li>Calgary</li>
-	<li>Edmonton</li>
-</ul>
-<h3>EU</h3>
-<ul>
-	<li>London</li>
-	<li>Paris</li>
-	<li>Berlin</li>
-	<li>Brussels</li>
-	<li>Stockholm</li>
-</ul>
-<h3>Australia</h3>
-<ul>
-	<li>Sydney</li>
-	<li>Melbourne</li>
-	<li>Darwin</li>
-	<li>Perth</li>
-	<li>Mullewa​
+	<li>
 <h1>Description</h1>
 Nukewar Online,battleship like realtime online strategy game.
 <h1>Keyword</h1>
