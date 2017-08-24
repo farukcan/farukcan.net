@@ -26,6 +26,22 @@ dsq_thread_id:
 
 <b>Kontrol</b> : <span style="text-decoration: underline;">Mouse</span>  ( , <em>Klayve</em> [ <em>Mesajlaşmak için</em>] )
 <blockquote>Oyna : <a href="http://nukewar.online" target="_blank">nukewar.online</a></blockquote>
+<h2>Oynayış</h2>
+<ol>
+	<li><a href="http://nukewar.online">nukewar.online</a> adresine tarayıcınızdan giriniz.</li>
+	<li>Bir takma ad seçip "oyna" butonuna basınız.</li>
+	<li>Oyun 10 oyuncu lobide olduğundan otomatik başlayacaktır.</li>
+	<li>"10 oyuncuyu beklemeden başla" butona basarak, beklemek istemeyenlerle beraber, botlarında olduğu bir oyun başlatabilirsiniz.</li>
+	<li>Oyun 15 saniye içinde başlar. O süre zarfında "Nasıl oynanır, kısmını okuyabilirsiniz"</li>
+</ol>
+<h2>Kontroller</h2>
+Şehir seçme
+
+Hamle yapmak / İptal etmek
+
+Roket rakibi
+
+Mesaj yazmak
 <h2>Hamleler</h2>
 <ul>
 	<li><strong>Şehirleri yer değiştirme</strong> - taşıma (swap) : 1 dk (Şehirlerdeki varlıkları değiştirir.)</li>
