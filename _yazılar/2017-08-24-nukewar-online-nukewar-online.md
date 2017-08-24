@@ -8,11 +8,13 @@ layout: post
 permalink: >
   http://farukcan.net/projelerim/2017/08/nukewar-online-nukewar-online/
 published: true
-dsq_needs_sync:
-  - "1"
+dsq_thread_id:
+  - "6092956204"
 ---
 <h1>Nukewar Online</h1>
 <strong>Tanım :</strong> Küresel dünya üzerinde geçen amiral battı tarzı bir gerçek zamanlı browser tabanlı online oyundur.
+
+<strong>Tema</strong> : Nükleer savaş, balistik füzeler, nükleer kıyamet, 3. dünya savaşı
 
 <strong>Taraflar : </strong>Her ülke ayrı bir taraftır ve bir oyuncu ile kontrol edilir. 10 (on) ülke vardır. Bütün ülkeler birbirine düşmandır.
 
