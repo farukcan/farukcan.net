@@ -23,6 +23,8 @@ dsq_thread_id:
 <strong>Kaybetme şartı</strong> : Komuta merkezi olan şehir bombalanması.
 
 <strong>Oyuncular ve botlar</strong>: En az 1 oyuncu 9 bot. En fazla 10 oyuncu.
+
+<b>Kontrol</b> : <span style="text-decoration: underline;">Mouse</span>  ( , <em>Klayve</em> [ <em>Mesajlaşmak için</em>] )
 <blockquote>Oyna : <a href="http://nukewar.online" target="_blank">nukewar.online</a></blockquote>
 <h2>Hamleler</h2>
 <ul>
