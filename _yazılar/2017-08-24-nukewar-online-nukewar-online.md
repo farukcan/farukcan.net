@@ -18,7 +18,7 @@ dsq_needs_sync:
 
 <strong>Tema</strong> : Nükleer savaş, balistik füzeler, nükleer kıyamet, 3. dünya savaşı
 
-<strong>Fayda</strong> : Stratejik düşünme ve zaman yönetim yeteneğinin arttırılması , politik işbirliğinin geliştirilmesi, nükleer savaşının zararlarının anlatılması
+<strong>Fayda</strong> : Stratejik düşünme ve zaman yönetim yeteneğinin arttırılması , politik işbirliğinin geliştirilmesi, dünyanın küreselliğinin tehayyülü, nükleer savaşının zararlarının anlatılması
 
 <strong>Taraflar : </strong>Her ülke ayrı bir taraftır ve bir oyuncu ile kontrol edilir. 10 (on) ülke vardır. Bütün ülkeler birbirine düşmandır.
 
