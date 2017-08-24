@@ -8,6 +8,8 @@ layout: post
 permalink: >
   http://farukcan.net/projelerim/2017/08/nukewar-online-nukewar-online/
 published: true
+dsq_needs_sync:
+  - "1"
 ---
 <h1>Nukewar Online</h1>
 <strong>Tanım :</strong> Küresel dünya üzerinde geçen amiral battı tarzı bir gerçek zamanlı browser tabanlı online oyundur.
@@ -121,9 +123,7 @@ Yakın olan şehirler seçilmeme çalışılacak.
 	<li>Melbourne</li>
 	<li>Darwin</li>
 	<li>Perth</li>
-	<li>Mullewa
-
-​
+	<li>Mullewa​
 <h1>Description</h1>
 Nukewar Online,battleship like realtime online strategy game.
 <h1>Keyword</h1>
