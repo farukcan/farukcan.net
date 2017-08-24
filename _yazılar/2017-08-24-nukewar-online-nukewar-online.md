@@ -10,11 +10,15 @@ permalink: >
 published: true
 dsq_thread_id:
   - "6092956204"
+dsq_needs_sync:
+  - "1"
 ---
 <h1>Nukewar Online</h1>
 <strong>Tanım :</strong> Küresel dünya üzerinde geçen amiral battı tarzı bir gerçek zamanlı browser tabanlı online oyundur.
 
 <strong>Tema</strong> : Nükleer savaş, balistik füzeler, nükleer kıyamet, 3. dünya savaşı
+
+<strong>Fayda</strong> : Stratejik düşünme ve zaman yönetim yeteneğinin arttırılması , politik işbirliğinin geliştirilmesi, nükleer savaşının zararlarının anlatılması
 
 <strong>Taraflar : </strong>Her ülke ayrı bir taraftır ve bir oyuncu ile kontrol edilir. 10 (on) ülke vardır. Bütün ülkeler birbirine düşmandır.
 
