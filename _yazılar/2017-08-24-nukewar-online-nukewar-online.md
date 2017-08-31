@@ -10,6 +10,8 @@ permalink: >
 published: true
 dsq_thread_id:
   - "6092956204"
+dsq_needs_sync:
+  - "1"
 ---
 <h1>Nukewar Online</h1>
 <strong>Tanım :</strong> Küresel dünya üzerinde geçen amiral battı tarzı bir gerçek zamanlı browser tabanlı online oyundur.
@@ -2127,6 +2129,8 @@ Nukewar Online,battleship like realtime online strategy game.
 	<li>bomb</li>
 	<li>world</li>
 	<li>world war</li>
+	<li>io</li>
+	<li>online</li>
 </ul>
 </li>
 </ul>
