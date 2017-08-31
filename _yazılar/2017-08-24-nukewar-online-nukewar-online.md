@@ -10,8 +10,6 @@ permalink: >
 published: true
 dsq_thread_id:
   - "6092956204"
-dsq_needs_sync:
-  - "1"
 ---
 <h1>Nukewar Online</h1>
 <strong>Tanım :</strong> Küresel dünya üzerinde geçen amiral battı tarzı bir gerçek zamanlı browser tabanlı online oyundur.
@@ -22,9 +20,9 @@ dsq_needs_sync:
 
 <strong>Taraflar : </strong>Her ülke ayrı bir taraftır ve bir oyuncu ile kontrol edilir. 10 (on) ülke vardır. Bütün ülkeler birbirine düşmandır.
 
-<strong>Kazanma şartı</strong> : Bütün rakipleri komuta merkezi bulunan şehirlerini bombalayarak yen.
+<strong>Kazanma şartı</strong> : Bütün rakipleri komuta merkezi bulunan şehirleri bombalayarak yen.
 
-<strong>Kaybetme şartı</strong> : Komuta merkezi olan şehir bombalanması.
+<strong>Kaybetme durumu</strong>: Komuta merkezi olan şehrin bombalanması.
 
 <strong>Oyuncular ve botlar</strong>: En az 1 oyuncu 9 bot. En fazla 10 oyuncu.
 
@@ -35,7 +33,7 @@ dsq_needs_sync:
 	<li><a href="http://nukewar.online">nukewar.online</a> adresine tarayıcınızdan giriniz.</li>
 	<li>Bir takma ad seçip "oyna" butonuna basınız.</li>
 	<li><img alt="image.png" src="https://trello-attachments.s3.amazonaws.com/597a3cb8ed38411de9642a6e/59a837ff58ce940dedbb2919/6d71407f10d76dd6480ce7171a632809/image.png" /></li>
-	<li>Oyun 10 oyuncu lobide olduğundan otomatik başlayacaktır.</li>
+	<li>Oyun 10 oyuncu lobide olduğunda otomatik başlayacaktır.</li>
 	<li>"10 oyuncuyu beklemeden başla" butona basarak, beklemek istemeyenlerle beraber, botlarında olduğu bir oyun başlatabilirsiniz.</li>
 	<li><img alt="image.png" src="https://trello-attachments.s3.amazonaws.com/597a3cb8ed38411de9642a6e/59a83851048fb3cd6e63b938/0f0e49eded1a08d7fcdeeeb6eb3e8543/image.png" /></li>
 	<li>Oyun 15 saniye içinde başlar. O süre zarfında "Nasıl oynanır, kısmını okuyabilirsiniz"</li>
@@ -88,20 +86,20 @@ dsq_needs_sync:
 <h2>Kurallar</h2>
 <ul>
 	<li>Çok oyuncu veya bot ile oynanır. Zaman tabanlı strateji oyunudur</li>
-	<li>Ülkeler, dünyanın çeşitli yerlerinde bulunmak üzere 5 şehre sahip olur.</li>
+	<li>Ülkeler, 5 şehre sahip olur.</li>
 	<li>Ülkeler 1 komuta merkezi ve 1 nükleer silaha sahip başlar.</li>
-	<li>Komuta merkezi vurulursa oyunu kaybeder.</li>
+	<li>Komuta merkezi vurulursa oyun kaybedilir.</li>
 	<li>Bütün ülkeler düşmandır</li>
 	<li>Hayatta kalan ülke oyunu kazanır</li>
 	<li>Nükleer silah vurulursa , yenisini inşaa etmek zorunda kalır.</li>
-	<li>Uzağa atılan nükleer daha hedefi geç yok edecektir. (1 turda)</li>
+	<li>Uzağa atılan nükleer daha hedefi geç yok edecektir.</li>
 	<li>Her el komuta merkezi ve nükleer silahın yerini değiştirebilir. Nükleer olarak vurulmuş yeri seçemez.</li>
-	<li>yeni nükleer silah ve hava savunması inşaa  edebilir.</li>
+	<li>Yeni nükleer silah ve hava savunması inşa edilebilir.</li>
 </ul>
 <h3>Bot (Yapay zeka)</h3>
 Sürekli saldıran bir yapay zekadır.
 
-Saldır -&gt; Nükleer yoksa ve müsaitse inşa et
+Saldır -&gt; Nükleer rampa yoksa ve müsaitse inşa et
 
 Saldır -&gt; Düşman seç(en az şehri olanlardan rastgele) -&gt; Düşman kaybetmediyse
 
