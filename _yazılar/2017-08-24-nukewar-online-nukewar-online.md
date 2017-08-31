@@ -10,8 +10,6 @@ permalink: >
 published: true
 dsq_thread_id:
   - "6092956204"
-dsq_needs_sync:
-  - "1"
 ---
 <h1>Nukewar Online</h1>
 <strong>Tanım :</strong> Küresel dünya üzerinde geçen amiral battı tarzı bir gerçek zamanlı browser tabanlı online oyundur.
@@ -33,21 +31,23 @@ dsq_needs_sync:
 <h2>Oynayış</h2>
 <ol>
 	<li><a href="http://nukewar.online">nukewar.online</a> adresine tarayıcınızdan giriniz.</li>
-	<li>Bir takma ad seçip "oyna" butonuna basınız.</li>
+	<li>Bir takma ad seçip "oyna" butonuna basınız.<img alt="image.png" src="https://trello-attachments.s3.amazonaws.com/597a3cb8ed38411de9642a6e/59a837ff58ce940dedbb2919/6d71407f10d76dd6480ce7171a632809/image.png" /></li>
 	<li>Oyun 10 oyuncu lobide olduğundan otomatik başlayacaktır.</li>
-	<li>"10 oyuncuyu beklemeden başla" butona basarak, beklemek istemeyenlerle beraber, botlarında olduğu bir oyun başlatabilirsiniz.</li>
-	<li>Oyun 15 saniye içinde başlar. O süre zarfında "Nasıl oynanır, kısmını okuyabilirsiniz"</li>
+	<li>"10 oyuncuyu beklemeden başla" butona basarak, beklemek istemeyenlerle beraber, botlarında olduğu bir oyun başlatabilirsiniz.<img alt="image.png" src="https://trello-attachments.s3.amazonaws.com/597a3cb8ed38411de9642a6e/59a83851048fb3cd6e63b938/0f0e49eded1a08d7fcdeeeb6eb3e8543/image.png" /></li>
+	<li>Oyun 15 saniye içinde başlar. O süre zarfında "Nasıl oynanır, kısmını okuyabilirsiniz"<img alt="image.png" src="https://trello-attachments.s3.amazonaws.com/597a3cb8ed38411de9642a6e/59a838fdd5f6dbb6e53e50c7/b9cddf71fb1d8300bd3bba205d52b3ae/image.png" /><img alt="image.png" src="https://trello-attachments.s3.amazonaws.com/597a3cb8ed38411de9642a6e/59a8389195d007cbd5663ddd/f808b7cb294d20ef2502ce8c4ce1583f/image.png" /></li>
 </ol>
 <h2>Kontroller</h2>
+<img alt="image.png" src="https://trello-attachments.s3.amazonaws.com/597a3cb8ed38411de9642a6e/59a83dfe2ef3028350f51a5a/227c6f0761b781710352315ea6da8f96/image.png" />
+
 <strong>Şehir seçme</strong>
 <ul>
-	<li>Kendi şehrinizi veya Düşman şehrini Dünyadaki konumana tıklayarak veya sağ üstteki Ülke Panelinden seçebilirisiniz.</li>
-	<li>Ayrıca kendi şehirlerini alttaki Şehir panelinden seçebilirsiniz.</li>
+	<li>Kendi şehrinizi veya Düşman şehrini Dünyadaki konumuna tıklayarak veya sağ üstteki Ülke Panelinden seçebilirsiniz.<img alt="image.png" src="https://trello-attachments.s3.amazonaws.com/597a3cb8ed38411de9642a6e/59a8394ba3a0ac552c96c1e2/d28e828b17640ac1c6da983fc593bb5b/image.png" /></li>
+	<li>Ayrıca kendi şehirlerini alttaki Şehir panelinden seçebilirsiniz.<img alt="image.png" src="https://trello-attachments.s3.amazonaws.com/597a3cb8ed38411de9642a6e/59a8395f8bab06097588bc17/8970fb6a7ee43941fcd395186adf87dc/image.png" /></li>
 </ul>
 <strong>Hamle yapmak / İptal etmek</strong>
 <ul>
-	<li>Şehir seçtikten sonra Sol üstteki Kontrol Panelinden hamle yapabilirsiniz.</li>
-	<li>Yaptığınız hamleleri üstteki izleme panelinden iptal edebilirsiniz.</li>
+	<li>Şehir seçtikten sonra Sol üstteki Kontrol Panelinden hamle yapabilirsiniz.<img alt="image.png" src="https://trello-attachments.s3.amazonaws.com/597a3cb8ed38411de9642a6e/59a83b2f5886865519ffe7e7/019aab529e94292649784697ff50d61b/image.png" /></li>
+	<li>Yaptığınız hamleleri üstteki izleme panelinden iptal edebilirsiniz.<img alt="image.png" src="https://trello-attachments.s3.amazonaws.com/597a3cb8ed38411de9642a6e/59a83bba5b2e3483d2c54d72/b92a588f422d818890c2287513afbdc8/image.png" /></li>
 </ul>
 <strong>Roket rakibi</strong>
 <ul>
@@ -55,6 +55,8 @@ dsq_needs_sync:
 	<li>Bir şehre tıklayarak, kontrol panelinden o şehre gelen/giden roketleri görebilirsiniz.</li>
 </ul>
 <strong>Mesaj yazmak</strong>
+
+<img alt="image.png" src="https://trello-attachments.s3.amazonaws.com/597a3cb8ed38411de9642a6e/59a83b89b8c08f54b04f7bad/b14a7aa099b53b664d391fda63a1699a/image.png" />
 <ul>
 	<li>Chat panelindeki mesaj kutusuna tıklayarak mesaj yazabilirsiniz.</li>
 	<li>Enter tuşuna basarak mesaj yazmaya başlayabilirsin.</li>
