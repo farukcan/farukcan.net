@@ -10,8 +10,6 @@ permalink: >
 published: true
 dsq_thread_id:
   - "6092956204"
-dsq_needs_sync:
-  - "1"
 ---
 <h1>Nukewar Online</h1>
 <strong>Tanım :</strong> Küresel dünya üzerinde geçen amiral battı tarzı bir gerçek zamanlı browser tabanlı online oyundur.
@@ -39,13 +37,26 @@ dsq_needs_sync:
 	<li>Oyun 15 saniye içinde başlar. O süre zarfında "Nasıl oynanır, kısmını okuyabilirsiniz"</li>
 </ol>
 <h2>Kontroller</h2>
-Şehir seçme
-
-Hamle yapmak / İptal etmek
-
-Roket rakibi
-
-Mesaj yazmak
+<strong>Şehir seçme</strong>
+<ul>
+	<li>Kendi şehrinizi veya Düşman şehrini Dünyadaki konumana tıklayarak veya sağ üstteki Ülke Panelinden seçebilirisiniz.</li>
+	<li>Ayrıca kendi şehirlerini alttaki Şehir panelinden seçebilirsiniz.</li>
+</ul>
+<strong>Hamle yapmak / İptal etmek</strong>
+<ul>
+	<li>Şehir seçtikten sonra Sol üstteki Kontrol Panelinden hamle yapabilirsiniz.</li>
+	<li>Yaptığınız hamleleri üstteki izleme panelinden iptal edebilirsiniz.</li>
+</ul>
+<strong>Roket rakibi</strong>
+<ul>
+	<li>İzleme panelinden size gelen roketleri veya gönderilen roketleri görebilirsiniz. Gidiş/Geliş zamanının üzerine tıklayarak, rokete odaklanabilirsiniz.</li>
+	<li>Bir şehre tıklayarak, kontrol panelinden o şehre gelen/giden roketleri görebilirsiniz.</li>
+</ul>
+<strong>Mesaj yazmak</strong>
+<ul>
+	<li>Chat panelindeki mesaj kutusuna tıklayarak mesaj yazabilirsiniz.</li>
+	<li>Enter tuşuna basarak mesaj yazmaya başlayabilirsin.</li>
+</ul>
 <h2>Hamleler</h2>
 <ul>
 	<li><strong>Şehirleri yer değiştirme</strong> - taşıma (swap) : 1 dk (Şehirlerdeki varlıkları değiştirir.)</li>
