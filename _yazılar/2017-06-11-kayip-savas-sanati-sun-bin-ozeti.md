@@ -11,14 +11,16 @@ published: true
 dsq_thread_id:
   - "5900981565"
 ---
-Sun Bin, antik çinde yaşayan bir stratejisttir. Sun Tzu ile akraba oldukları düşünülmektedir. 20yy'dan önce Sun Tzu ile aynı kişi olduğu düşünülmekteydi. Çünkü eserleri henüz bulunamamıştı. 20yy'da "Kayıp Savaş Sanatı" bulundu. Ancak yazdığını kitabın ancak bir kısmı bize ulaşabilmiştir.
+Sun Bin, Antik Çin'de yaşayan bir stratejisttir. Sun Tzu ile akraba oldukları düşünülmektedir. 20.yy'dan önce Sun Tzu ile aynı kişi olduğu düşünülmekteydi. Çünkü eserleri henüz bulunamamıştı. 20.yy'da "Kayıp Savaş Sanatı" bulundu. Ancak yazdığını kitabın sadece bir kısmı bize ulaşabilmiştir.
 <h1>Problemler üzerine</h1>
 <blockquote>Karmaşık bir yumağı çözmek isteyen ipleri düşüncesizce çekiştirmemelidir.</blockquote>
-Bir problem olduğunda, en iyisi ona bulaşmamaktır ve düşünüp en uygun imkanı ve zamanı yakaladığımızda onu ince ince çözmemiz gerekir.
+Bir problem olduğunda, en iyisi ona hemen bulaşmamaktır ve düşünüp en uygun imkanı ve zamanı yakaladığımızda onu ince ince çözmemiz gerekir.
 
-Bütün problemler İskenderin Gordion düğümü gibi değildir. Mutlak çözümü yoktur. Dolayısıyla, düğümü parçalayacak kılıcımız yoksa,onu ince ve karmaşık işçilikle  çözebiliriz.
+Bütün problemler İskenderin Gordion düğümü gibi değildir. Mutlak çözümü yoktur. Dolayısıyla, düğümü parçalayacak kılıcımız yoksa,onu ince ve karmaşık işçilikle çözebiliriz.
 
-Yazılım geliştirirken, öncesinde ince ince plan yapmamız gerekir, çünkü plansız başlanıp devam ettirdiğimiz bir süreç, sona gelindiğinde istenen sonucu vermez. Gözden kaçırdığımız çok şey olduğunu farkeder ve herşeye baştan başlamamız gerektiğini farkederiz. Dolayısıyla emeğimiz de boşa gitmiş olur.
+Yazılım geliştirirken, öncesinde ince ince plan yapmamız gerekir, çünkü plansız başlanıp devam ettirdiğimiz bir süreç, sona gelindiğinde istenen sonucu vermez. Gözden kaçırdığımız çok şey olduğunu farkeder ve herşeye baştan başlamamız gerektiğini fark ederiz. Dolayısıyla emeğimiz de boşa gitmiş olur.
+
+Aynı durum Felsefe problemlerde de geçerlidir, bir probleme hemen ön yargıyla yaklaşmamak onu objektif  olarak incelemek,araştırmak gerekir. Doğru olduğunuzu zannettiğiniz şey doğru olmayabilir.
 <h1>Zhao'yu kurtarmak için Wei'i kuşatmak</h1>
 <blockquote>Zhao, Sun Bin'in müttefiğinin bir şehriydi. Wei ise , Zhaoya saldıran düşmanın şehridir. Sun Bin, Zhaodaki kuşatmayı kırmak yerine, bütün gücüyle Wei'e saldırır. Wei de yaşlılar ve sakatların dışında ufak bir ordu olduğu için kolaylıkla ele geçirir. Bunu duyan düşman çılgına dönerek, kuşatmarı bırakıp, Wei'e geri döner. Fakat kuşatmadan yeni çıkmış , morali bozulmuş ve dönerken yorulmuş düşman, Weideki ordu tarafından kolaylıkla bozguna uğrar.</blockquote>
 <b>Dövüş sanatı</b>: Size tekme atan bir düşman, dengesinden taviz verir ve diğer bacağını savunmasız bırakır. O tekmeyi karşılamak yerine , düşmanınızın diğer bacağına vurmak daha mantıklıdır.
