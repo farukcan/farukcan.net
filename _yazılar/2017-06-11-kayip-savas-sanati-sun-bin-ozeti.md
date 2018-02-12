@@ -20,7 +20,7 @@ Bütün problemler İskenderin Gordion düğümü gibi değildir. Mutlak çözü
 
 Yazılım geliştirirken, öncesinde ince ince plan yapmamız gerekir, çünkü plansız başlanıp devam ettirdiğimiz bir süreç, sona gelindiğinde istenen sonucu vermez. Gözden kaçırdığımız çok şey olduğunu farkeder ve herşeye baştan başlamamız gerektiğini fark ederiz. Dolayısıyla emeğimiz de boşa gitmiş olur.
 
-Aynı durum Felsefe problemlerde de geçerlidir, bir probleme hemen ön yargıyla yaklaşmamak onu objektif  olarak incelemek,araştırmak gerekir. Doğru olduğunuzu zannettiğiniz şey doğru olmayabilir.
+Aynı durum Felsefi problemlerde de geçerlidir, bir probleme hemen ön yargıyla yaklaşmamak onu objektif  olarak incelemek,araştırmak gerekir. Doğru olduğunuzu zannettiğiniz şey doğru olmayabilir.
 <h1>Zhao'yu kurtarmak için Wei'i kuşatmak</h1>
 <blockquote>Zhao, Sun Bin'in müttefiğinin bir şehriydi. Wei ise , Zhaoya saldıran düşmanın şehridir. Sun Bin, Zhaodaki kuşatmayı kırmak yerine, bütün gücüyle Wei'e saldırır. Wei de yaşlılar ve sakatların dışında ufak bir ordu olduğu için kolaylıkla ele geçirir. Bunu duyan düşman çılgına dönerek, kuşatmarı bırakıp, Wei'e geri döner. Fakat kuşatmadan yeni çıkmış , morali bozulmuş ve dönerken yorulmuş düşman, Weideki ordu tarafından kolaylıkla bozguna uğrar.</blockquote>
 <b>Dövüş sanatı</b>: Size tekme atan bir düşman, dengesinden taviz verir ve diğer bacağını savunmasız bırakır. O tekmeyi karşılamak yerine , düşmanınızın diğer bacağına vurmak daha mantıklıdır.
