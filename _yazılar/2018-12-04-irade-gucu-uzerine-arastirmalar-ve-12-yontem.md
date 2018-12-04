@@ -10,6 +10,8 @@ layout: post
 permalink: >
   http://farukcan.net/felsefe/2018/12/irade-gucu-uzerine-arastirmalar-ve-12-yontem/
 published: true
+dsq_thread_id:
+  - "7086938640"
 ---
 <blockquote>Dünyayı sadece irade gücü değiştirebilir</blockquote>
 <b>irade </b>
@@ -32,7 +34,7 @@ published: true
 
 İrade gücünün, Beynin <strong>Prefrontal Korteks</strong>'inden geldiği düşünülüyor.
 
-"<em>Prefrontal Korteksin önemi ile ilgili en iyi örneklerden biri beyinlerinin bu bölümü bir kaza sonucu zarar görmüş kişiler. 1848’de Phineas Gage adında sakin, saygılı, çalışkan bir ustabaşı prefrontal kortekse ciddi şekilde hasar veren bir kaza yaşadı ve bu kaza onun hayatını sonsuza dek değiştirdi. Gage’in arkadaşları artık onu tanıyamıyordu. Çünkü Gage sabırsız, çabuk öfkelenen bir insana dönüşmüştü. Bakıldığında eski Gage’in tam tersi bir insan gelmişti. Phineas Gage’in yaşadığı kaza, prefrontal korteks bölgesindeki bir hasarın karakterde nasıl bir değişiklik yaratacağına dair yüzlerce örnekten bir tanesi. İradenin mistik bir şey olmadığı, bunun yerine beynin yüzlerce fonksiyonundan biri olduğu da anlaşılıyor.</em>" [1]
+"<em>Prefrontal Korteksin önemi ile ilgili en iyi örneklerden biri beyinlerinin bu bölümü bir kaza sonucu zarar görmüş kişiler. 1848’de Phineas Gage adında sakin, saygılı, çalışkan bir ustabaşı prefrontal kortekse ciddi şekilde hasar veren bir kaza yaşadı ve bu kaza onun hayatını sonsuza dek değiştirdi. Gage’in arkadaşları artık onu tanıyamıyordu. Çünkü Gage sabırsız, çabuk öfkelenen bir insana dönüşmüştü. Bakıldığında eski Gage’in tam tersi bir insan gelmişti. Phineas Gage’in yaşadığı kaza, prefrontal korteks bölgesindeki bir hasarın karakterde nasıl bir değişiklik yaratacağına dair yüzlerce örnekten bir tanesi. İradenin mistik bir şey olmadığı, bunun yerine beynin yüzlerce fonksiyonundan biri olduğu da anlaşılıyor.</em>" [2]
 
 Sol bölge iradenin “yapacağım” yönünden ,
 Sağ bölge iradenin “yapmayacağım” yönünden ,
@@ -40,7 +42,7 @@ Orta bölge ise iradenin “istiyorum” yönünden sorumludur.
 
 Bir teoriye göre :
 
-<strong>İrade bir kas gibi</strong> onu çok kullandığınızda yoruluyor. İradenin kullanıldıkça azalan(yorulan) bir şey olduğu sonucuna vardı. Bir içgüdüye karşı geldiğiniz her seferde, ne kadar küçük olursa olsun, irade kasını kullanıyorsunuz ve bu yüzden irade rezervini azaltıyorsunuz.
+<strong>İrade bir kas gibi</strong> onu çok kullandığınızda yoruluyor. İradenin kullanıldıkça azalan(yorulan) bir şey olduğu sonucuna varıldı. Bir içgüdüye karşı geldiğiniz her seferde, ne kadar küçük olursa olsun, irade kasını kullanıyorsunuz ve bu yüzden irade rezervini azaltıyorsunuz.
 
 <strong>Meditasyon</strong> prefrontal kortekse kan akışını artırır. Görünen o ki, beyin kaslarla aynı şekilde adapte oluyor: Nasıl şınav çektiğinizde kol kasları kazanıyorsunuz, meditasyon yaptığınızda da öz-kontrolden sorumlu bölgelerdeki sinirsel bağlantıları geliştiriyorsunuz.
 <h2>İradeyi güçlendiren şeyler</h2>
@@ -60,6 +62,8 @@ Bir teoriye göre :
 	<li>Başarıyı asla hayal etme, o gerçek olmayan hayalle kendini ödüllendirme. Başarı için çalış.</li>
 </ol>
 <h2></h2>
+&nbsp;
+
 [1] Maximum Willpower McGonial
 
 [2] Bilinmeyen kaynak
