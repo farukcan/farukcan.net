@@ -9,29 +9,29 @@ permalink: >
   http://farukcan.net/hakkimda/privacy-policy/
 published: true
 ---
-Welcome to stdio
-These terms and conditions outline the rules and regulations for the use of stdio's Website And Games
+Welcome to AI-Punk Studios
+These terms and conditions outline the rules and regulations for the use of AI-Punk Studios's Website And Games
 
-stdio is located at:
+AI-Punk Studios is located at:
 Istanbul, Turkey
-By accessing this website we assume you accept these terms and conditions in full. Do not continue to use stdio's website if you do not accept all of the terms and conditions stated on this page.
+By accessing this website we assume you accept these terms and conditions in full. Do not continue to use AI-Punk Studios's website if you do not accept all of the terms and conditions stated on this page.
 
 The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and any or all Agreements: “Client”, “You” and “Your” refers to you, the person accessing this website and accepting the Company’s terms and conditions. “The Company”, “Ourselves”, “We”, “Our” and “Us”, refers to our Company. “Party”, “Parties”, or “Us”, refers to both the Client and ourselves, or either the Client or ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner, whether by formal meetings of a fixed duration, or any other means, for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services/products, in accordance with and subject to, prevailing law of Turkey. Any use of the above terminology or other words in the singular, plural, capitalisation and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 Cookies
-We employ the use of cookies. By using stdio's website you consent to the use of cookies in accordance with stdio’s privacy policy.
+We employ the use of cookies. By using AI-Punk Studios's website you consent to the use of cookies in accordance with AI-Punk Studios’s privacy policy.
 
 Most of the modern day interactive web sites use cookies to enable us to retrieve user details for each visit. Cookies are used in some areas of our site to enable the functionality of this area and ease of use for those people visiting. Some of our affiliate / advertising partners may also use cookies.
 
 License
-Unless otherwise stated, stdio and/or it’s licensors own the intellectual property rights for all material on stdio. All intellectual property rights are reserved. You may view and/or print pages from http://farukcan.net for your own personal use subject to restrictions set in these terms and conditions.
+Unless otherwise stated, AI-Punk Studios and/or it’s licensors own the intellectual property rights for all material on AI-Punk Studios. All intellectual property rights are reserved. You may view and/or print pages from http://farukcan.net for your own personal use subject to restrictions set in these terms and conditions.
 
 You must not:
 
 Republish material from http://farukcan.net , and games
 Sell, rent or sub-license material from http://farukcan.net ,
 Reproduce, duplicate or copy material from http://farukcan.net , and games
-Redistribute content from stdio (unless content is specifically made for redistribution).
+Redistribute content from AI-Punk Studios(unless content is specifically made for redistribution).
 
 Hyperlinking to our Content
 The following organizations may link to our Web site without prior written approval:
@@ -60,7 +60,7 @@ Approved organizations may hyperlink to our Web site as follows:
 By use of our corporate name; or
 By use of the uniform resource locator (Web address) being linked to; or
 By use of any other description of our Web site or material being linked to that makes sense within the context and format of content on the linking party's site.
-No use of stdio’s logo or other artwork will be allowed for linking absent a trademark license agreement.
+No use of AI-Punk Studios’s logo or other artwork will be allowed for linking absent a trademark license agreement.
 
 Iframes
 Without prior approval and express written permission, you may not create frames around our Web pages or use other techniques that alter in any way the visual presentation or appearance of our Web site.
