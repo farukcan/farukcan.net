@@ -8,8 +8,12 @@ layout: page
 permalink: >
   http://farukcan.net/hakkimda/terms-conditions/
 published: true
+dsq_thread_id:
+  - "7781562000"
+dsq_needs_sync:
+  - "1"
 ---
-These Terms and Conditions (“Terms”, “Terms and Conditions”) govern your relationship with http://www.farukcan.net website and Bus Similator Cockpit Go mobile application (the “Service”) operated by AI Punk Studios (“us”, “we”, or “our”).
+These Terms and Conditions (“Terms”, “Terms and Conditions”) govern your relationship with http://www.farukcan.net website and Bus Simulator Cockpit Go mobile application (the “Service”) operated by AI Punk Studios (“us”, “we”, or “our”).
 
 Please read these Terms and Conditions carefully before using our website and mobile applications (the “Service”).
 
