@@ -10,8 +10,6 @@ permalink: >
 published: true
 dsq_thread_id:
   - "5174352499"
-dsq_needs_sync:
-  - "1"
 ---
 İki tür map fonksiyon vardır:
 <ul>

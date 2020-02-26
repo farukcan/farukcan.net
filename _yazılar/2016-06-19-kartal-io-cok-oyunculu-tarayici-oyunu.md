@@ -10,8 +10,6 @@ permalink: >
 published: true
 dsq_thread_id:
   - "4922813761"
-dsq_needs_sync:
-  - "1"
 ---
 <blockquote>Oyun yayından kaldırılmıştır</blockquote>
 kartal.io çok oyunculu bir web tarayıcı oyunudur. Google playde android sürümüde mevcuttur.

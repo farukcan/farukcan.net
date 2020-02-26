@@ -5,12 +5,10 @@ author: farukcan
 post_date: 2016-07-27 23:12:33
 post_excerpt: ""
 layout: page
-permalink: http://farukcan.net/felsefe/
+permalink: http://farukcan.net/category/felsefe/
 published: true
 dsq_thread_id:
   - "5019525588"
-dsq_needs_sync:
-  - "1"
 ---
 <h1></h1>
 <h1>Felsefi Makaleler</h1>

@@ -8,6 +8,8 @@ layout: post
 permalink: >
   http://farukcan.net/yazilim-teknolojileri/2017/04/facebook-pixel/
 published: true
+dsq_thread_id:
+  - "5715413567"
 ---
 Facebook üzerinde yayınlanan reklamlardan elde edilen bilgilerle dönüşüm ve retargeting yapılmasını sağlayan kod parçasıdır.
 

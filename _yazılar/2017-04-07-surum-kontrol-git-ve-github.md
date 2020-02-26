@@ -8,6 +8,8 @@ layout: post
 permalink: >
   http://farukcan.net/bilgi-yonetimi/2017/04/surum-kontrol-git-ve-github/
 published: true
+dsq_thread_id:
+  - "5836712388"
 ---
 Yazılım projesi geliştirirken, kademeli olarak kodları yedeklemek ve saklamak gerekmektedir. Bu yedeklemeler yapılırken gerektiğinde önceki sürüme geri dönebilmemiz ve önceki sürüm ile farkları (change log) belirlememiz gerekmektedir.
 

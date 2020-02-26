@@ -10,6 +10,8 @@ layout: post
 permalink: >
   http://farukcan.net/felsefe/2017/01/bilgisayar-bilimin-insana-ogrettigi-uc-gercek/
 published: true
+dsq_thread_id:
+  - "5462708591"
 ---
 Bilgisayar bilimin insana öğrettiği en önemli üç gerçek ;
 <ol>

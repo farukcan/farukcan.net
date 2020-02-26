@@ -8,8 +8,6 @@ layout: post
 permalink: >
   http://farukcan.net/felsefe/2016/12/barisin-ilk-kurali/
 published: true
-dsq_needs_sync:
-  - "1"
 dsq_thread_id:
   - "5356271700"
 ---

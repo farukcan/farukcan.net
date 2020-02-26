@@ -8,6 +8,8 @@ layout: post
 permalink: >
   http://farukcan.net/felsefe/2019/07/saldiri-devi-ozgurluk/
 published: true
+dsq_thread_id:
+  - "7623728095"
 ---
 <blockquote>Bu makale yapım aşamasındadır.</blockquote>
 <strong style="color: inherit; font-family: Oxygen, sans-serif; font-size: 29px;">#1 Metabilgi için ilk sorular</strong>
