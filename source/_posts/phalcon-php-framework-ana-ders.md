@@ -1,5 +1,5 @@
 ID: 123
-title: 'Phalcon PHP Framework &#8211; Ana Ders'
+title: Phalcon PHP Framework - Ana Ders
 author: farukcan
 post_excerpt: ''
 layout: post

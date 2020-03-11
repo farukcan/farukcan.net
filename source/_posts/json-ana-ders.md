@@ -1,5 +1,5 @@
 ID: 117
-title: 'JSON &#8211; Ana Ders'
+title: JSON - Ana Ders
 author: farukcan
 post_excerpt: ''
 layout: post

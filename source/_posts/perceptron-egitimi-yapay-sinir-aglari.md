@@ -1,5 +1,5 @@
 ID: 427
-title: 'Perceptron Eğitimi &#8211; Yapay Sinir Ağları'
+title: Perceptron Eğitimi - Yapay Sinir Ağları
 author: farukcan
 post_excerpt: ''
 layout: post

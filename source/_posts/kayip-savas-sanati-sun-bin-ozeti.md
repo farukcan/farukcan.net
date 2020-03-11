@@ -1,28 +1,29 @@
----
 ID: 605
-title: 'Kayıp Savaş Sanatı &#8211; SUN BIN Özeti ve Yorumu'
+title: Kayıp Savaş Sanatı - SUN BIN Özeti ve Yorumu
 author: farukcan
-date: 2017-06-11 20:27:58
-post_excerpt: ""
+post_excerpt: ''
 layout: post
 published: true
 category:
   - Strateji
 tags:
+  - felsefe
+  - yazılım
   - strateji
   - sun bin
   - çin
   - savaş
-  - felsefe
   - iskender
   - zhao
   - wei
   - sun tzu
   - saldırı
   - analiz
-  - yazılım
 dsq_thread_id:
-  - "5900981565"
+  - '5900981565'
+categories:
+  - Strateji
+date: 2017-06-11 20:27:00
 ---
 Sun Bin, Antik Çin'de yaşayan bir stratejisttir. Sun Tzu ile akraba oldukları düşünülmektedir. 20.yy'dan önce Sun Tzu ile aynı kişi olduğu düşünülmekteydi. Çünkü eserleri henüz bulunamamıştı. 20.yy'da "Kayıp Savaş Sanatı" bulundu. Ancak yazdığını kitabın sadece bir kısmı bize ulaşabilmiştir.
 <h1>Problemler üzerine</h1>

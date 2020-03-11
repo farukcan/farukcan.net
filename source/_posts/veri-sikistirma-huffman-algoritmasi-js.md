@@ -1,5 +1,5 @@
 ID: 432
-title: 'Veri Sıkıştırma &#8211; Huffman Algoritması &#8211; JS'
+title: Veri Sıkıştırma - Huffman Algoritması - JS
 author: farukcan
 post_excerpt: ''
 layout: post
