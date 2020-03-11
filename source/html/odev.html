@@ -1,0 +1,128 @@
+<input id="proses_ad" value="Proses Ad" type="text" /> <input id="proses_zaman" value="500" type="text" /> <input type="submit" value="Proses Ekle" onClick="addProses();"/><br><input type="submit" value="OS u DURDUR." onClick="OS.stop();"/>  <input type="submit" value="OS u CALISTIR." onClick="OS.run();"/> <input type="submit" value="KONSOLU TEMIZLE." onClick="consoledata = ''"/><br><div id="PROSESLER"></div>
+
+<script type="text/javascript">
+/*
+|--------------------------------------------------------------------------
+| İŞLETİM SİSTEMLERİ ÖDEVİ : FiFO Similasyonu
+|--------------------------------------------------------------------------
+| 	Ömer Faruk CAN
+| 	120502006 - 3B Bilgisayar Mühendisliği
+*/
+
+
+	/*
+	|--------------------------------------------------------------------------
+	| CLASSLarımız
+	|--------------------------------------------------------------------------
+	| Kuyruk, Proses
+	| OS gibi yapılar içeririr
+	*/
+
+// Kuyruk classımız.: FIFO işlem kuyrugunu temsil ediyor
+function Kuyruk () {
+	this.prosesler = []; // prosesleri tut
+	this.in = function (data) {
+		this.prosesler.push(data); // ekle
+	};
+	this.out = function (){
+		return this.prosesler.shift(); // cikart
+	}
+	this.length = function  () {
+		return this.prosesler.length; // uzunluku al
+	}
+	this.get = function  () {
+		return this.prosesler; // proses listenisi
+	}
+}
+
+function Proses (ad,zaman) {
+	this.ad = ad;
+	this.zaman = zaman;
+}
+
+var runningOS; // mevcut çalışan işletim sistemi temsil eden degisken
+// class: OS işletim sistemi. Prosesleri çalıştıran sanal işletim sistemimiz
+function Os(){
+	this.aktif = false; // aktiflik durumu
+	runningOS = this; 
+	// üzerinde çalıştığı mevcut proses
+	this.mevcutProses = false; // işlem yapılar proses
+
+	// proses işleme döngüsü
+	this.loop = setInterval(function() {
+		if(runningOS.aktif && runningOS.kuyruk){
+			if(runningOS.mevcutProses && runningOS.mevcutProses.zaman>0){
+				runningOS.mevcutProses.zaman--;
+			}
+			else
+			{
+				if(runningOS.mevcutProses=OS.kuyruk.out()){
+					c("<br>Yeni proses calisti : "+  runningOS.mevcutProses.ad)
+				}else{
+					runningOS.mevcutProses = false;
+					c("<br> [aktif proses yok] ");
+					runningOS.stop();
+				}
+			}
+		}
+		draw();
+	}, 1);
+
+	this.run = function(){this.aktif = true; c("<br> [OS Aktiflesti]");} // isletim sistemini koştur
+	this.stop = function(){this.aktif = false;c("<br> [OS Durduruldu]");} // isletim sistemini koştur
+
+	// islem yapacagim kuyruktur
+	this.kuyruk = false; // işlem kuyrugu
+}
+
+	/*
+	|--------------------------------------------------------------------------
+	| Ana Fonksiyonlar
+	|--------------------------------------------------------------------------
+	| Kuyruk ve OS oluştur işlemi burda yapılır
+	| 
+	*/
+	var OS = new Os(); // işletim sistemi oluştur
+	var k = new Kuyruk(); // işlem kuyrugu oluştur
+	OS.kuyruk = k; // kuyrugu işletim sistenine bağla
+
+	// prosesler ekle
+	OS.kuyruk.in(new Proses('a',500));
+	OS.kuyruk.in(new Proses('b',500));
+	OS.kuyruk.in(new Proses('c',500));
+
+	OS.run(); // işletim sistemini çalıştır. 
+
+
+
+	/*
+	|--------------------------------------------------------------------------
+	| UI Arayüzü ile ilgi fonksiyonlar
+	|--------------------------------------------------------------------------
+	|
+	| Browserde göstermek amacıy kullanılan fonksiyonlardır
+	*/
+// Bu değişkenler ve fonksiyonlar arayüz içindir
+var consoledata = "";
+function c(t){
+	consoledata += t;
+}
+function draw(){
+	PROSESLER = document.getElementById("PROSESLER");
+	PROSESLER.innerHTML = "<br><b>Bekleyen Prosesler : </b>";
+	OS.kuyruk.get().forEach( function(al){
+	    	PROSESLER.innerHTML  += al.ad + "(" + al.zaman +") <<";
+	});
+	if(OS.mevcutProses)
+		PROSESLER.innerHTML += "<br>Calisan Prosesler : " + OS.mevcutProses.ad + "(" + OS.mevcutProses.zaman +")";
+	else
+		PROSESLER.innerHTML += "<br>Calisan Proses Yok";
+
+	PROSESLER.innerHTML += "<br><i>"+consoledata;
+}	
+function addProses(){
+	OS.kuyruk.in(new Proses(document.getElementById("proses_ad").value,document.getElementById("proses_zaman").value));
+}
+
+</script>
+

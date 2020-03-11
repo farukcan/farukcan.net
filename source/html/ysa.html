@@ -1,0 +1,246 @@
+﻿<script src="jquery-min.js"></script>
+<style>
+input[type="checkbox"]{
+    /* Double-sized Checkboxes */
+    -webkit-transform: scale(3); /* Safari and Chrome */
+    transform: scale(3); /* Opera */
+    margin: 10px;
+}
+
+
+</style>
+
+<body></body>
+<ul onclick="getValues()" style="display: flex;">
+    <li>
+        <h3>Sınıf A - Giriş</h3>
+        <input id="a0" type="checkbox">
+        <input id="a1" type="checkbox">
+        <input id="a2" type="checkbox">
+        <br>
+        <input id="a3" type="checkbox">
+        <input id="a4" type="checkbox">
+        <input id="a5" type="checkbox">
+        <br>
+        <input id="a6" type="checkbox">
+        <input id="a7" type="checkbox">
+        <input id="a8" type="checkbox">
+        <br><br>
+        bias: <input id="a9" type="number" value=-1     style="width: 50px">
+        <br><br>
+        istenen çıkış: <br><input id="da" type="number" value=0     style="width: 50px">
+        <br>
+
+    </li>
+    <li style="margin-left: 40px;">
+        <h3>Sınıf B - Giriş</h3>
+        <input id="b0" type="checkbox">
+        <input id="b1" type="checkbox">
+        <input id="b2" type="checkbox">
+        <br>
+        <input id="b3" type="checkbox">
+        <input id="b4" type="checkbox">
+        <input id="b5" type="checkbox">
+        <br>
+        <input id="b6" type="checkbox">
+        <input id="b7" type="checkbox">
+        <input id="b8" type="checkbox">
+        <br><br>
+        bias: <input id="b9" type="number" value=-1 style="width: 50px">
+        <br><br>
+        istenen çıkış: <br><input  id="db" type="number" value=0     style="width: 50px">
+
+    </li>
+    <li style="margin-left: 40px;">
+        <h3>Başlangıç Ağırlıkları</h3>
+        <input id="w0" type="number" value=0 style="width: 50px">
+        <input id="w1" type="number" value=0 style="width: 50px">
+        <input id="w2" type="number" value=0 style="width: 50px">
+        <br>
+        <input id="w3" type="number" value=0 style="width: 50px">
+        <input id="w4" type="number" value=0 style="width: 50px">
+        <input id="w5" type="number" value=0 style="width: 50px">
+        <br>
+        <input id="w6" type="number" value=0 style="width: 50px">
+        <input id="w7" type="number" value=0 style="width: 50px">
+        <input id="w8" type="number" value=0 style="width: 50px">
+        <br><br>
+        bias: <input id="w9" type="number" value=-1 style="width: 50px">
+
+        <h4>Değerler</h4>
+        <p id="values"></p>
+
+    </li>
+
+</ul>
+
+<ul style="display: flex;">
+    <li>
+        c : <input id="c" type="number" value=1 style="width: 40px"> Adım Sayısı : <input id="maxloop" type="number" value=50 style="width: 50px"><input type="button" onclick="calculate()" value="Eğitimi Başlat">
+        <div id="console">
+
+        </div>
+    </li>
+    <li style="margin-left: 40px;">
+        <h3>Test</h3>
+        <input id="t0" type="checkbox">
+        <input id="t1" type="checkbox">
+        <input id="t2" type="checkbox">
+        <br>
+        <input id="t3" type="checkbox">
+        <input id="t4" type="checkbox">
+        <input id="t5" type="checkbox">
+        <br>
+        <input id="t6" type="checkbox">
+        <input id="t7" type="checkbox">
+        <input id="t8" type="checkbox">
+        <br><br>
+        bias: <input id="t9" type="number" value=-1     style="width: 50px">
+        <br><br>
+        <input type="button" onclick="test()" value="Test et">
+        <div id="sonuc"></div>
+    </li>
+</ul>
+<script>
+
+    var w, // ağırlık
+            A, B, // girişler
+            dA,dB; // istenenler
+
+
+    // HTML arayüzden değerleri elde eder
+    function getValues(){
+        A = [];
+        B = [];
+        w = [];
+        for (var i=0;i<9;i++){
+            A.push(cb2v("a"+i));
+            B.push(cb2v("b"+i));
+            w.push(Number($("#w"+i).val()));
+        }
+        A.push(Number($("#a9").val()));
+        B.push(Number($("#b9").val()));
+        w.push(Number($("#w9").val()));
+
+        dA = Number($("#da").val());
+        dB = Number($("#db").val());
+
+        var s = "yA : [ ";
+        s+= A.toString()+" ]<br>yB : [ ";
+        s+= B.toString()+" ]<br>w : [ ";
+        s+= w.toString()+" ]<br>dA : "+dA;
+        s+= "<br>dB : "+dB;
+
+        $("#values").html(s);
+
+
+    }
+getValues()
+
+
+    function calculate(){
+        $('#console').html('');
+        MAXLOOP=Number($("#maxloop").val());
+
+        var data = [];
+        data.push(A);
+        data.push(B);
+        var beklenen = [];
+        beklenen.push(dA);
+        beklenen.push(dB);
+
+        var c=Number($("#c").val());
+        var k=1; // itarasyon ks
+        var E=1; //ERROR
+        var o=0; //sign(toplam)
+        var p=0; // adım sayısı
+        print("<br>w = [ "+w.toString()+"] [ E= "+E+" ]");
+
+        while (E>0 && p < MAXLOOP) {
+
+
+
+            E = 0;
+            p++;
+            if (p == MAXLOOP - 1){
+                alert("MAX LOOP Aşıldı");
+                break;
+            }
+
+            for (var j = 0; j < data.length; j++) {
+                o = sign(toplam(data[j], w));
+
+                print(" ( b:"+beklenen[j]+" o:"+o+" )");
+                if (o == beklenen[j]) {
+                    //ok
+                } else {
+
+                    for (var i = 0; i < w.length; i++) {
+                        w[i] = w[i] + c * (beklenen[j] - o) * data[j][i] / 2;
+                    }
+                }
+
+                E = E + 1 / 2 * (Math.pow(beklenen[j] - o, 2));
+
+            }
+            k++;
+
+            print("<br>w = [ "+w.toString()+"] [ E= "+E+" ]");
+
+
+
+        }
+        for (var i = 0; i < w.length; i++) {
+            $("#w"+i).val(w[i]);
+        }
+
+        print(" ( Eğitim bitti )")
+
+
+
+    }
+
+    function test(){
+        var t = [];
+        for (var i=0;i<9;i++) {
+            t.push(cb2v("t" + i));
+        }
+        t.push(Number($("#a9").val()));
+        var o = sign(toplam(t,w))
+        $("#sonuc").html("<br><b>sonuc</b> : "+o);
+
+
+    }
+
+
+
+
+
+    function toplam(x,w){
+        var toplam=0;
+        for(key in w){
+            toplam+=w[key]*x[key];
+        }
+        return toplam;
+    }
+
+    function sign(x){
+        return Math.sign(x);
+    }
+
+    function f(x){
+        return 2/(1+Math.exp(-1*x))-1;
+    }
+
+    function print(x){
+        $("#console").append(x);
+
+    }
+
+    function cb2v(id){
+        if($("#"+id).is(':checked'))
+            return 1;
+        return 0;
+    }
+
+</script>

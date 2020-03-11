@@ -1,0 +1,176 @@
+<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+<textarea id="tb">maerhaba</textarea><input id="buton" type="submit" value="Sıkıştır">
+<br>
+<span id="out"></span>
+
+<script type="text/javascript">
+ var sozluk=[];
+ 
+function print(a){
+	$("#out").html($("#out").html()+a);
+}
+function clone(oldObject){
+	return jQuery.extend({}, oldObject);
+}
+
+$("#buton").click(function(e){
+	calc();
+});
+
+
+function Node(ust,left,right,level,frekans,char){
+	this.ust = ust;
+  this.left = left;
+  this.right = right;
+  this.level = level ;
+  this.char = char;
+  this.frekans = frekans;
+  this.kod="";
+}
+
+function calc(){
+  var text = $("#tb").val();
+  var array = text.split("");
+  var chars = [];
+  var frekans = [];
+  var sorted = [];
+  
+	$("#out").html("Toplam : "+array.length+"<h2>Frekanslar</h2>");
+
+  for(k in array){
+    if(chars.indexOf(array[k]) == -1)
+      chars.push(array[k]);
+  }
+
+  for(k in array){
+      ch = chars.indexOf(array[k]);
+      if(ch != -1){
+        if(frekans[ch]){
+          frekans[ch]++;
+        }
+        else
+        {
+          frekans[ch]=1;
+        }
+      }
+  }
+
+  for(i in chars){
+    print("'"+chars[i]+"' "+( frekans[i]/array.length)+"<br>" );
+    sorted.push({
+    	"char" : chars[i],
+      "frekans" : (frekans[i]/array.length)
+    });
+  }
+  
+  
+  var levels=[[]];
+
+  for(i=0;i<sorted.length;i++){
+  		levels[0].push(new Node(false,false,false,0,sorted[i].frekans,sorted[i].char));
+  }
+  
+  var level = 0;
+  while(levels[level].length>2){
+  
+    levels[level].sort(function(a, b) {
+    	return parseFloat(b.frekans) - parseFloat(a.frekans);
+		});
+    
+    level++;
+    levels.push([]);
+    
+    i = levels[level-1].length-1;
+
+    levels[level].push(new Node(false,levels[level-1][i-1],levels[level-1][i],level,(levels[level-1][i-1].frekans+levels[level-1][i].frekans),"yok"));
+
+    levels[level-1][i-1].ust = levels[level][levels[level].length-1];
+    levels[level-1][i].ust = levels[level][levels[level].length-1];     
+
+		for(var j = levels[level-1].length-3 ; j>=0;j--){
+      	levels[level].push(levels[level-1][j]);
+        levels[level-1][j].ust = levels[level][levels[level].length-1];
+    }
+
+    
+  }
+  
+   levels[level].sort(function(a, b) {
+    	return parseFloat(b.frekans) - parseFloat(a.frekans);
+	});
+    
+    
+
+  GenerateCode(levels[level][0],"1");  
+  GenerateCode(levels[level][1],"0");
+  
+  
+
+  
+  
+  
+
+  print("<h2>Ağaç</h2>");
+  
+
+  
+  levels.forEach(function(e){
+  	print("<br>");
+    e.forEach(function(l){
+    	print(Math.round(l.frekans*100)/100+" | ");
+    })
+  });
+  
+    print("<h2>Kod</h2>");
+  
+
+  
+  levels.forEach(function(e){
+  	print("<br>");
+    e.forEach(function(l){
+    	print(l.kod+" | ");
+    })
+  });
+  
+  sozluk=[];
+  
+  print("<h2>Kodlama</h2>");
+      levels[0].forEach(function(l){
+    	print(l.char+" = "+l.kod+" <br> ");
+      sozluk.push({
+      	"char" : l.char,
+        "kod" : l.kod
+      });
+    })
+  
+  print("<h2>Encode</h2>");
+  
+  array.forEach(function(e){
+  	print(encode(e));
+  });
+  
+  console.log(levels);
+
+
+}
+
+
+function GenerateCode(node,kod){
+  	node.kod=kod;
+    if(node.left)
+  		GenerateCode(node.left,"1"+node.kod);  	
+    if(node.right)
+    	GenerateCode(node.right,"0"+node.kod);
+}
+
+function encode(char){
+  for(k in sozluk){
+  	if(sozluk[k].char==char)
+    	return sozluk[k].kod;
+  }
+  return "?";
+}
+
+
+
+</script>
