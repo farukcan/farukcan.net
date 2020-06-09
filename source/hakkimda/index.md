@@ -8,8 +8,6 @@ layout: page
 
 BU SAYFA GÜNCEL DEĞİLDİR. DİKKATE ALMAYINIZ!
 
-İstanbul / Turkey
-
 E-mail : omer@farukcan.net
 
 <strong>Education</strong>
