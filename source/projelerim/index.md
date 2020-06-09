@@ -8,6 +8,8 @@ layout: page
 ---
 <p style="text-align: left;">Oyunlar : <a href="http://game.farukcan.net/">game.farukcan.net</a></p>
 
+Bu Sayfa Çok Eskidir. Dikkate almayınız. Güncel halini vardır.
+
 <h1 style="text-align: center;">Published Projects</h1>
 Yayınlanmış projelerim:
 <ol>
