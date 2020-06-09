@@ -10,4 +10,6 @@ jobs:
         node-version: '12'
     - run: npm install
     - run: npm run clean
+    - run: git config --global user.name "farukcan"
+    - run: git config --global user.email  "omer@farukcan.net"
     - run: npm run deploy
