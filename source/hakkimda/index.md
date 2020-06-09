@@ -6,6 +6,8 @@ layout: page
 ---
 <span style="line-height: 1.6471;"> </span>Ömer Faruk CAN
 
+BU SAYFA GÜNCEL DEĞİLDİR. DİKKATE ALMAYINIZ!
+
 İstanbul / Turkey
 
 E-mail : omer@farukcan.net
