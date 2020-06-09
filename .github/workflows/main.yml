@@ -4,13 +4,10 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@master
-
-    - name: Build and Deploy
-      uses: solybum/hexo-deploy@master
-      env:
-        PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-        PUBLISH_REPOSITORY: farukcan/farukcan.github.io # The repository the action should deploy to.
-        BRANCH: master  # The branch the action should deploy to.
-        PUBLISH_DIR: ./public # The folder the action should deploy.
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '12'
+    - run: npm install
+    - run: npm run clean
+    - run: npm run deploy
