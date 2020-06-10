@@ -123,9 +123,9 @@ darkmode: true
 # External url should start with http:// or https://
 menu:
   home: / || home
-  about: /hakkimda/ || user
-  contact: /iletisim/ || address-book
-  projects: /projelerim/ || tasks
+  #about: /hakkimda/ || user
+  #contact: /iletisim/ || address-book
+  #projects: /projelerim/ || tasks
   games: https://web.farukcan.net/games || car
   privacy_policy: /privacy-policy/ || file
   terms_conditions: /terms-conditions/ || clone
