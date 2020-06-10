@@ -192,6 +192,9 @@ Sanal kartlar yoksa, bu kartları mocklayan bir yazılım yazılarak testler ça
 
 
 # Sunum
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSICDi-aV0Qm6U5IOxE9lieGxDcipn3MZKWPXJsF45R4-4hfSgCOqn6KBttPchYZot44trTZF95eFnq/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 [Embedded Software Testing Sunum](https://docs.google.com/presentation/d/1fFRhwwksglVttGgJCxI786ryusi4gHlaBj1FOQTgf8Y/edit?usp=drivesdk)
 
 # Kaynakça ve İleri Okuma
