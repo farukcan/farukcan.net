@@ -30,7 +30,7 @@ Endüstriyel robotlar, GPS alıcıları, Kameralar, Routerlar, Oyun konsolları,
 
 Son istatistiklere göre tahminen dünyadaki işlemcilerin %90'ına yakını bir gömülü sistem parçasıdır.
 
-![Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled.png](Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled.png)
+![/images/embedded/Untitled.png](/images/embedded/Untitled.png)
 
 ## Gömülü yazılım testi neden önemlidir?
 
@@ -52,7 +52,7 @@ Bu sebeplerden dolayı, gömülü yazılım testi, standart yazılım testlerind
 
 Sektörlere göre gömülü yazılım test tekniği paper sayısı
 
-![Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%201.png](Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%201.png)
+![/images/embedded/Untitled%201.png](/images/embedded/Untitled%201.png)
 
 **Test Nedir?**
 Test bugların, kusurların, noksanlıkların ve zayıflıkların bulunmasıdır.
@@ -65,7 +65,7 @@ Sağlamlık için hem fonksiyonel hemde fonksiyonel-olmayan nitelikler denetlenm
 
 **Fonksiyonel Nitelik Testi**, yazılım yerine getirmesi gereken görevleri kusursuz bir şekilde yapmasıyla alakalıdır. Gömülü yazılımda fonksiyonellik fiziksel çevreye bağlı kontrol ediliyor olabilir. Bu çevresel girdilerin tanımı ve aralığı açık olmalıdır. 
 
-![Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%202.png](Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%202.png)
+![/images/embedded/Untitled%202.png](/images/embedded/Untitled%202.png)
 
 Örnek kodda, fonksiyon çevresel bir girdi olan ivmeölçer ile kontrol edilmektedir. Fakat bu fonksiyonun ivmelenme girdilerinden biri "0" değeri aldığında bozulacaktır.
 
@@ -79,7 +79,7 @@ Anlaşılacağı üzere girdi uzayı ve bu uzayın test edilebilirliği ve test 
 
 ***Zaman Kısıtlamaları***, yazılımın görevlerini kısıtlı zamanda tamamlanmasıyla alakalıdır. Gömülü yazılımların çoğu gerçek zamanlıdır. Tepki süreleri ve gecikmeleri çok önemlidir. Örneğin bir arabanın kaza anında darbe sensörlerindeki verilere göre hava yastıklarını doğru zamanda tetiklemesi hayati önem taşır. Bir kaza olduğunun doğrulanması, emin olunması, hesaplamaların yapılması ve çok geç olmadan hava yastığın tetiklenmesi, milisaniyeler düzeyinde kısıtlı bir zamanda yapılmalıdır.
 
-![Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%203.png](Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%203.png)
+![/images/embedded/Untitled%203.png](/images/embedded/Untitled%203.png)
 
 Dolasıyla bu süreleri optimize ederken, işlemcinin kod talimatları işleme süresi bilenerek yazılım geliştirilmelidir.
 
@@ -89,7 +89,7 @@ Her bir fonksiyon için bir "zaman bütçesi" belirlenmeli ve o fonksiyon o zama
 
 İşlemci-hafıza arasında zaman kaybı olmaması için işlemcinin önbelleği kullanılmalıdır.
 
-![Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%204.png](Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%204.png)
+![/images/embedded/Untitled%204.png](/images/embedded/Untitled%204.png)
 
 Her bir fonksiyonun zamanını ölçen testler yazılmalıdır. 
 
@@ -103,19 +103,19 @@ Her bir önemli fonksiyon için WCET (Worst-case execution time) yani en kötü 
 
 ## Test Metodolojilerin Kategorizasyonu
 
-![Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%205.png](Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%205.png)
+![/images/embedded/Untitled%205.png](/images/embedded/Untitled%205.png)
 
-![Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%206.png](Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%206.png)
+![/images/embedded/Untitled%206.png](/images/embedded/Untitled%206.png)
 
 **Kara-kutu Soyutlaması**: Sistem kara kutu gibi davranır. Test senaryoları örnekler ve rastgele girdiler ile oluşturulur. Sistemin gereksinimleri test edilir. Fonksiyonlar test edilir. Sık rastlanmayan uç senaryolar test edilemeyebilir.
 
-![Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%207.png](Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%207.png)
+![/images/embedded/Untitled%207.png](/images/embedded/Untitled%207.png)
 
 **Gri-Kutu Soyutlaması**: Kara-kutu ve Beyaz-kutu yaklaşımın karışımı olarak düşebilir. Ancak sistem kara kutu gibi davranmış, bir model gibi temsil edilir. Bilgiyle alakalı özellikler test edilir. Testler arama uzayına göre oluşturulur.
 
 **Beyaz-kutu Soyutlaması**: Bütün kaynak kodunun ve yollarının test edildiği bir işlemdir. Girdi uzayına göre testler yazılır. Daha çok sistem yapısı test edilir. Bu yöntemde eksik özellikler tespit edilemez.
 
-![Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%208.png](Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%208.png)
+![/images/embedded/Untitled%208.png](/images/embedded/Untitled%208.png)
 
 ## Yapısal olmayan yaklaşımlar
 
@@ -153,7 +153,7 @@ Aynı şekilde 100% test edilmiş bir yazılım 100% güvenli de değildir.
 4. Testi yeniden çalıştır. Testin geçildiğini gör.
 5. Testleri refactor et. Fazlalıkları kaldır.
 
-![Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%209.png](Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%209.png)
+![/images/embedded/Untitled%209.png](/images/embedded/Untitled%209.png)
 
 ### TDD ve Gömülü Yazılım
 
@@ -164,7 +164,7 @@ Aynı şekilde 100% test edilmiş bir yazılım 100% güvenli de değildir.
 
 ### V-model
 
-![Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%2010.png](Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%2010.png)
+![/images/embedded/Untitled%2010.png](/images/embedded/Untitled%2010.png)
 
 ### Unit Test
 
@@ -188,7 +188,7 @@ Gömülü yazılımlar test edilirken ve geliştirirken, sanal donanım kartlar�
 
 Sanal kartlar yoksa, bu kartları mocklayan bir yazılım yazılarak testler çalıştırılabilir. Fakat bunu donanımdan bağımsız yazılım parçaları için yapmak gerekir.
 
-![Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%2011.png](Embedded%20Software%20Testing%208ce61930ef9e4ed194dae1d782f2b091/Untitled%2011.png)
+![/images/embedded/Untitled%2011.png](/images/embedded/Untitled%2011.png)
 
 
 # Sunum
