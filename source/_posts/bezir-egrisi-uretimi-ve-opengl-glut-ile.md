@@ -17,5 +17,5 @@ tags:
 dsq_thread_id:
   - "4285701907"
 ---
-<a href="/tr/html/uploads/2015/11/bezier.png"><img class="alignnone size-full wp-image-417" alt="bezier" src="/tr/html/uploads/2015/11/bezier.png" width="722" height="745" /></a>
+<a href="/html/uploads/2015/11/bezier.png"><img class="alignnone size-full wp-image-417" alt="bezier" src="/html/uploads/2015/11/bezier.png" width="722" height="745" /></a>
 {% include_code lang:c bezier.c %}
