@@ -1,3 +1,5 @@
+![Deploy](https://github.com/farukcan/farukcan.net/workflows/Deploy/badge.svg)
+
 # farukcan.net
 
 Hexo ile github-pages kullanılarak sitemi github üzerinde barındırmaktayım.
