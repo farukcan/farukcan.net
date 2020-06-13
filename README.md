@@ -3,9 +3,9 @@
 ![Website](https://img.shields.io/website?label=farukcan.net&style=flat-square&url=https%3A%2F%2Fwww.farukcan.net)
 ![GitHub repo size](https://img.shields.io/github/repo-size/farukcan/farukcan.net?label=farukcan.net&style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/farukcan/farukcan.github.io?label=farukcan.github.io&style=flat-square)
-![License](https://www.farukcan.net/images/cc-by-nc-sa.svg)
 
-# farukcan.net
+
+# farukcan.net ![License](https://www.farukcan.net/images/cc-by-nc-sa.svg)
 
 Hexo ile github-pages kullanılarak sitemi github üzerinde barındırmaktayım.
 Buraya commitlenen herşey, github action ile otomatik deploy edilir.
