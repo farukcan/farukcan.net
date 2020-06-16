@@ -84,3 +84,6 @@ https://cdn.jsdelivr.net/gh/jquery/jquery@3.2.1/src/core.min.js
 https://cdn.jsdelivr.net/gh/jquery/jquery/
 
 ```
+```html
+<script src="https://cdn.jsdelivr.net/gh/jquery/jquery/dist/jquery.min.js"></script>
+```
