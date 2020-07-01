@@ -5,7 +5,7 @@ author: farukcan
 date: 2018-11-30 16:07:01
 layout: page
 ---
-AI Punk Studios (“us”, “we”, or “our”) operates the http://www.farukcan.net website and Bus Simulator Cockpit Go ,Roller Vortex mobile application (hereinafter referred to as the “Service”).This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our Service and the choices you have associated with that data.We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
+AI Punk Studios (“us”, “we”, or “our”) operates the http://www.farukcan.net website and Bus Simulator Cockpit Go ,Roller Vortex,Quadcopter Drone Parking mobile application (hereinafter referred to as the “Service”).This page informs you of our policies regarding the collection, use and disclosure of personal data when you use our Service and the choices you have associated with that data.We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
 &nbsp;
 <h4>DEFINITIONS</h4>
