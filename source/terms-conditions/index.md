@@ -5,7 +5,8 @@ author: farukcan
 date: 2019-12-25 18:43:17
 layout: page
 ---
-These Terms and Conditions (“Terms”, “Terms and Conditions”) govern your relationship with http://www.farukcan.net website and Bus Simulator Cockpit Go,Roller Vortex mobile application (the “Service”) operated by AI Punk Studios (“us”, “we”, or “our”).
+These Terms and Conditions (“Terms”, “Terms and Conditions”) govern your relationship with http://www.farukcan.net website and Bus Simulator Cockpit Go,Roller Vortex,
+Quadcopter Drone Parking mobile application (the “Service”) operated by AI Punk Studios (“us”, “we”, or “our”).
 
 Please read these Terms and Conditions carefully before using our website and mobile applications (the “Service”).
 
