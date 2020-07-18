@@ -123,7 +123,7 @@ darkmode: true
 # External url should start with http:// or https://
 menu:
   home: / || home
-  #about: /hakkimda/ || user
+  about: https://web.farukcan.net || user
   #contact: /iletisim/ || address-book
   #projects: /projelerim/ || tasks
   games: https://web.farukcan.net/games || car
