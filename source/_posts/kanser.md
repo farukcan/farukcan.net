@@ -5,7 +5,7 @@ author: farukcan
 date: 2016-12-05 14:54:38
 post_excerpt: ""
 layout: post
-published: true
+published: false
 category:
   - felsefe
 tags:
