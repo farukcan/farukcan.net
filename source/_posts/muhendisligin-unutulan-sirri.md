@@ -19,7 +19,7 @@ Okuma yazmayı kalemle öğrendik. İlkokul ve ortaokul hayatımızı kalem ile 
 Kalemle kurulan bu bağımız nöronlar düzeyindedir. Beynimizde eğitim, öğrenme ve gelişim gibi kavramlar kalem ile dallandı, budaklandı.
 Fakat özellikle biz yazılım mühendisleri kalemle bağımızı unuttuk, çünkü onun başka bir rakibi vardı; Klavye.
 
-Y ve X kuşağınından bir bireyseniz, beyninizde kalem ile kurulan bağın klavyeyle olandan daha derin olduğu kesindir. X kuşağından iseniz, klavyenin belki ona yaklaşma ihtimali vardır.
+Y ve X kuşağınından bir bireyseniz, beyninizde kalem ile kurulan bağın klavyeyle olandan daha derin olduğu kesindir. Z kuşağından iseniz, klavyenin belki ona yaklaşma ihtimali vardır.
 Fakat asla kalem kadar çok yönlü değildir.
 Beyin , Sinir ve Kas birbiriyle aşırı bağlantılı bir üçgen oluşturur.
 Kalemin hassasiyeti, kullanılan kas sayısı ve beyinle bağlantısı ve atasal geçmişimizle uyumu daha derindir. 
