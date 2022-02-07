@@ -7,7 +7,7 @@ author: farukcan
 date: 2017-01-09 15:35:30
 post_excerpt: ""
 layout: post
-published: true
+published: false
 category:
   - Felsefe
 tags:
