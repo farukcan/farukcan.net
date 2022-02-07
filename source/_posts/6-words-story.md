@@ -5,7 +5,7 @@ author: farukcan
 date: 2016-09-17 12:59:58
 post_excerpt: ""
 layout: post
-published: true
+published: false
 category:
   - Edebiyat
 tags:
